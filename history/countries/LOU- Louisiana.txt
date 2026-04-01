@@ -17,3 +17,9 @@ set_popularities = {
 	paternal_autocrat = 100
 	
 }
+
+recruit_character = LOU_uss_anchorage
+recruit_character = LOU_uss_kansas
+recruit_character = LOU_uss_anchorage
+recruit_character = LOU_uss_georgia
+recruit_character = LOU_uss_halford
