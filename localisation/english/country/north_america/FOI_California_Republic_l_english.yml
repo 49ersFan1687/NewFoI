@@ -1,6 +1,6 @@
 ﻿l_english:
 
-CAL:0 "California Focus Tree"
+ CAL:0 "California Focus Tree"
 
 ####################################
 ### Events - California Republic ###
@@ -16,6 +16,11 @@ CAL_start.2.a: ""
 CAL_start.3.t: ""
 CAL_start.3.d: ""
 CAL_start.3.a: ""
+
+###################################
+### Ideas - California Republic ###
+###################################
+CAL_uncertain_junta: "The Uncertain Junta"
 
 ######################################
 ### Tooltips - California Republic ###
