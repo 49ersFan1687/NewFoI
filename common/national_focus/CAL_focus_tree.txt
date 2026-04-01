@@ -1773,7 +1773,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_revitalized_military_medical_infastructure
-    icon = GFX
+    icon = GFX_focus_CAL_revitalized_military_medical_infastructure
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
