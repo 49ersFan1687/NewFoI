@@ -1,0 +1,340 @@
+characters = {
+    #######################
+    ### Country Leaders ###
+    #######################
+    NCA_yugi_moto = {
+        name = NCA_yugi_muto
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        country_leader = {
+            desc = "POLITICS_YUGI_MUTO_DESC"
+            expire = "1995.8.20"
+            ideology = democratic_stratocracy_ideology
+            traits = {
+                
+            }
+        }
+        field_marshal = {
+            traits = {
+                politically_connected
+                infantry_officer
+                infantry_leader
+                infantry_expert
+                commando
+                young_leader
+            }
+            skill = 3
+            attack_skill = 3
+            defense_skill = 3
+            planning_skill = 4
+            logistics_skill = 3
+        }
+    }
+
+    ########################
+	### Country Advisors ###
+	########################
+
+
+
+    #################################################################
+    ### Northern Second Continental Army Command - Field Marshals ###
+	#################################################################
+    NCA_seto_kaiba = {
+        name = NCA_seto_kaiba
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        field_marshal = {
+            traits = {
+                media_personality
+                young_leader
+                briliant_strategist
+                offensive_doctrine
+                infantry_leader
+            }
+            skill = 3
+            attack_skill = 3
+            defense_skill = 3
+            planning_skill = 5
+            logistics_skill = 5
+        }
+    }
+
+    #############################
+	### Generals - Level Five ###
+	#############################
+
+
+
+    #############################
+	### Generals - Level Four ###
+	#############################
+
+
+
+    ##############################
+	### Generals - Level Three ###
+	##############################
+     NCA_joey_wheeler = {
+        name = NCA_joey_wheeler
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        corps_commander = {
+            traits = {
+                
+            }
+            attack_skill = 
+            defense_skill =
+            planning_skill = 
+            logistics_skill = 
+        }
+    }
+
+
+    ############################
+	### Generals - Level Two ###
+	############################
+
+
+
+    ############################
+	### Generals - Level One ###
+	############################
+
+    NCA_john_knight_waters = {
+        name = NCA_john_knight_waters
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        corps_commander = {
+            traits = { }
+            attack_skill = 
+            defense_skill =
+            planning_skill = 
+            logistics_skill = 
+        }
+    }
+
+    NCA_barksdale_hamlett_jr = {
+        name = NCA_barksdale_hamlett_jr
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        corps_commander = {
+            traits = { }
+            attack_skill = 
+            defense_skill =
+            planning_skill = 
+            logistics_skill = 
+        }
+    }
+
+    NCA_earle_gilmore_wheeler = {
+        name = NCA_earle_gilmore_wheeler
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        corps_commander = {
+            traits = { }
+            attack_skill = 
+            defense_skill =
+            planning_skill = 
+            logistics_skill = 
+        }
+    }
+
+    NCA_walter_kreuger = {
+        name = NCA_walter_kreuger
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        corps_commander = {
+            traits = { }
+            attack_skill = 
+            defense_skill =
+            planning_skill = 
+            logistics_skill = 
+        }
+    }
+
+    NCA_albert_coady_wedemeyer = {
+        name = NCA_albert_coady_wedemeyer
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        corps_commander = {
+            traits = { }
+            attack_skill = 
+            defense_skill =
+            planning_skill = 
+            logistics_skill = 
+        }
+    }
+
+    NCA_edmund_bristol_gregory = {
+        name = NCA_edmund_bristol_gregory
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        corps_commander = {
+            traits = { }
+            attack_skill = 
+            defense_skill =
+            planning_skill = 
+            logistics_skill = 
+        }
+    }
+
+    NCA_james_alward_van_fleet = {
+        name = NCA_james_alward_van_fleet
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        corps_commander = {
+            traits = { }
+            attack_skill = 
+            defense_skill =
+            planning_skill = 
+            logistics_skill = 
+        }
+    }
+
+    NCA_george_edward_stratemeyer = {
+        name = NCA_george_edward_stratemeyer
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        corps_commander = {
+            traits = { }
+            attack_skill = 
+            defense_skill =
+            planning_skill = 
+            logistics_skill = 
+        }
+    }
+
+    # Admirals #
+    NCA_Willis_Augustus_Lee = {
+        name = NCA_Willis_Augustus_Lee
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        navy_leader = {
+            desc = 
+            traits = {  }
+            skill = 
+            attack_skill = 
+            defense_skill = 
+            maneuvering_skill = 
+            coordination_skill =
+
+        }
+    }
+
+    NCA_arthur_schuyler_carpender = {
+        name = NCA_arthur_schuyler_carpender
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        navy_leader = {
+            desc = 
+            traits = {  }
+            skill = 
+            attack_skill = 
+            defense_skill = 
+            maneuvering_skill = 
+            coordination_skill =
+
+        }
+    }
+
+    NCA_hugh_nathaniel_mulzac = {
+        name = NCA_hugh_nathaniel_mulzac
+        portraits = {
+            civilian = {
+                large = GFX_fish
+            }
+            army = {
+                large = GFX_fish
+            }
+        }
+        navy_leader = {
+            desc = 
+            traits = {  }
+            skill = 
+            attack_skill = 
+            defense_skill = 
+            maneuvering_skill = 
+            coordination_skill =
+
+        }
+    }
+}

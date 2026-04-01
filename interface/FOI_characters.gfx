@@ -1,0 +1,440 @@
+spriteTypes = {
+	# SDNL #
+	spriteType = {
+		name = "GFX_SDNL_Budyonny"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_semyon_mikhailovich_budyonny.dds"
+	}
+	spriteType = {
+		name = "GFX_SDNL_Tukhachevsky"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_mikhail_nikolayevich_tukhachevsky.dds"
+	}
+	spriteType = {
+		name = "GFX_SDNL_Zhukov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_georgy_konstantinovich_zhukov.dds"
+	}
+	spriteType = {
+		name = "GFX_SDNL_Frunze"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_mikhail_vasilievich_frunze.dds"
+	}
+	spriteType = {
+		name = "GFX_SDNL_Yazov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Dimitry_Timofeyevich_Yazov.dds"
+	}
+	spriteType = {
+		name = "GFX_SDNL_Sokolovsky"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Vasily_Danilovich_Sokolovsky.dds"
+	}
+
+	# German Faction #
+	spriteType = {
+		name = "GFX_ROM_Antonescu"
+		textureFile = "gfx/leaders/GER_FACTION/IonAntonescu.png"
+	}
+	spriteType = {
+		name = "GFX_IRE_Valera"
+		textureFile = "gfx/leaders/GER_FACTION/EamonDeValera.png"
+	}
+	spriteType = {
+		name = "GFX_ENG_Mosley"
+		textureFile = "gfx/leaders/GER_FACTION/OswaldMosley.png"
+	}
+
+	# Russia #
+	spriteType = {
+		name = "GFX_Lazar_WSS"
+		textureFile = "gfx/leaders/Russia/LazarKaganovich.png"
+	}
+	spriteType = {
+		name = "GFX_Suslov_WSS"
+		textureFile = "gfx/leaders/Russia/MikhailSuslov.png"
+	}
+	# Bermuda Accords #
+	spriteType = {
+		name = "GFX_Dickens_BAT"
+		textureFile = "gfx/leaders/Bermuda/Charles_Dickens_BAT.png"
+	}
+	# Africa #
+	spriteType = {
+		name = "GFX_Ahmed_GNA"
+		textureFile = "gfx/leaders/Africa/AhmedGuinea.png"
+	}
+	spriteType = {
+		name = "GFX_Maurice_BUR"
+		textureFile = "gfx/leaders/Africa/MauriceVolta.png"
+	}
+	spriteType = {
+		name = "GFX_Leopold_SEN"
+		textureFile = "gfx/leaders/Africa/LeopoldSenegal.png"
+	}
+
+	# Washington Provisional Government #
+	spriteType = {
+		name = "GFX_D_Milford_WGP"
+		textureFile = "gfx/leaders/WGP/WGP_dwayne_milford.dds"
+	}
+
+	# Rhode Island #
+	spriteType = {
+		name = "GFX_Congress_Of_Providence_RDI"
+		textureFile = "gfx/leaders/RDI/RDI_congress_of_providence.png"
+	}
+	spriteType = {
+		name = "GFX_Frank_Belknap_RDI"
+		textureFile = "gfx/leaders/RDI/RDI_frank_belknap_long.png"
+	}
+	spriteType = {
+		name = "GFX_Barlow_RDI"
+		textureFile = "gfx/leaders/RDI/RDI_r_h_barlow.png"
+	}
+
+	#Asia
+	spriteType = {
+		name = "GFX_Abdukerim_Abbasov_SIK"
+		textureFile = "gfx/leaders/Asia/Abdukerim_Abbasov.png"
+	}
+	#American Warlords
+	spriteType = {
+		name = "GFX_George_Leader_PEN"
+		textureFile = "gfx/leaders/America/George_M_Leader.png"
+	}
+		spriteType = {
+		name = "GFX_Boochkin_ELI"
+		textureFile = "gfx/leaders/America/Murray_Boochkin.png"
+	}
+	spriteType = {
+		name = "GFX_ARZ_Barry_Morris_Goldwater"
+		textureFile = "gfx/leaders/ARZ/Portrait_ARZ_Barry_Morris_Goldwater.dds"
+	}
+	spriteType = {
+		name = "GFX_AVD_Isaac_Asimov"
+		textureFile = "gfx/leaders/America/Isaac_Asimov.png"
+	}
+	spriteType = {
+		name = "GFX_Howard_Ichord_MMG"
+		textureFile = "gfx/leaders/America/RichardHowardIchordJr.png"
+	}
+	spriteType = {
+		name = "GFX_Woody_IOS"
+		textureFile = "gfx/leaders/America/WoodyGuthrie.png"
+	}
+	spriteType = {
+		name = "GFX_Leslie_Arends_ILL"
+		textureFile = "gfx/leaders/America/LeslieCArends.png"
+	}
+
+	# Michigan #
+	spriteType = {
+		name = "GFX_Lombardo_MCH"
+		textureFile = "gfx/leaders/MCH/GaetanoAlbertoLombardo.png"
+	}
+	spriteType = {
+		name = "GFX_Sydney_Novak_MCH"
+		textureFile = "gfx/leaders/MCH/SydneyNovak.png"
+	}
+	spriteType = {
+		name = "GFX_Harry_Crerar_MCH"
+		textureFile = "gfx/leaders/MCH/HarryCrerar.png"
+	}
+	spriteType = {
+		name = "GFX_John_Turner_MCH"
+		textureFile = "gfx/leaders/MCH/JohnTurner.png"
+	}
+	spriteType = {
+		name = "GFX_Mennen_Williams_MCH"
+		textureFile = "gfx/leaders/MCH/GMennenWilliams.png"
+	}
+	spriteType = {
+		name = "GFX_H_H_Lewis_MCH"
+		textureFile = "gfx/leaders/MCH/HHLewis.png"
+	}
+	# American National Republic #
+	spriteType = {
+		name = "GFX_Coughlin_ANR"
+		textureFile = "gfx/leaders/ANR/CharlesCoughlin.png"
+	}
+	spriteType = {
+		name = "GFX_Strom_ANR"
+		textureFile = "gfx/leaders/ANR/StromThurmonds.png"
+	}
+	spriteType = {
+		name = "GFX_Wallace_White_ANR"
+		textureFile = "gfx/leaders/ANR/WallaceWhite.png"
+	}
+
+	# France #
+	spriteType = {
+		name = "GFX_Petain_FRA"
+		textureFile = "gfx/leaders/France/PhilippePetain.png"
+	}
+	spriteType = {
+		name = "GFX_Laval_FRA"
+		textureFile = "gfx/leaders/France/PierreLaval.png"
+	}
+
+	# California #
+	spriteType = {
+		name = "GFX_CAL_Arleigh_Albert_Burke"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Arleigh_Albert_Burke.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Benjamin_Oliver_Davis_Sr"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Benjamin_Oliver_Davis_Sr.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Charity_Edna_Adams_Earley"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Charity_Edna_Adams_Earley.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Charles_Hartwell_Bonesteel_III"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Charles_Hartwell_Bonesteel_III.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Chester_William_Nimitz"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Chester_William_Nimitz.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Claire_Lee_Chennault"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Claire_Lee_Chennault.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Creighton_Williams_Abrams_Jr"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Creighton_Williams_Abrams_Jr.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Curtis_Emerson_Lemay"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Curtis_Emerson_Lemay.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Dwight_David_Eisenhower"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Dwight_David_Eisenhower.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Elizabeth_Coleman"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Elizabeth_Coleman.dds" 
+	}
+	spriteType = {
+		name = "GFX_CAL_Ernest_Joseph_King"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Ernest_Joseph_King.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Felix_Budwell_Stump"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Felix_Budwell_Stump.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_George_Catlett_Marshall"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_George_Catlett_Marshall.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_George_Smith_Patton_Jr"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_George_Smith_Patton_Jr.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Glynda_Goodwitch"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Glynda_Goodwitch.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Hayes_Kroner"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Hayes_Adlai_Ashby_Clarke_Kroner.dds" 
+	}
+	spriteType = {
+		name = "GFX_CAL_Henry_Agard_Wallace"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Henry_Agard_Wallace.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Henry_Harley_Arnold"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Henry_Harley_Arnold.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Hobart_Raymond_Gay"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Hobart_Raymond_Gay.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Huey_Pierce_Long_Jr"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Huey_Pierce_Long_Jr.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Issac_Campbell_Kidd_Sr"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Issac_Campbell_Kidd_Sr.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Jacob_Loucks_Devers"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Jacob_Loucks_Devers.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_James_Cordie_Dozier"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_James_Cordie_Dozier.dds" 
+	}
+	spriteType = {
+		name = "GFX_CAL_James_Harold_Doolittle"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_James_Harold_Doolittle.dds" 
+	}
+	spriteType = {
+		name = "GFX_CAL_John_Daniel_Lavelle"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_John_Daniel_Lavelle.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Joseph_May_Swing"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Joseph_May_Swing.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Leonard_Townsend_Gerow"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Leonard_Townsend_Gerow.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Chesty_Puller"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Lewis_Burwell_Puller.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Lucian_King_Truscott"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Lucian_King_Truscott.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Mark_Wayne_Clark"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Mark_Wayne_Clark.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Maxwell_Davenport_Taylor"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Maxwell_Davenport_Taylor.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Omar_Nelson_Bradley"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Omar_Nelson_Bradley.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Samuel_Lee_Gravely_Jr"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Samuel_Lee_Gravely_Jr.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Simon_Bolivar_Buckner_Jr"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Simon_Bolivar_Buckner_Jr.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Smedley_Darlington_Butler"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Smedley_Darlington_Butler.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Ulysses_Simpson_Grant_III"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Ulysses_Simpson_Grant_III.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_Walton_Harris_Walker"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Walton_Harris_Walker.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_William_Childs_Westmoreland"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_William_Childs_Westmoreland.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_William_Daniel_Leahy"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_William_Daniel_Leahy.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_William_Fredrick_Halsey_Jr"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_William_Fredrick_Halsey_Jr.dds"
+	}
+	spriteType = {
+		name = "GFX_CAL_John_Lesesne_DeWitt"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_John_Lesesne_DeWitt.dds" 
+	}
+	spriteType = {
+		name = "GFX_CAL_Daring_Do"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Daring_Do.dds" 
+	}
+
+	# Cascadia - Power Rangers Characters #
+
+	spriteType = {
+		name = "GFX_CSD_Jason_Lee_Scott"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Jason_Lee_Scott.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Tommy_Oliver"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Tommy_Oliver.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Zack_Taylor"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Zack_Taylor.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Billy_Cranston"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Billy_Cranston.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Kimberly_Ann_Hart"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Kimberly_Ann_Hart.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Trini_Kwan"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Trini_Kwan.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Rocky_De_Santos"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Rocky_De_Santos.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Adam_Park"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Adam_Park.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Aisha_Campbell"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Aisha_Campbell.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Katherine_Hillard"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Katherine_Hillard.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Tanya_Sloan"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Tanya_Sloan.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Theodore_Jarvis_Johnson"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Theodore_Jarvis_Johnson.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Ashley_Hammond"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Ashley_Hammond.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Cassie_Chan"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Cassie_Chan.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Carlos_Vallerte"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Carlos_Vallerte.dds"
+	}
+
+	# Cascadia - RWBY Characters #
+	spriteType = {
+		name = "GFX_CSD_Ruby_Rose"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Ruby_Rose.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Weiss_Schnee"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Weiss_Schnee.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Blake_Belladonna"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Blake_Belladonna.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Yang_Xiao_Long"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Yang_Xiao_Long.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Jaune_Arc"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Jaune_Arc.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Nora_Valkyrie"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Nora_Valkyrie.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Pyrrha_Nikos"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Pyrrha_Nikos.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Lie_Ren"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Lie_Ren.dds"
+	}
+}
