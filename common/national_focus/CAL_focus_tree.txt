@@ -33,7 +33,6 @@ focus_tree = {
     shared_focus = CAL_dealing_with_regionalists
     shared_focus = CAL_handling_the_political_system
     shared_focus = CAL_expanding_the_california_military_into_something_more_than_a_local_force
-    shared_focus = CAL_the_west_coast_under_one_flag
     shared_focus = CAL_the_west_coast_under_the_wallace_administration
     shared_focus = CAL_the_west_coast_under_the_second_continental_army
     continuous_focus_position = { x = 450 y = 200 }
