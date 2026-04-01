@@ -1134,7 +1134,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_revive_the_minutemen
-     icon = GFX
+     icon = GFX_focus_CAL_revive_the_minutemen
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1156,7 +1156,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_reimplement_conscription
-     icon = GFX
+     icon = GFX_focus_CAL_reimplement_conscription
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
