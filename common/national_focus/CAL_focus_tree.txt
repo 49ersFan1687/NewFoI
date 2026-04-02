@@ -1282,7 +1282,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_arms_companies_subsidies
-    icon = GFX
+    icon = GFX_focus_CAL_arms_companies_subsidies
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1603,7 +1603,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_create_the_war_research_department
-    icon = GFX
+    icon = GFX_focus_CAL_create_the_war_research_department
 	cost = 5
 	available_if_capitulated = no
 	ai_will_do = {
