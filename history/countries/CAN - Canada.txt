@@ -42,6 +42,7 @@ recruit_character = CAN_Louis_Stephen_St_Laurent
 ### British Exiles Generals ###
 ###############################
 recruit_character = CAN_bernard_law_montgomery
+recruit_character = CAN_harold_rupert_leofric_george_alexander
 
 create_faction = "Bermuda Accords"
 add_to_faction = FFR
