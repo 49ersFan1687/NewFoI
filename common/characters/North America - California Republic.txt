@@ -965,6 +965,7 @@ characters = {
 				politically_connected
 				winter_expert
 			}
+			skill = 3
             attack_skill = 3
             defense_skill = 2
             planning_skill = 2

@@ -1,6 +1,6 @@
 ﻿l_english:
 
-CAL:0 "California Focus Tree"
+ CAL:0 "California Focus Tree"
 
 ####################################
 ### Events - California Republic ###
@@ -17,13 +17,18 @@ CAL_start.3.t: ""
 CAL_start.3.d: ""
 CAL_start.3.a: ""
 
+###################################
+### Ideas - California Republic ###
+###################################
+CAL_uncertain_junta: "The Uncertain Junta"
+
 ######################################
 ### Tooltips - California Republic ###
 ######################################
 CAL_the_long_retreat_west_tt: "§YOur country may have been shattered by the evils of National Socialism, but we will return!§!"
 CAL_protecting_our_borders_tt: "§YWe shall choose to protect our mexican border, as we are in a very precarious situation.§!"
 CAL_mexican_negotations_tt: "§YWe will negotiate with the Mexicans, allowing for trade to help improve our weak economy.§!"
-
+CAL_fortieth_armored_tt: "A new §Yarmored division§! shall be trained and equipped for future battles ahead."
 ###############################################
 ### Political Parties - California Republic ###
 ###############################################
