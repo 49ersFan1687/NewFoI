@@ -301,6 +301,10 @@ spriteTypes = {
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Omar_Nelson_Bradley.dds"
 	}
 	spriteType = {
+		name = "GFX_CAL_Provisional_Council"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Provisional_Council.dds"
+	}
+	spriteType = {
 		name = "GFX_CAL_Samuel_Lee_Gravely_Jr"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Samuel_Lee_Gravely_Jr.dds"
 	}

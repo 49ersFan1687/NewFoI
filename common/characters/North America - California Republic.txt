@@ -19,6 +19,23 @@ characters = {
 		}
     }
 
+	CAL_provisional_council = {
+		name = CAL_provisional_council
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAL/Portrait_CAL_Provisional_Military_Council.dds"
+			}
+		}
+		country_leader = {
+			#desc = dont' leave equal symbol empty "POLITICS_HENRY_WALLACE_DESC"
+			expire = "1994.4.20"
+			ideology = provisional_government_ideology
+			traits = {
+
+			}
+		}
+	}
+
 	##############################################
 	### Country Advisors - Heads of Government ###
 	##############################################

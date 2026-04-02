@@ -66,6 +66,7 @@ CAL_warlord_generals_integration_category_desc: "Many of the American Warlords h
 ########################################
 ### Character Localization - Leaders ###
 ########################################
+CAL_provisional_council: "Provisional Council of the United States"
 CAL_henry_agard_wallace: "Henry Agard Wallace"
 CAL_huey_pierce_long_jr: "Huey Pierce Long Jr."
 
