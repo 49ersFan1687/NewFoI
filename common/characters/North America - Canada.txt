@@ -67,10 +67,10 @@ characters = {
         name = CAN_bernard_law_montgomery
         portraits = {
             civilian = {
-                large = "gfx/leaders/CAL/Portrait_CAN_Bernard_Law_Montgomery.dds"
+                large = "gfx/leaders/CAN/Portrait_CAN_Bernard_Law_Montgomery.dds"
             }
             army = {
-                large = "gfx/leaders/CAL/Portrait_CAN_Bernard_Law_Montgomery.dds"
+                large = "gfx/leaders/CAN/Portrait_CAN_Bernard_Law_Montgomery.dds"
             }
         }
         field_marshal = {
