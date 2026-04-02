@@ -53,9 +53,7 @@ characters = {
 	CAL_earl_warren = {
 		name = CAL_earl_warren
 		portraits = {
-			civillian = {
-
-			}
+			
 		}
 		advisor = {
 			slot = slot_hog
@@ -74,9 +72,7 @@ characters = {
 	CAL_thomas_edmund_dewey = {
 		name = CAL_thomas_edmund_dewey
 		portraits = {
-			civillian = {
-
-			}
+			
 		}
 		advisor = {
 			slot = slot_hog
@@ -95,9 +91,7 @@ characters = {
 	CAL_walter_elias_disney = {
 		name = CAL_walter_elias_disney
 		portraits = {
-			civillian = {
-
-			}
+			
 		}
 		advisor = {
 			slot = slot_hog
@@ -116,8 +110,8 @@ characters = {
 	CAL_howard_robard_hughes_jr = {
 		name = CAL_howard_robard_hughes_jr
 		portraits = {
-			civillian = {
-
+			civilian = {
+				small = GFX_fish
 			}
 		}
 		advisor = {
@@ -137,8 +131,8 @@ characters = {
 	CAL_alben_william_barkley = {
 		name = CAL_alben_william_barkley
 		portraits = {
-			civillian = {
-
+			civilian = {
+				small = GFX_fish
 			}
 		}
 		advisor = {
@@ -158,8 +152,8 @@ characters = {
 	CAL_james_byron_dean = {
 		name = CAL_james_byron_dean
 		portraits = {
-			civillian = {
-
+			civilian = {
+				small = GFX_fish
 			}
 		}
 		advisor = {
@@ -179,7 +173,7 @@ characters = {
 	CAL_dean_gooderham_acherson = {
 		name = CAL_dean_gooderham_acherson
 		portraits = {
-			civillian = {
+			civilian = {
 				small = GFX_fish
 			}
 		}
@@ -209,7 +203,7 @@ characters = {
 			}
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Dwight_David_Eisenhower.dds"
-				small = GFX_fish
+				#small = GFX_fish
 			}
 		}
 		field_marshal = {
@@ -218,7 +212,7 @@ characters = {
 				logistics_wizard
 				offensive_doctrine
 				panzer_leader
-				cautious organizer
+				cautious
 				politically_connected
 			}
 			skill = 5
@@ -230,7 +224,7 @@ characters = {
 		advisor = {
 			cost = 200
 			slot = army_theorist
-			idea_token = dwight_david_eisenhower
+			idea_token = dwight_david_eisenhower_idea
 			ledger = army
 			traits = {
 				superior_firepower_expert
@@ -369,7 +363,7 @@ characters = {
 			}
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_George_Smith_Patton_Jr.dds"
-				small = 
+				#small = 
 			}
 		}
 		corps_commander = {
@@ -603,7 +597,7 @@ characters = {
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Smedley_Darlington_Butler.dds"
-				small = 
+				#small = 
 			}
 		}
 		corps_commander = {

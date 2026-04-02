@@ -1,7 +1,0 @@
-characters = {
-
-    # Second Continental Army - U.A. High School 1B Faction - Field Marshals #
-    # Second Continental Army - U.A. High School 1B Faction - Generals #
-    # Nevada Vytal Clique - Field Marshals #
-    # Nevada Vytal Clique - Generals #
-}
