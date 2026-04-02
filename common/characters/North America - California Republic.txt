@@ -54,7 +54,7 @@ characters = {
 		name = CAL_earl_warren
 		portraits = {
 			civillian = {
-
+				large = GFX_fish
 			}
 		}
 		advisor = {
@@ -75,7 +75,7 @@ characters = {
 		name = CAL_thomas_edmund_dewey
 		portraits = {
 			civillian = {
-
+				large = GFX_fish
 			}
 		}
 		advisor = {
@@ -96,7 +96,7 @@ characters = {
 		name = CAL_walter_elias_disney
 		portraits = {
 			civillian = {
-
+				large = GFX_fish
 			}
 		}
 		advisor = {
@@ -117,7 +117,7 @@ characters = {
 		name = CAL_howard_robard_hughes_jr
 		portraits = {
 			civillian = {
-
+				large = GFX_fish
 			}
 		}
 		advisor = {
@@ -138,7 +138,7 @@ characters = {
 		name = CAL_alben_william_barkley
 		portraits = {
 			civillian = {
-
+				large = GFX_fish
 			}
 		}
 		advisor = {
@@ -159,7 +159,7 @@ characters = {
 		name = CAL_james_byron_dean
 		portraits = {
 			civillian = {
-
+				large = GFX_fish
 			}
 		}
 		advisor = {
