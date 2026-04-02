@@ -554,7 +554,7 @@ characters = {
 		}
 		advisor = {
 			cost = 150
-			slot = army_chief
+			slot = chief_of_army
 			idea_token = walton_harris_walker
 			ledger = army
 			traits = { 
@@ -588,7 +588,7 @@ characters = {
 		}
 		advisor = {
 			cost = 150
-			slot = army_chief
+			slot = chief_of_army
 			idea_token = glynda_goodwitch
 			ledger = army
 			traits = { 
