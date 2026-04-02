@@ -19,11 +19,11 @@ characters = {
 		}
     }
 
-	CAL_provisional_council = {
+	CAL_provisional_council = { ### Starting Council ###
 		name = CAL_provisional_council
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/CAL/Portrait_CAL_Provisional_Military_Council.dds"
+				large = "gfx/leaders/CAL/Portrait_CAL_Provisional_Council.dds"
 			}
 		}
 		country_leader = {
