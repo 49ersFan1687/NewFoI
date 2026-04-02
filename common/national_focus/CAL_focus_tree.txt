@@ -549,7 +549,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_march_air_force_base
-    icon = GFX
+    icon = GFX_focus_CAL_march_air_force_base
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
