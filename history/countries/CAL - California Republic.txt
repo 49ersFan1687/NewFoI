@@ -120,6 +120,7 @@ recruit_character = CAL_lewis_burwell_puller
 recruit_character = CAL_john_fujio_aiso
 recruit_character = CAL_simon_bolivar_buckner_jr
 recruit_character = CAL_charles_hartwell_bonesteel_iii
+recruit_character = CAL_joseph_may_swing
 
 #############
 ## US Navy ##
