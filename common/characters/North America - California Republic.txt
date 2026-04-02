@@ -10,7 +10,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			desc = "POLITICS_HENRY_WALLACE_DESC"
+			#desc = dont' leave equal symbol empty "POLITICS_HENRY_WALLACE_DESC"
 			expire = "1994.4.20"
 			ideology = social_democratic_progressive_democracy_ideology
 			traits = {
@@ -30,7 +30,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			desc = "POLITICS_HUEY_LONG_DESC"
+			#desc = dont' leave equal symbol empty "POLITICS_HUEY_LONG_DESC"
 			expire = "1994.4.20"
 			ideology = social_democratic_longism_ideology
 			traits = {
@@ -58,7 +58,7 @@ characters = {
 			}
 		}
 		advisor = {
-			slot = 
+			slot = slot_hog
 			idea_token = CAL_earl_warren_hog
 			allowed = { original_tag = CAL }
 			traits = {
@@ -79,7 +79,7 @@ characters = {
 			}
 		}
 		advisor = {
-			slot = 
+			slot = slot_hog
 			idea_token = CAL_thomas_edmund_dewey_hog
 			allowed = { original_tag = CAL }
 			traits = {
@@ -100,7 +100,7 @@ characters = {
 			}
 		}
 		advisor = {
-			slot = 
+			slot = slot_hog
 			idea_token = CAL_walter_elias_disney_hog
 			allowed = { original_tag = CAL }
 			traits = {
@@ -121,7 +121,7 @@ characters = {
 			}
 		}
 		advisor = {
-			slot = 
+			slot = slot_hog
 			idea_token = CAL_walter_elias_disney_hog
 			allowed = { original_tag = CAL }
 			traits = {
@@ -142,7 +142,7 @@ characters = {
 			}
 		}
 		advisor = {
-			slot = 
+			slot = slot_hog
 			idea_token = CAL_walter_elias_disney_hog
 			allowed = { original_tag = CAL }
 			traits = {
@@ -163,7 +163,7 @@ characters = {
 			}
 		}
 		advisor = {
-			slot = 
+			slot = slot_hog
 			idea_token = CAL_walter_elias_disney_hog
 			allowed = { original_tag = CAL }
 			traits = {
@@ -213,7 +213,7 @@ characters = {
 			}
 		}
 		field_marshal = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				logistics_wizard
 				offensive_doctrine
@@ -250,7 +250,7 @@ characters = {
 			}
 		}
 		field_marshal = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				career_officer
 				politically_connected
@@ -287,7 +287,7 @@ characters = {
 			}
 		}
 		field_marshal = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				trait_engineer
 				cautious
@@ -311,7 +311,7 @@ characters = {
 			}
 		}
 		field_marshal = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				media_personality
 				air_commander
@@ -373,7 +373,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				offensive_doctrine
 				trait_reckless
@@ -411,7 +411,7 @@ characters = {
             }
         }
         corps_commander = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
             traits = { 
 				panzer_leader
 				organizer
@@ -439,7 +439,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				brilliant_strategist
 				organizer
@@ -472,7 +472,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				panzer_leader
 				cavalry_leader
@@ -506,7 +506,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
 			traits = {
 				career_officer
 				politically_connected
@@ -538,7 +538,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				panzer_leader
 				armor_officer
@@ -571,7 +571,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
 			traits = {
 				brilliant_strategist
 				ranger
@@ -607,7 +607,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				brilliant_strategist
 				inspirational_leader
@@ -631,7 +631,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
 			traits = {
 				paratrooper
 				brilliant_strategist
@@ -655,7 +655,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				trait_engineer
 				commando
@@ -678,7 +678,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				harsh_leader
 				career_officer
@@ -701,7 +701,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				career_officer
 				organizer
@@ -724,7 +724,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				panzer_leader
 				armor_officer
@@ -749,7 +749,7 @@ characters = {
             }
         }
         corps_commander = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
             traits = {
 				infantry_leader
 				infantry_expert
@@ -775,7 +775,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				commando
 				paratrooper
@@ -798,7 +798,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				career_officer
 				trickster
@@ -820,7 +820,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				reckless
 				infantry_officer
@@ -842,7 +842,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
 			traits = {
 				cautious
 				career_officer
@@ -864,7 +864,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				career_officer
 				artillery_officer
@@ -887,7 +887,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				inflexible_strategist
 				cautious
@@ -910,7 +910,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =  
+			#desc = dont' leave equal symbol empty  
 			traits = {
 				armor_officer
 				panzer_leader
@@ -932,7 +932,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				infantry_leader
 				media_personality
@@ -958,7 +958,7 @@ characters = {
             }
         }
         corps_commander = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
             traits = {
 				organizer
 				trait_reckless
@@ -983,7 +983,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				reckless
 				media_personality
@@ -1005,7 +1005,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				engineer
 				trait_reckless
@@ -1028,7 +1028,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				skilled_staffer
 				infantry_leader
@@ -1053,7 +1053,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				trait_cautious
 				inflexible_strategist
@@ -1074,7 +1074,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				recon_expert
 				trait_reckless
@@ -1100,7 +1100,7 @@ characters = {
 			}
 		}
 		corps_commander = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				politically_connected
 				trickster
@@ -1128,7 +1128,7 @@ characters = {
 			}
 		}
 		navy_leader = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = { 
 				superior_tactician
 				aviation_enthusiast
@@ -1164,7 +1164,7 @@ characters = {
 			}
 		}
 		navy_leader = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				gentlemanly
 				naval_lineage
@@ -1204,7 +1204,7 @@ characters = {
 			}
 		}
 		navy_leader = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
 			traits = {
 				ironside
 				superior_tactician 
@@ -1233,7 +1233,7 @@ characters = {
 			}
 		}
 		navy_leader = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
 			traits = {
 				bold
 				aviation_enthusiast
@@ -1264,7 +1264,7 @@ characters = {
 			}
 		}
 		navy_leader = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				old_guard_navy
 				bold
@@ -1291,7 +1291,7 @@ characters = {
 			}
 		}
 		navy_leader = {
-			desc = 
+			#desc = dont' leave equal symbol empty 
 			traits = { 
 				superior_tactician
 				spotter
@@ -1315,7 +1315,7 @@ characters = {
 			}
 		}
 		navy_leader = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				blockade_runner
 				bold
@@ -1338,7 +1338,7 @@ characters = {
 			}
 		}
 		navy_leader = {
-			desc =
+			#desc = dont' leave equal symbol empty
 			traits = {
 				superior_tactician
 				blue_water_expert
