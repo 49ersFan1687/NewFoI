@@ -403,7 +403,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_control_the_sixth_army
-    icon = GFX_focus_taking_note_of_the_situation_in_california
+    icon = GFX_focus_CAL_control_the_sixth_army
     cost = 1
 	available_if_capitulated = no
 	ai_will_do = {
@@ -549,7 +549,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_march_air_force_base
-    icon = GFX
+    icon = GFX_focus_CAL_march_air_force_base
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -568,7 +568,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_the_pacific_coast_economy_line
-    icon = GFX
+    icon = GFX_focus_CAL_pacific_coast_economy_line
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1282,7 +1282,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_arms_companies_subsidies
-    icon = GFX
+    icon = GFX_focus_CAL_arms_companies_subsidies
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1603,7 +1603,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_create_the_war_research_department
-    icon = GFX
+    icon = GFX_focus_CAL_create_the_war_research_department
 	cost = 5
 	available_if_capitulated = no
 	ai_will_do = {

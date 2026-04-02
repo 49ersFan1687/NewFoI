@@ -53,7 +53,9 @@ characters = {
 	CAL_earl_warren = {
 		name = CAL_earl_warren
 		portraits = {
-			
+			civillian = {
+				large = GFX_fish
+			}
 		}
 		advisor = {
 			slot = slot_hog
@@ -72,7 +74,9 @@ characters = {
 	CAL_thomas_edmund_dewey = {
 		name = CAL_thomas_edmund_dewey
 		portraits = {
-			
+			civillian = {
+				large = GFX_fish
+			}
 		}
 		advisor = {
 			slot = slot_hog
@@ -91,7 +95,9 @@ characters = {
 	CAL_walter_elias_disney = {
 		name = CAL_walter_elias_disney
 		portraits = {
-			
+			civillian = {
+				large = GFX_fish
+			}
 		}
 		advisor = {
 			slot = slot_hog
@@ -111,7 +117,7 @@ characters = {
 		name = CAL_howard_robard_hughes_jr
 		portraits = {
 			civilian = {
-				small = GFX_fish
+				large = GFX_fish
 			}
 		}
 		advisor = {
@@ -152,8 +158,8 @@ characters = {
 	CAL_james_byron_dean = {
 		name = CAL_james_byron_dean
 		portraits = {
-			civilian = {
-				small = GFX_fish
+			civillian = {
+				large = GFX_fish
 			}
 		}
 		advisor = {
