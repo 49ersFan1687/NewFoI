@@ -403,7 +403,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_control_the_sixth_army
-    icon = GFX_focus_taking_note_of_the_situation_in_california
+    icon = GFX_focus_CAL_control_the_sixth_army
     cost = 1
 	available_if_capitulated = no
 	ai_will_do = {
