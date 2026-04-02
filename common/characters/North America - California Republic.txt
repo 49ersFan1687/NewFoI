@@ -392,7 +392,6 @@ characters = {
 		corps_commander = {
 			#desc = dont' leave equal symbol empty
 			traits = {
-				offensive_doctrine
 				trait_reckless
 				panzer_leader
 				armor_officer
@@ -644,7 +643,7 @@ characters = {
 		name = CAL_maxwell_davenport_taylor
 		portraits = {
 			army = {
-				large = "gfx/leaders/CAL/Portrait_CAL_Maxewell_Davenport_Taylor.dds"
+				large = "gfx/leaders/CAL/Portrait_CAL_Maxwell_Davenport_Taylor.dds"
 			}
 		}
 		corps_commander = {
@@ -656,7 +655,7 @@ characters = {
 				commando
 				war_hero
 			}
-			skill = 3
+			skill = 4
 			attack_skill = 4
 			defense_skill = 2
 			planning_skill = 3
