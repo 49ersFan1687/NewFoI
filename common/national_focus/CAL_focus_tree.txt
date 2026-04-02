@@ -568,7 +568,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_the_pacific_coast_economy_line
-    icon = GFX_focus_CAL_the_pacific_coast_economy_line
+    icon = GFX_focus_CAL_pacific_coast_economy_line
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
