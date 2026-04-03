@@ -504,7 +504,7 @@ characters = {
 			logistics_skill = 5
 		}
 		advisor = {
-			slot = high_command
+			slot = army_high_command
 			cost = 100
 			idea_token = jacob_loucks_devers
 			ledger = army
@@ -1233,7 +1233,7 @@ characters = {
 			coordination_skill = 4
 		}
 		advisor = { 
-			slot = high_command
+			slot = navy_high_command
 			cost = 100
 			idea_token = william_daniel_leahy
 			ledger = navy
@@ -1264,7 +1264,7 @@ characters = {
 			coordination_skill = 2
 		}
 		advisor = { 
-			slot = high_command
+			slot = navy_high_command
 			cost = 100
 			idea_token = william_fredrick_halsey_jr
 			ledger = navy
