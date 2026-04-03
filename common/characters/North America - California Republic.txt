@@ -827,7 +827,7 @@ characters = {
 			logistics_skill = 4
 		}
 		advisor = {
-			slot = air_force_high_command
+			slot = air_high_command
 			cost = 100
 			idea_token = james_harold_doolittle
 			ledger = air_force
