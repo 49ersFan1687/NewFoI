@@ -899,7 +899,7 @@ characters = {
 		name = CAL_john_lesesne_dewitt
 		portraits = {
 			army = {
-				large = "gfx/leaders/CAL/Portrait_CAL_John_Lesesne_DeWwitt.dds"
+				large = "gfx/leaders/CAL/Portrait_CAL_John_Lesesne_DeWitt.dds"
 			}
 		}
 		corps_commander = {
@@ -966,11 +966,8 @@ characters = {
 	CAL_simon_bolivar_buckner_jr = {
         name = CAL_simon_bolivar_buckner_jr
         portraits = {
-            civilian = {
-                large = GFX_fish
-            }
             army = {
-                large = GFX_fish
+                large = "gfx/leaders/CAL/Portrait_CAL_Simon_Bolivar_Buckner_Jr.dds"
             }
         }
         corps_commander = {
