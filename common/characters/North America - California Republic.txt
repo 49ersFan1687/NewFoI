@@ -201,7 +201,7 @@ characters = {
 			}
 		}
 		advisor = {
-			slot = foreign_minister
+			slot = slot_foreign_minister
 			idea_token = CAL_dean_gooderham_acherson_hog
 			allowed = { original_tag = CAL }
 			traits = {
