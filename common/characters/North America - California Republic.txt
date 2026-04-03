@@ -826,6 +826,13 @@ characters = {
 			planning_skill = 2
 			logistics_skill = 4
 		}
+		advisor = {
+			slot = air_force_high_command
+			cost = 100
+			idea_token = james_harold_doolittle
+			ledger = air_force
+			traits = { air_strategic_bombing_3 }
+		}
 	}
 	
 	CAL_mark_wayne_clark = {
