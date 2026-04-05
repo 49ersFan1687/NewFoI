@@ -3670,6 +3670,13 @@ shared_focus = {
     relative_position_id = CAL_service_guarantees_citizenship
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_eisenhowers_triumph"
+        add_country_leader_role = {
+            character = CAL_dwight_david_eisenhower
+            promote_leader = yes
+            country_leader = {
+                ideology = democratic_stratocracy_ideology
+            }
+        }
     }
 }
 
