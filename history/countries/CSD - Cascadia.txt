@@ -44,34 +44,11 @@ recruit_character = CSD_yuki_kashiwagi
 recruit_character = CSD_jurina_matsui
 
 # Second Continental Army Cascadian Branch - United States Army Rangers (It's morphin' time!) #
-recruit_character = CSD_jason_lee_scott
-recruit_character = CSD_tommy_oliver
-recruit_character = CSD_zack_taylor
-recruit_character = CSD_billy_cranston
-recruit_character = CSD_kimberly_ann_hart
-recruit_character = CSD_trini_kwan
-recruit_character = CSD_rocky_de_santos
-recruit_character = CSD_adam_park
-recruit_character = CSD_aisha_campbell
-recruit_character = CSD_katherine_hillard
-recruit_character = CSD_tanya_sloan
-recruit_character = CSD_theodore_jarvis_johnson
-recruit_character = CSD_ashley_hammond
-recruit_character = CSD_cassie_chan
-recruit_character = CSD_carlos_vallerte
 
 # Second Continental Army Cascadian Branch - Equestrian Generals (Friendship is Magic!) #
 
 
 # Second Continental Army Cascadian Branch - Vytalian Generals (Together for Remmnant!) #
-recruit_character = CSD_ruby_rose
-recruit_character = CSD_weiss_schnee
-recruit_character = CSD_blake_belladonna
-recruit_character = CSD_yang_xiao_long
-recruit_character = CSD_jaune_arc
-recruit_character = CSD_nora_valkyrie
-recruit_character = CSD_pyrrha_nikos
-recruit_character = CSD_lie_ren
 
 
 # Second Continental Army Cascadian Branch - Kuoh Academy Generals (By the eyes of the Pentagram!) #
@@ -84,7 +61,5 @@ recruit_character = CSD_lie_ren
 
 
 # Second Continental Army Cascadian Branch - Sensha-Do Students (Panzer Vor!) #
-recruit_character = CSD_kay
-recruit_character = CSD_darjeeling
 
 # Second Continental Army Cascaian Branch - Death Weapon Meister Academy Generals () #
