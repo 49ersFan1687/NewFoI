@@ -877,6 +877,14 @@ characters = {
 			planning_skill = 3
 			logistics_skill = 3
 		}
+		advisor = {
+			cost = 200
+			slot = air_chief
+			idea_token = claire_lee_chennault
+			traits = {
+				air_close_air_support_2
+			}
+		}
 	}
 	
 	CAL_joseph_may_swing = {
