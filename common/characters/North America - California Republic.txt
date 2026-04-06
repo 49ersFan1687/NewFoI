@@ -444,6 +444,15 @@ characters = {
             planning_skill = 3
             logistics_skill = 5
         }
+		advisor = {
+			cost = 150
+			slot = army_high_command
+			idea_token = creighton_williams_abrams_jr
+			ledger = army
+			traits = {
+				army_CombinedArms_2
+			}
+		}
     }
 
 	#############################
