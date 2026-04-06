@@ -248,7 +248,7 @@ characters = {
 			logistics_skill = 3
 		}
 		advisor = {
-			cost = 200
+			cost = 150
 			slot = army_theorist
 			idea_token = dwight_david_eisenhower_idea
 			ledger = army
@@ -285,7 +285,7 @@ characters = {
 			logistics_skill = 4
 		}
 		advisor = {
-			cost = 200
+			cost = 150
 			slot = army_theorist
 			idea_token = george_catlett_marshall
 			ledger = army
@@ -408,7 +408,7 @@ characters = {
 			logistics_skill = 4 
 		}
 		advisor = {
-			cost = 100
+			cost = 150
 			slot = army_theorist
 			idea_token = george_smith_patton_jr
 			ledger = army
@@ -481,7 +481,7 @@ characters = {
 			logistics_skill = 4
 		}
 		advisor = {
-			cost = 200
+			cost = 150
 			slot = army_theorist
 			idea_token = william_childs_westmoreland
 			ledger = army
