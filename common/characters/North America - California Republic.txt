@@ -193,6 +193,9 @@ characters = {
 		}
 	}
 
+	############################################
+	### Country Advisors - Foreign Ministers ###
+	############################################
 	CAL_dean_gooderham_acherson = {
 		name = CAL_dean_gooderham_acherson
 		portraits = {
