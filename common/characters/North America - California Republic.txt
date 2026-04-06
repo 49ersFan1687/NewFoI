@@ -287,7 +287,7 @@ characters = {
 			idea_token = george_catlett_marshall
 			ledger = army
 			traits = {
-				grand_battleplan_expert
+				grand_battle_plan_expert
 			}
 		}
 	}
@@ -1185,7 +1185,7 @@ characters = {
 		name = CAL_chester_william_nimitz
 		portraits = {
 			army = {
-				large = "gfx/leaders/CAL/Portrait_Chester_William_Nimitz.dds"
+				large = "gfx/leaders/CAL/Portrait_CAL_Chester_William_Nimitz.dds"
 				small = "gfx/leaders/CAL/Portrait_Chester_William_Nimitz_small.dds"
 			}
 			civilian = {
@@ -1225,7 +1225,7 @@ characters = {
 		name = CAL_william_daniel_Leahy
 		portraits = {
 			army = {
-				large = "gfx/leaders/CAL/Portrait_William_Daniel_Leahy.dds"
+				large = "gfx/leaders/CAL/Portrait_CAL_William_Daniel_Leahy.dds"
 				small = "gfx/leaders/CAL/small/Portrait_William_Daniel_Leahy_small.dds"
 			}
 			civilian = {
@@ -1257,7 +1257,7 @@ characters = {
 		name = CAL_william_fredrick_halsey_jr
 		portraits = {
 			army = {
-				large = "gfx/leaders/CAL/Portrait_William_Fredrick_Halsey_Jr.dds"
+				large = "gfx/leaders/CAL/Portrait_CAL_William_Fredrick_Halsey_Jr.dds"
 				small = "gfx/leaders/CAL/small/Portrait_William_Fredrick_Halsey_Jr_small.dds"
 			}
 		}
