@@ -21,7 +21,8 @@ add_ideas = {
 
 set_popularities = {
 	paternal_autocrat = 20
-	neutrality = 52
+	market_liberal = 12
+	neutrality = 40
 	socialism = 12
 	communism = 1
 	democratic = 5

@@ -132,7 +132,7 @@ ideologies = {
 		can_be_boosted = no
     }
 
-	### Liberal Subideologies ###
+	### Social Liberal Subideologies ###
     democratic = {
         types = {
 			liberalism_ideology = { } #Generic
@@ -164,7 +164,7 @@ ideologies = {
 		can_be_boosted = no
     }
 
-	market_libderal = {
+	market_liberal = {
 		types = {
 			market_liberalism_ideology = { }
 			free_market_capitalism_ideology = { }
