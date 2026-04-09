@@ -506,6 +506,11 @@ shared_focus = {
     relative_position_id = CAL_a_dangerous_game
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_mexican_connection"
+        ## TODO: add trade-related events
+        add_opinion_modifier = {
+            target = MEX
+            modifier = improve_relation
+        }
     }
 }
 
@@ -525,6 +530,8 @@ shared_focus = {
     relative_position_id = CAL_tighten_border_control
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_a_pioneer_republic"
+        add_stability = 0.05
+        add_war_support = 0.05
     }
 }
 
@@ -544,6 +551,171 @@ shared_focus = {
     relative_position_id = CAL_control_the_sixth_army
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_san_diego_fleet_command"
+        
+        CAL_ernest_joseph_king = {
+            add_naval_commander_role = {
+                skill = 4
+                attack_skill = 2
+                defense_skill = 3
+                planning_skill = 3
+                logistics_skill = 5
+                    traits = { 
+                    superior_tactician
+                    aviation_enthusiast
+                    blockade_runner
+                    career_officer
+                }
+            }
+            add_advisor_role = {
+                activate = yes
+                advisor = {
+                    cost = 150 
+                    slot = navy_chief
+                    idea_token = ernest_joseph_king
+                    ledger = navy
+                    traits = {
+                        navy_chief_decisive_battle_3
+                    }
+                }
+            }
+        }
+        CAL_chester_william_nimitz = {
+            add_naval_commander_role = {
+                traits = {
+                    gentlemanly
+                    naval_lineage
+                    superior_tactician
+                    spotter
+                    blue_water_expert
+                }
+                skill = 5
+                attack_skill = 3
+                defense_skill = 3
+                maneuvering_skill = 5
+                coordination_skill = 5
+            }
+            add_advisor_role = {
+                activate = yes
+                advisor = {
+                    cost = 150
+                    slot = navy_chief
+                    idea_token = chester_william_nimitz
+                    ledger = navy
+                    traits = {
+                        navy_chief_commerce_raiding_2
+                    }
+                }
+            }
+        }
+        CAL_william_daniel_Leahy = {
+            add_naval_commander_role = {
+                traits = {
+                    ironside
+                    superior_tactician 
+                }
+                skill = 4
+                attack_skill = 3
+                defense_skill = 3
+                maneuvering_skill = 3
+                coordination_skill = 4
+            }
+            add_advisor_role = {
+                activate = yes
+                advisor = { 
+                    slot = navy_high_command
+                    cost = 100
+                    idea_token = william_daniel_leahy
+                    ledger = navy
+                    traits = { navy_capital_ship_3 }
+                }
+            }
+        }
+        CAL_william_fredrick_halsey_jr = {
+            add_naval_commander_role = {
+                traits = {
+                    bold
+                    aviation_enthusiast
+                    superior_tactician
+                    spotter
+                }
+                skill = 4
+                attack_skill = 5
+                defense_skill = 3
+                maneuvering_skill = 3
+                coordination_skill = 2
+            }
+            add_advisor_role = {
+                activate = yes
+                advisor = { 
+                    slot = navy_high_command
+                    cost = 100
+                    idea_token = william_fredrick_halsey_jr
+                    ledger = navy
+                    traits = { navy_carrier_3 }
+                }
+            }
+        }
+        CAL_arleigh_albert_burke = {
+            add_naval_commander_role = {
+                #desc = dont' leave equal symbol empty
+                traits = {
+                    old_guard_navy
+                    bold
+                    fleet_protector
+                    superior_tactician
+                }
+                skill = 4
+                attack_skill = 4
+                defense_skill = 3
+                maneuvering_skill = 3
+                coordination_skill = 4
+            }
+        }
+        CAL_william_fredrick_halsey_jr = {
+            add_naval_commander_role = {
+                traits = { 
+                    superior_tactician
+                    spotter
+                    bold
+                    ironside
+                }
+                skill = 3
+                attack_skill = 2
+                defense_skill = 3
+                maneuvering_skill = 4
+                coordination_skill = 2
+            }
+        }
+        CAL_issac_campbell_kidd_sr = {
+            add_naval_commander_role = {
+                #desc = dont' leave equal symbol empty
+                traits = {
+                    blockade_runner
+                    bold
+                    fleet_protector
+                }
+                skill = 3
+                attack_skill = 3
+                defense_skill = 2
+                maneuvering_skill = 3
+                coordination_skill = 3
+            }
+        }
+        CAL_felix_budwell_stump = {
+            add_naval_commander_role = {
+                #desc = dont' leave equal symbol empty
+                traits = {
+                    superior_tactician
+                    blue_water_expert
+                }
+                skill = 3
+                attack_skill = 3
+                defense_skill = 3
+                maneuvering_skill = 3
+                coordination_skill = 3
+            }
+        }
+        ## todo: load fleet unit file in this file
     }
 }
 
@@ -563,6 +735,12 @@ shared_focus = {
     relative_position_id = CAL_control_the_sixth_army
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_march_air_force_base"
+        random_owned_state = {
+            add_building_construction = {
+                type = air_base
+                level = 2
+            }
+        }
     }
 }
 
@@ -582,6 +760,7 @@ shared_focus = {
     relative_position_id = CAL_the_mexican_connection
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CCAL_the_pacific_coast_economy_line"
+        ## TODO: add trade-related events
     }
 }
 

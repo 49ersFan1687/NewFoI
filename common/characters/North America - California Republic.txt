@@ -1168,29 +1168,6 @@ characters = {
 				small = 
 			}
 		}
-		navy_leader = {
-			#desc = dont' leave equal symbol empty
-			traits = { 
-				superior_tactician
-				aviation_enthusiast
-				blockade_runner
-				career_officer
-			}
-			skill = 5
-			attack_skill = 4
-			defense_skill = 3
-			maneuvering_skill = 3
-			coordination_skill = 6
-		}
-		advisor = {
-			cost = 150 
-			slot = navy_chief
-			idea_token = ernest_joseph_king
-			ledger = navy
-			traits = {
-				navy_chief_decisive_battle_3
-			}
-		 }
 	}
 	
 	CAL_chester_william_nimitz = {
@@ -1201,33 +1178,10 @@ characters = {
 				small = "gfx/leaders/CAL/Portrait_Chester_William_Nimitz_small.dds"
 			}
 			civilian = {
-				small = 
+				## small = jesus fucking crist fix this pls
 			}
 		}
-		navy_leader = {
-			#desc = dont' leave equal symbol empty
-			traits = {
-				gentlemanly
-				naval_lineage
-				superior_tactician
-				spotter
-				blue_water_expert
-			}
-			skill = 5
-			attack_skill = 3
-			defense_skill = 3
-			maneuvering_skill = 5
-			coordination_skill = 5
-		}
-		advisor = {
-			cost = 150
-			slot = navy_chief
-			idea_token = chester_william_nimitz
-			ledger = navy
-			traits = {
-				navy_chief_commerce_raiding_2
-			}
-		 }
+
 	}
 
 	#############################
@@ -1244,25 +1198,6 @@ characters = {
 				small = 
 			}
 		}
-		navy_leader = {
-			#desc = dont' leave equal symbol empty 
-			traits = {
-				ironside
-				superior_tactician 
-			}
-			skill = 4
-			attack_skill = 3
-			defense_skill = 3
-			maneuvering_skill = 3
-			coordination_skill = 4
-		}
-		advisor = { 
-			slot = navy_high_command
-			cost = 100
-			idea_token = william_daniel_leahy
-			ledger = navy
-			traits = { navy_capital_ship_3 }
-		}
 	}
 
 	CAL_william_fredrick_halsey_jr = {
@@ -1273,27 +1208,6 @@ characters = {
 				small = "gfx/leaders/CAL/small/Portrait_William_Fredrick_Halsey_Jr_small.dds"
 			}
 		}
-		navy_leader = {
-			#desc = dont' leave equal symbol empty 
-			traits = {
-				bold
-				aviation_enthusiast
-				superior_tactician
-				spotter
-			}
-			skill = 4
-			attack_skill = 5
-			defense_skill = 3
-			maneuvering_skill = 3
-			coordination_skill = 2
-		}
-		advisor = { 
-			slot = navy_high_command
-			cost = 100
-			idea_token = william_fredrick_halsey_jr
-			ledger = navy
-			traits = { navy_carrier_3 }
-		}
 	}
 	
 	CAL_arleigh_albert_burke = {
@@ -1303,20 +1217,6 @@ characters = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Arleigh_Albert_Burke.dds"
 				small = GFX_fish
 			}
-		}
-		navy_leader = {
-			#desc = dont' leave equal symbol empty
-			traits = {
-				old_guard_navy
-				bold
-				fleet_protector
-				superior_tactician
-			}
-			skill = 4
-			attack_skill = 4
-			defense_skill = 3
-			maneuvering_skill = 3
-			coordination_skill = 4
 		}
 	}
 
@@ -1331,20 +1231,6 @@ characters = {
 				small = GFX_fish
 			}
 		}
-		navy_leader = {
-			#desc = dont' leave equal symbol empty 
-			traits = { 
-				superior_tactician
-				spotter
-				bold
-				ironside
-			}
-			skill = 3
-			attack_skill = 2
-			defense_skill = 3
-			maneuvering_skill = 4
-			coordination_skill = 2
-		}
 	}
 
 	CAL_issac_campbell_kidd_sr = {
@@ -1355,19 +1241,6 @@ characters = {
 				small = "gfx/leaders/CAL/small/Portrait_CAL_Issac_Campbell_Kidd_Sr_small.dds"
 			}
 		}
-		navy_leader = {
-			#desc = dont' leave equal symbol empty
-			traits = {
-				blockade_runner
-				bold
-				fleet_protector
-			}
-			skill = 3
-			attack_skill = 3
-			defense_skill = 2
-			maneuvering_skill = 3
-			coordination_skill = 3
-		}
 	}
 
 	CAL_felix_budwell_stump = {
@@ -1377,18 +1250,6 @@ characters = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Felix_Budwell_Stump.dds"
 				small = "gfx/leaders/CAL/Portrait_CAL_Felix_Budwell_Stump_small.dds"
 			}
-		}
-		navy_leader = {
-			#desc = dont' leave equal symbol empty
-			traits = {
-				superior_tactician
-				blue_water_expert
-			}
-			skill = 3
-			attack_skill = 3
-			defense_skill = 3
-			maneuvering_skill = 3
-			coordination_skill = 3
 		}
 	}
 
