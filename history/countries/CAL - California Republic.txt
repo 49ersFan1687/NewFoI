@@ -25,7 +25,8 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 40
+	democratic = 30
+	market_liberal = 10
 	conservatism = 15
 	social_democracy = 13
 	socialism = 10
