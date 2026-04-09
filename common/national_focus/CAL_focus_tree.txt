@@ -417,11 +417,7 @@ shared_focus = {
     relative_position_id = CAL_the_long_dead_march_west
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_taking_note_of_the_situation_in_california"
-        hidden_effect = {
-			CAL = {
-				country_event = { id = CAL_start.2 }
-			}
-		}
+        ## todo: Add Order of Battle for 6th Army and Walter Kruger as a General
     }
 }
 
@@ -460,10 +456,11 @@ shared_focus = {
     relative_position_id = CAL_reaffirm_the_treaty_of_guadalupe_hidalgo
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_expand_the_volunteer_militias"
-        add_manpower = 10000
-        hidden_effect = {
-            load_oob = "CAL_volunteer_militias"
-        }
+        custom_effect_tooltip = CAL_volunteer_militias_tt
+        #hidden_effect = {
+        #    load_oob = "CAL_volunteer_militias"
+        #}
+        #add_manpower = 10000
     }
 }
 
@@ -483,10 +480,11 @@ shared_focus = {
     relative_position_id = CAL_a_dangerous_game
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_mercenary_gunmen_for_hire"
-        add_manpower = 10000
-        hidden_effect = {
-            load_oob = "CAL_mercenary_gunmen"
-        }
+        custom_effect_tooltip = CAL_mercenary_gunmen_tt
+        #hidden_effect = {
+        #    load_oob = "CAL_mercenary_gunmen"
+        #}
+        #add_manpower = 10000
     }
 }
 
@@ -761,6 +759,7 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CCAL_the_pacific_coast_economy_line"
         ## TODO: add trade-related events
+        ## TODO: add idea/dynamic modifier about mexican trade
     }
 }
 
@@ -806,7 +805,8 @@ shared_focus = {
     y = 1
     relative_position_id = CAL_summon_the_general_staff
     completion_reward = {
-        log = "[GetDateText]: [Root.GetName]: Focus CAL_begin_preparations_for_war"
+        log = "[GetDateText]: [Root.GetName]: Focus CAL_begin_preparations_for_war" 
+        # todo: timed idea, along with some men and equipment
     }
 }
 
@@ -826,6 +826,11 @@ shared_focus = {
     relative_position_id = CAL_begin_preparations_for_war
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_expand_the_california_national_guard"
+        add_equipment_to_stockpile = {
+			type = infantry_equipment
+			amount = 750
+			producer = CAL
+		}
     }
 }
 
@@ -925,6 +930,7 @@ shared_focus = {
     relative_position_id = CAL_expand_the_california_national_guard
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_expand_the_military_police"
+        # add dynamic modifier for Military Police
     }
     
 }
@@ -945,7 +951,11 @@ shared_focus = {
     relative_position_id = CAL_expand_the_california_national_guard
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_improved_rifle_designs"
-        
+        add_tech_bonus = {
+			ahead_reduction = 1
+			uses = 1
+			category = infantry_weapons
+		}
     }
 }
 
@@ -1008,6 +1018,11 @@ shared_focus = {
     relative_position_id = CAL_expand_the_california_national_guard
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_new_artillery_designs"
+        add_tech_bonus = {
+			bonus = 0.5
+			uses = 1
+			category = artillery
+		}
     }
 }
 
@@ -1027,6 +1042,7 @@ shared_focus = {
     relative_position_id = CAL_expand_the_california_national_guard
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_initiate_a_mass_recruitment_drive"
+        ## todo: event to decide manpower solution
     }
 }
 
@@ -1289,6 +1305,11 @@ shared_focus = {
     relative_position_id = CAL_form_the_fortieth_armored_division
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_new_tank_research"
+        add_tech_bonus = {
+			bonus = 0.75
+			uses = 3
+			category = armor
+		}
     }
 }
 
@@ -1330,6 +1351,8 @@ shared_focus = {
     relative_position_id = CAL_solving_the_manpower_problem
      completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_revive_the_minutemen"
+        ## todo: add minutemen template
+        ## todo: add minutemen idea
     }
 }
 
@@ -1595,6 +1618,11 @@ shared_focus = {
     relative_position_id = CAL_militarize_civil_police
      completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_military_police_signal_corps"
+        add_tech_bonus = {
+			bonus = 0.5
+			uses = 1
+			category = signal_company_tech
+		}
     }
 }
 
@@ -1966,6 +1994,11 @@ shared_focus = {
     relative_position_id = CAL_solving_the_manpower_problem
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_revitalized_military_medical_infastructure"
+        add_tech_bonus = {
+			bonus = 0.5
+			uses = 2
+			category = hospital_tech
+		}
     }
 }
 
@@ -1985,6 +2018,11 @@ shared_focus = {
 	relative_position_id = CAL_a_permanent_liason_to_california
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus CAL_export_canadian_equipment"
+        add_equipment_to_stockpile = {
+			type = infantry_equipment
+			amount = 750
+			producer = CAN
+		}
 	}
 }
 
@@ -2004,6 +2042,10 @@ shared_focus = {
 	relative_position_id = CAL_canadian_funded_factories
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus CAL_improving_trade_relations"
+        add_opinion_modifier = {
+            target = CAN
+            modifier = improve_relation
+        }
 	}
 }
 

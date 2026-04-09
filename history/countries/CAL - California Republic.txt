@@ -24,6 +24,18 @@ set_politics = {
 	elections_allowed = yes
 }
 
+###############
+### Puppets ###
+###############
+set_autonomy = {
+	target = NCA
+	autonomous_state = autonomy_integrated_puppet
+	freedom_level = 0.5
+}
+
+####################
+### Popularities ###
+####################
 set_popularities = {
 	democratic = 30
 	market_liberal = 10
