@@ -669,7 +669,7 @@ shared_focus = {
                 coordination_skill = 4
             }
         }
-        CAL_william_fredrick_halsey_jr = {
+        CAL_samuel_Lee_gravely_jr = {
             add_naval_commander_role = {
                 traits = { 
                     superior_tactician
