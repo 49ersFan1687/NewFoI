@@ -417,7 +417,7 @@ shared_focus = {
     relative_position_id = CAL_the_long_dead_march_west
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_taking_note_of_the_situation_in_california"
-        ## todo: Add Order of Battle for 6th Army and Walter Kruger as a General
+        ## todo: Add Order of Battle for 6th Army and Walter Kruger as a General and Possible High Command/Theorist
     }
 }
 
@@ -787,6 +787,7 @@ shared_focus = {
     relative_position_id = CAL_control_the_sixth_army
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_summon_the_general_staff"
+        #todo: have this focus add generals to the country
     }
 }
 
@@ -810,7 +811,7 @@ shared_focus = {
 			idea = CAL_preparing_for_war_idea
 			days = 280
 		}
-        # todo: timed idea, along with some men and equipment
+        # todo: timed idea, event, along with some men and equipment
     }
 }
 
@@ -854,6 +855,10 @@ shared_focus = {
     relative_position_id = CAL_begin_preparations_for_war
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_dealing_with_the_anarchy_in_our_state"
+        create_intelligence_agency = {
+            name = "Office of Strategic Services"
+            icon = ""
+        }
     }
 }
 
@@ -1077,10 +1082,7 @@ shared_focus = {
     relative_position_id = CAL_dealing_with_the_anarchy_in_our_state
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_reform_the_federal_bureau_of_investigation"
-        create_intelligence_agency = {
-            name = "Federal Bureau of Investigation"
-            icon = ""
-        }
+        add_idea = CAL_reformed_fbi
     }
 }
 
