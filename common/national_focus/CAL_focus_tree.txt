@@ -855,10 +855,6 @@ shared_focus = {
     relative_position_id = CAL_begin_preparations_for_war
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_dealing_with_the_anarchy_in_our_state"
-        create_intelligence_agency = {
-            name = "Office of Strategic Services"
-            icon = ""
-        }
     }
 }
 
