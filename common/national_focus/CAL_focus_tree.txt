@@ -3218,6 +3218,11 @@ shared_focus = {
         hidden_effect = {
             load_oob = "CAL_tenth_mountain"
         }
+        add_tech_bonus = {
+			bonus = 0.5
+			uses = 1
+			category = cat_special_forces_generic
+		}
     }
 }
 
@@ -4135,8 +4140,6 @@ shared_focus = {
     prerequisite = {
         focus = CAL_reopen_the_gi_bill
         focus = CAL_for_people_of_the_state
-    }
-    prerequisite = {
         focus = CAL_reinstate_civil_liberties
         focus = CAL_expanding_constituences
     }
