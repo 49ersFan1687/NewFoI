@@ -2433,6 +2433,10 @@ shared_focus = {
     relative_position_id = CAL_construct_northern_defensive_lines
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_crush_the_bay_area_communists"
+        create_wargoal = {
+            type = annex_everything
+            target = BAP
+        }
     }
 }
 
@@ -2452,6 +2456,10 @@ shared_focus = {
     relative_position_id = CAL_construct_northern_defensive_lines
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_purge_the_nationalists"
+        create_wargoal = {
+            type = annex_everything
+            target = CLN
+        }
     }
 }
 
@@ -2463,6 +2471,10 @@ shared_focus = {
 	ai_will_do = {
 		factor = 1
 	}
+    available = {
+        NCA = { is_puppet_of = CAL }
+        CAL = { exists = yes }
+    }
     prerequisite = {
         focus = CAL_ultimatum_to_the_river_republic
     }
@@ -2480,6 +2492,23 @@ shared_focus = {
     relative_position_id = CAL_beginning_the_california_reunfication_war
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_merge_the_central_and_northern_commands_together"
+        CAL = {
+            transfer_units_fraction = {
+                target          = NCA
+                size            = 1
+                army_ratio      = 1
+                air_ratio       = 1
+                navy_ratio      = 1
+                stockpile_ratio = 1
+                keep_unit_leaders_trigger = { always = yes }
+            }
+        }
+        every_character = { limit = { is_unit_leader = yes is_army_leader = yes } set_nationality = CAL }
+        every_character = { limit = { is_unit_leader = yes is_navy_leader = yes } set_nationality = CAL }
+        annex_country = {
+            target = NCA
+            transfer_troops = yes
+        }
     }
 }
 
