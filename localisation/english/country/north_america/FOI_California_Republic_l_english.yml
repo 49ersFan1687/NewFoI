@@ -28,9 +28,10 @@ CAL_uncertain_junta: "The Uncertain Junta"
 CAL_the_long_retreat_west_tt: "§YOur country may have been shattered by the evils of National Socialism, but we will return!§!"
 CAL_protecting_our_borders_tt: "§YWe shall choose to protect our mexican border, as we are in a very precarious situation.§!"
 CAL_mexican_negotations_tt: "§YWe will negotiate with the Mexicans, allowing for trade to help improve our weak economy.§!"
-CAL_volunteer_militias_tt: "§YVolunteer Militas shall be formed from sldiers within the Army Reserve forces, allowing for us to field more men on the field.§!"
-CAL_mercenary_gunmen_tt: ""
+CAL_volunteer_militias_tt: "§YVolunteer Militas§! shall be formed from sldiers within the Army Reserve forces, allowing for us to field more men on the field."
+CAL_mercenary_gunmen_tt: "§YMexican Mercenaries§! will be hired to assist and supplement our armed forces."
 CAL_fortieth_armored_tt: "A new §Yarmored division§! shall be trained and equipped for future battles ahead."
+CAL_reactivated_divisions_tt: "§YSeveral destroyed division§! shall be reactivated from the men in our reserve."
 
 ###############################################
 ### Political Parties - California Republic ###
