@@ -171,6 +171,16 @@ spriteTypes = {
 		textureFile = "gfx/leaders/France/PierreLaval.png"
 	}
 
+	# Canada #
+	spriteType = {
+		name = "GFX_CAN_Bernard_Law_Montgomery"
+		textureFile = "gfx/leaders/CAN/Portrait_CAN_Bernard_Law_Montgomery.dds"
+	}
+	spriteType = {
+		name = "GFX_CAN_Harold_Rupert_Leofric_George_Alexander"
+		textureFile = "gfx/leaders/CAN/Portrait_CAN_Harold_Rupert_Leofric_George_Alexander.dds"
+	}
+
 	# California #
 	spriteType = {
 		name = "GFX_CAL_Arleigh_Albert_Burke"

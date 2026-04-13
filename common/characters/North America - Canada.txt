@@ -94,10 +94,10 @@ characters = {
         name = CAN_harold_rupert_leofric_george_alexander
         portraits = {
             civilian = {
-                large = GFX_fish
+                large = "gfx/leaders/CAN/Portrait_CAN_Harold_Rupert_Leofric_George_Alexander.dds"
             }
             army = {
-                large = GFX_fish
+                large = "gfx/leaders/CAN/Portrait_CAN_Harold_Rupert_Leofric_George_Alexander.dds"
             }
         }
         field_marshal = {
