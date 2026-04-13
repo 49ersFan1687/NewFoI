@@ -107,6 +107,21 @@ focus_tree = {
 }
 
 focus_tree = {
+    id = CAL_military_democracy_bonesteel_post_unification_focus_tree
+    country = {
+		factor = 0
+		modifier = { 
+            add = 10
+            tag = CAL
+        }
+	}
+    default = no
+    continuous_focus_position = { x = 450 y = 200 }
+    shared_focus = CAL_the_american_casear_takes_his_seat
+    shared_focus = CAL_caesars_new_legions
+}
+
+focus_tree = {
     id = CAL_civilian_democracy_post_unification_focus_tree
     country = {
 		factor = 0
@@ -130,20 +145,6 @@ focus_tree = {
 	}
     default = no
     continuous_focus_position = { x = 450 y = 200 }
-}
-
-focus_tree = {
-    id = CAL_military_democracy_bonesteel_post_unification_focus_tree
-    country = {
-		factor = 0
-		modifier = { 
-            add = 10
-            tag = CAL
-        }
-	}
-    default = no
-    continuous_focus_position = { x = 450 y = 200 }
-    shared_focus = CAL_the_american_casear_takes_his_seat
 }
 
 focus_tree = {
@@ -16205,9 +16206,9 @@ shared_focus = {
 	}
 }
 
-##########################################################################################################################
-### Focus Tree - Post-Unification: Military Democracy - Charles Hartwell Bonesteel III -  Initial Political Focus Tree ###
-##########################################################################################################################
+#################################################################################################################
+### Focus Tree - Post-Unification: Military Democracy - Charles Hartwell Bonesteel III - Political Focus Tree ###
+#################################################################################################################
 shared_focus = {
     id = CAL_the_american_casear_takes_his_seat
     icon = GFX_
@@ -16305,7 +16306,7 @@ shared_focus = {
 }
 
 shared_focus = {
-    id = CAL_bonesteels_legions
+    id = CAL_bonesteels_palatine_legion
     icon = GFX
     cost = 3
     available_if_capitulated = no
@@ -16319,7 +16320,7 @@ shared_focus = {
     y = 1
     relative_position_id = CAL_the_american_casear_takes_his_seat
     completion_reward = {
-        log = "[GetDateText]: [Root.GetName]: Focus CAL_bonesteels_legions"
+        log = "[GetDateText]: [Root.GetName]: Focus CAL_bonesteels_palatine_legion"
     }
 }
 
@@ -16721,6 +16722,31 @@ shared_focus = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_beginning_the_great_reconstruction"
     }
 }
+
+#################################################################################################################
+### Focus Tree - Post-Unification: Military Democracy - Charles Hartwell Bonesteel III -  Military Focus Tree ###
+#################################################################################################################
+shared_focus = {
+    id = CAL_caesars_new_legions
+    icon = GFX_
+    cost = 2
+    available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+    available = {
+        has_country_flag = CAL_bonesteels_america
+        has_country_leader = CAL_charles_hartwell_bonesteel_iii
+        has_completed_focus = CAL_beginning_the_great_reconstruction
+    }
+    x = 5
+    y = 5
+    completion_reward = {
+        log = "[GetDateText]: [Root.GetName]: Focus CAL_caesars_new_legions"
+    }
+}
+
+shared_focus = {}
 
 ###################################################################################################################
 ### Focus Tree - Post-Unification: Military Democracy - Dwight David Eisenhower -  Initial Political Focus Tree ###
