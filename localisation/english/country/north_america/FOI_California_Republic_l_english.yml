@@ -5,22 +5,22 @@
 ####################################
 ### Events -  CALifornia Republic ###
 ####################################
-  CAL_start.1.t: "The Fall of the American Republic"
-  CAL_start.1.d: "It was that day again. Jamison was at the Fresno City Hall as he climbed the ladder and got near the US flag. Everything that happened flashed before him - the nuking of D.C., the surrender to the Nazis. It all happened so fast. \n\n The orders from the colonel, a once bombastic man who was all army logic, were clear - America was dead. He had to tear down the flag and report back to base for his last salutations and orders from the general. \n\n Jamison then closed his eyes, as he began humming "When Johnny Comes Marching Home", he pulled out an machete and aimed it at the mast of the flag, lowering his head as tears fell out of it. \n\n SWISH! FLOOP! \n\n The flag feel towards the tiled rooftop as it slid over the concrete street below, as Jamison removed his helmet."
-  CAL_start.1.a: ""Semper Fi, America. May you rest in peace.""
+ CAL_start.1.t: "The Fall of the American Republic"
+ CAL_start.1.d: "It was that day again. Jamison was at the Fresno City Hall as he climbed the ladder and got near the US flag. Everything that happened flashed before him - the nuking of D.C., the surrender to the Nazis. It all happened so fast. \n\n The orders from the colonel, a once bombastic man who was all army logic, were clear - America was dead. He had to tear down the flag and report back to base for his last salutations and orders from the general. \n\n Jamison then closed his eyes, as he began humming "When Johnny Comes Marching Home", he pulled out an machete and aimed it at the mast of the flag, lowering his head as tears fell out of it. \n\n SWISH! FLOOP! \n\n The flag feel towards the tiled rooftop as it slid over the concrete street below, as Jamison removed his helmet."
+ CAL_start.1.a: ""Semper Fi, America. May you rest in peace.""
 
-  CAL_start.2.t: ""
-  CAL_start.2.d: ""
-  CAL_start.2.a: ""
+ CAL_start.2.t: ""
+ CAL_start.2.d: ""
+ CAL_start.2.a: ""
 
-  CAL_start.3.t: ""
-  CAL_start.3.d: ""
-  CAL_start.3.a: ""
+ CAL_start.3.t: ""
+ CAL_start.3.d: ""
+ CAL_start.3.a: ""
 
 ###################################
 ### Ideas -  CALifornia Republic ###
 ###################################
-  CAL_uncertain_junta: "The Uncertain Junta"
+ CAL_uncertain_junta: "The Uncertain Junta"
 
 ######################################
 ### Tooltips -  CALifornia Republic ###
@@ -34,7 +34,7 @@
   CAL_reactivated_divisions_tt: "§YSeveral destroyed division§! shall be reactivated from the men in our reserve."
 
 ###############################################
-### Politi CAL Parties -  CALifornia Republic ###
+### Politi CAL Parties - California Republic ###
 ###############################################
  CAL_communism_party: "CPUSA"
  CAL_communism_party_long: "§YCommunist Party of the United States of America§!"
@@ -70,14 +70,14 @@
  CAL_warlord_generals_integration_category_desc: "Many of the American Warlords had generals who could prove of some use to us. If we offer them certain benefits, they may join us."
 
 ########################################
-### Character Lo CALization - Leaders ###
+### Character Localization - Leaders ###
 ########################################
  CAL_provisional_council: "Provisional Council of the United States"
  CAL_henry_agard_wallace: "Henry Agard Wallace"
  CAL_huey_pierce_long_jr: "Huey Pierce Long Jr."
 
 ##########################################
-### Character Lo CALization - Adivisors ###
+### Character Localization - Adivisors ###
 ##########################################
  CAL_earl_warren: "Earl Warren"
  CAL_walter_elias_disney: "Walter Elias Disney"
@@ -133,21 +133,21 @@
  CAL_felix_budwell_stump: "Felix Budwell Stump"
 
 ###########################################
-### Character Lo CALization - Scientists ###
+### Character Localization - Scientists ###
 ###########################################
  CAL_niels_henrik_david_bohr: "Niels Henrik David Bohr"
 
 ###########################################
-### Character Lo CALization - Operatives ###
+### Character Localization - Operatives ###
 ###########################################
 
 #########################################
-### Leader Bios -  CALifornia Republic ###
+### Leader Bios - California Republic ###
 #########################################
 
 
 ######################################################
-### General and Admiral Bios -  CALifornia Republic ###
+### General and Admiral Bios - California Republic ###
 ######################################################
 
 ######################
@@ -175,7 +175,7 @@
  CAL_the_new_american_economy_modifier_desc: ""
 
 #####################################################
-### National Focuses Lo CALisation - Starting Tree ###
+### National Focuses Localisation - Starting Tree ###
 #####################################################
  CAL_the_long_dead_march_west: "The Long, Dead, March West"
  CAL_the_long_dead_march_west_desc: ""
@@ -225,14 +225,14 @@
  CAL_dealing_with_the_anarchy_in_our_state: "Dealing with the Anarchy in Our State"
  CAL_dealing_with_the_anarchy_in_our_state_desc: ""
 
- CAL_expand_the_ CALifornia_national_guard: "Expand the  CALifornia National Guard"
- CAL_expand_the_ CALifornia_national_guard_desc: ""
+ CAL_expand_the_california_national_guard: "Expand the  CALifornia National Guard"
+ CAL_expand_the_california_national_guard_desc: ""
 
  CAL_negotiations_with_the_canadians: "Negotiations with the Canadians"
  CAL_negotiations_with_the_canadians_desc: ""
 
- CAL_rebuilding_south_ CALifornia_industry: "Rebuilding South  CALifornia Industry"
- CAL_rebuilding_south_ CALifornia_industry_desc: ""
+ CAL_rebuilding_south_california_industry: "Rebuilding South California Industry"
+ CAL_rebuilding_south_california_industry_desc: ""
 
  CAL_memories_of_the_old_republic: "Memories of the Old Republic"
  CAL_memories_of_the_old_republic_desc: ""
@@ -345,8 +345,8 @@
  CAL_an_expanded_army_reserve: "An Expanded Army Reserve"
  CAL_an_expanded_army_reserve_desc: ""
 
- CAL_a_permanent_liason_to_ CALifornia: "A Permanent Liaison to  CALifornia"
- CAL_a_permanent_liason_to_ CALifornia_desc: ""
+ CAL_a_permanent_liason_to_california: "A Permanent Liaison to California"
+ CAL_a_permanent_liason_to_california_desc: ""
 
  CAL_canadian_funded_factories: "Canadian-Funded Factories"
  CAL_canadian_funded_factories_desc: ""
@@ -504,9 +504,8 @@
  CAL_resolving_the_water_problem: "Resolving the Water Problem"
  CAL_resolving_the_water_problem_desc: ""
 
- CAL_rebuild_uc_ CALifornia: "Rebuild U.C. Berkeley"
- CAL_rebuild_uc_ CALifornia_desc: ""
-
+ CAL_rebuild_uc_ California: "Rebuild U.C. Berkeley"
+ CAL_rebuild_uc_ California_desc: ""
 
  CAL_state_highway_reconstruction: "State Highway Reconstruction"
  CAL_state_highway_reconstruction_desc: ""
@@ -535,15 +534,15 @@
  CAL_agricultural_self_sufficiency: "Agricultural Self-Sufficiency"
  CAL_agricultural_self_sufficiency_desc: ""
 
- CAL_refit_ship_manufactories: "Refitting  CALifornia Drydocks"
+ CAL_refit_ship_manufactories: "Refitting California Drydocks"
  CAL_refit_ship_manufactories_desc: ""
 
- CAL_ CALifornia_aviation_industry: "Restart the  CALifornia Aviation Industry"
+ CAL_ CALifornia_aviation_industry: "Restart the California Aviation Industry"
  CAL_ CALifornia_aviation_industry_desc: ""
 
  CAL_the_bear_roars_yet_again: "The Bear Roars Yet Again"
  CAL_the_bear_roars_yet_again_desc: ""
 
 ####################################################################
-### National Focuses Lo CALisation - Pre-Regional Tree - Part Two ###
+### National Focuses Localisation - Pre-Regional Tree - Part Two ###
 ####################################################################
