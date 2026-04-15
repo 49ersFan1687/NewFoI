@@ -571,11 +571,10 @@ ideas = {
             picture = patton_plan
             modifier = {
                 political_power_gain = -0.10
+                army_attack_factor = 0.05
                 army_speed_factor = 0.05
                 army_armor_attack_factor = 0.05
 				army_armor_defence_factor = 0.05
-                mechanized_attack_factor = 0.05
-				mechanized_defence_factor = 0.05
             }
             equipment_bonus = {
                 armor = {
@@ -592,10 +591,24 @@ ideas = {
             allowed = { always = no }
             picture = patton_plan
             modifier = {
-
+                political_power_gain = -0.10
+                army_attack_factor = 0.10
+                army_speed_factor = 0.05
+                army_armor_attack_factor = 0.05
+				army_armor_defence_factor = 0.05
+                mechanized_attack_factor = 0.05
+				mechanized_defence_factor = 0.05
+                motorized_attack_factor = 0.10
+				motorized_defence_factor = 0.10
             }
             equipment_bonus = {
-                
+                armor = {
+					build_cost_ic = -0.05
+					maximum_speed = 0.05
+					reliability = 0.05
+                    hard_attack = 0.10
+					instant = yes
+				}
             }
         }
 
@@ -604,10 +617,33 @@ ideas = {
             allowed = { always = no }
             picture = patton_plan
             modifier = {
-
+                political_power_gain = -0.10
+                army_attack_factor = 0.10
+                army_speed_factor = 0.05
+                army_armor_attack_factor = 0.10
+				army_armor_defence_factor = 0.10
+                mechanized_attack_factor = 0.10
+				mechanized_defence_factor = 0.10
+                motorized_attack_factor = 0.10
+				motorized_defence_factor = 0.10
+                army_artillery_attack_factor = 0.15
+				army_artillery_defence_factor = 0.15
+                out_of_supply_factor = -0.10
+                coordination_bonus = 0.05
             }
             equipment_bonus = {
-                
+                armor = {
+					build_cost_ic = -0.05
+					maximum_speed = 0.05
+					reliability = 0.05
+                    hard_attack = 0.10
+                    armor_value = 0.10
+					instant = yes
+				}
+                artillery_equipment = {
+					build_cost_ic = 0.10
+					instant = yes
+				}
             }
         }
 
@@ -616,10 +652,39 @@ ideas = {
             allowed = { always = no }
             picture = patton_plan
             modifier = {
-
+                political_power_gain = -0.10
+                army_attack_factor = 0.15
+                army_speed_factor = 0.10
+                army_armor_attack_factor = 0.10
+				army_armor_defence_factor = 0.10
+                mechanized_attack_factor = 0.10
+				mechanized_defence_factor = 0.10
+                motorized_attack_factor = 0.10
+				motorized_defence_factor = 0.10
+                army_artillery_attack_factor = 0.15
+				army_artillery_defence_factor = 0.15
+                out_of_supply_factor = -0.10
+                coordination_bonus = 0.10
             }
             equipment_bonus = {
-                
+                armor = {
+					build_cost_ic = -0.05
+					maximum_speed = 0.05
+					reliability = 0.10
+                    hard_attack = 0.10
+                    armor_value = 0.10
+					instant = yes
+				}
+                motorized_equipment = {
+                    build_cost_ic = -0.15
+                    reliability = 0.05
+				    instant = yes
+                }
+                artillery_equipment = {
+					build_cost_ic = -0.10
+                    reliability = 0.10
+					instant = yes
+				}
             }
         }
 
@@ -628,10 +693,44 @@ ideas = {
             allowed = { always = no }
             picture = patton_plan
             modifier = {
-
+                political_power_gain = -0.10
+                army_attack_factor = 0.20
+                army_speed_factor = 0.10
+                army_armor_attack_factor = 0.15
+				army_armor_defence_factor = 0.15
+                mechanized_attack_factor = 0.15
+				mechanized_defence_factor = 0.15
+                motorized_attack_factor = 0.15
+				motorized_defence_factor = 0.15
+                army_artillery_attack_factor = 0.15
+				army_artillery_defence_factor = 0.15
+                out_of_supply_factor = -0.10
+                coordination_bonus = 0.15
             }
             equipment_bonus = {
-                
+                armor = {
+					build_cost_ic = -0.05
+					maximum_speed = 0.05
+					reliability = 0.10
+                    hard_attack = 0.10
+                    armor_value = 0.10
+					instant = yes
+				}
+                mechanized_equipment = {
+					build_cost_ic = -0.15
+                    reliability = 0.05
+					instant = yes
+				}
+                motorized_equipment = {
+                    build_cost_ic = -0.15
+                    reliability = 0.05
+				    instant = yes
+                }
+                artillery_equipment = {
+					build_cost_ic = -0.10
+                    reliability = 0.10
+					instant = yes
+				}
             }
         }
 
@@ -640,10 +739,48 @@ ideas = {
             allowed = { always = no }
             picture = patton_plan
             modifier = {
-
+                political_power_gain = -0.10
+                army_attack_factor = 0.25
+                army_speed_factor = 0.15
+                army_armor_attack_factor = 0.20
+				army_armor_defence_factor = 0.20
+                mechanized_attack_factor = 0.15
+				mechanized_defence_factor = 0.15
+                motorized_attack_factor = 0.15
+				motorized_defence_factor = 0.15
+                army_artillery_attack_factor = 0.15
+				army_artillery_defence_factor = 0.15
+                out_of_supply_factor = -0.15
+                coordination_bonus = 0.20
             }
             equipment_bonus = {
-                
+                armor = {
+					build_cost_ic = -0.05
+					maximum_speed = 0.05
+					reliability = 0.10
+                    hard_attack = 0.10
+                    armor_value = 0.10
+                    breakthrough = 0.05
+					instant = yes
+				}
+                mechanized_equipment = {
+					build_cost_ic = -0.15
+                    reliability = 0.05
+                    breakthrough = 0.05
+					instant = yes
+				}
+                motorized_equipment = {
+                    build_cost_ic = -0.15
+                    reliability = 0.05
+                    breakthrough = 0.05
+				    instant = yes
+                }
+                artillery_equipment = {
+					build_cost_ic = -0.10
+                    reliability = 0.10
+                    breakthrough = 0.05
+					instant = yes
+				}
             }
         }
 
@@ -652,10 +789,48 @@ ideas = {
             allowed = { always = no }
             picture = patton_plan
             modifier = {
-
+                political_power_gain = -0.10
+                army_attack_factor = 0.30
+                army_speed_factor = 0.20
+                army_armor_attack_factor = 0.30
+				army_armor_defence_factor = 0.30
+                mechanized_attack_factor = 0.15
+				mechanized_defence_factor = 0.15
+                motorized_attack_factor = 0.15
+				motorized_defence_factor = 0.15
+                army_artillery_attack_factor = 0.15
+				army_artillery_defence_factor = 0.15
+                out_of_supply_factor = -0.20
+                coordination_bonus = 0.20
             }
             equipment_bonus = {
-                
+                armor = {
+					build_cost_ic = -0.05
+					maximum_speed = 0.05
+					reliability = 0.10
+                    hard_attack = 0.10
+                    armor_value = 0.10
+                    breakthrough = 0.05
+					instant = yes
+				}
+                mechanized_equipment = {
+					build_cost_ic = -0.15
+                    reliability = 0.05
+                    breakthrough = 0.05
+					instant = yes
+				}
+                motorized_equipment = {
+                    build_cost_ic = -0.15
+                    reliability = 0.05
+                    breakthrough = 0.05
+				    instant = yes
+                }
+                artillery_equipment = {
+					build_cost_ic = -0.10
+                    reliability = 0.10
+                    breakthrough = 0.05
+					instant = yes
+				}
             }
         }
 
