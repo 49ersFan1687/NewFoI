@@ -332,10 +332,8 @@ shared_focus = {
     completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus CAL_the_long_dead_march_west"
 		custom_effect_tooltip = CAL_the_long_retreat_west_tt
-        hidden_effect = {
-			CAL = {
-				country_event = { id = CAL_start.1 }
-			}
+		CAL = {
+			country_event = { id = CAL_start.1 }
 		}
         add_political_power = 30
         add_manpower = 10000
@@ -362,10 +360,8 @@ shared_focus = {
     completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus CAL_reaffirm_the_treaty_of_guadalupe_hidalgo"
         custom_effect_tooltip = CAL_protecting_our_borders_tt
-        hidden_effect = {
-            CAL = {
-                country_event = { id = CAL_start.2 }
-            }
+        CAL = {
+            country_event = { id = CAL_start.2 }
         }
         add_political_power = 15
         add_stability = 0.05
@@ -392,10 +388,8 @@ shared_focus = {
     completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus CAL_a_dangerous_game"
         custom_effect_tooltip = CAL_mexican_negotations_tt
-        hidden_effect = {
-            CAL = {
-                country_event = { id = CAL_start.3 }
-            }
+        CAL = {
+            country_event = { id = CAL_start.3 }
         }
         add_political_power = 15
         add_stability = 0.05
