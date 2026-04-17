@@ -2210,6 +2210,7 @@ shared_focus = {
     relative_position_id = CAL_begin_arresting_extremists
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_purge_those_bastards"
+        #todo: event about puring 
     }
 }
 
