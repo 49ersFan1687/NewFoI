@@ -1295,7 +1295,11 @@ ideas = {
             allowed = { always = no }
             picture = alexander_plan
             modifier = {
-
+                max_planning = 0.05
+                max_command_power = 10
+                army_infantry_attack_factor = 0.05
+                army_infantry_defence_factor = 0.05
+                army_core_defence_factor = 0.05
             }
         }
 
@@ -1304,7 +1308,11 @@ ideas = {
             allowed = { always = no }
             picture = moncel_plan
             modifier = {
-
+                max_planning = 0.05
+                max_command_power = 10
+                motorized_attack_factor = 0.05
+				motorized_defence_factor = 0.05
+                army_core_defence_factor = 0.05                
             }
 
         }
@@ -1314,7 +1322,11 @@ ideas = {
             allowed = { always = no }
             picture = Simonds_plan
             modifier = {
-
+                max_planning = 0.05
+                max_command_power = 10
+                army_armor_attack_factor = 0.05
+				army_armor_defence_factor = 0.05
+                army_core_defence_factor = 0.05               
             }
         }
 
