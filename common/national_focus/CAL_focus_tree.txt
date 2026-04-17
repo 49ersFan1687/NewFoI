@@ -2449,9 +2449,9 @@ shared_focus = {
     relative_position_id = CAL_construct_northern_defensive_lines
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_crush_the_bay_area_communists"
-        create_wargoal = {
-            type = annex_everything
+        declare_war_on = {
             target = BAP
+            type = annex_everything
         }
     }
 }
@@ -2472,9 +2472,9 @@ shared_focus = {
     relative_position_id = CAL_construct_northern_defensive_lines
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_purge_the_nationalists"
-        create_wargoal = {
-            type = annex_everything
+        declare_war_on = {
             target = CLN
+            type = annex_everything
         }
     }
 }
