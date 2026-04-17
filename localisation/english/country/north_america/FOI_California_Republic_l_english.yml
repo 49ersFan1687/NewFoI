@@ -17,10 +17,23 @@
  CAL_start.3.d: ""
  CAL_start.3.a: ""
 
-###################################
-### Ideas -  CALifornia Republic ###
-###################################
+############################################
+### Starting Ideas - California Republic ###
+############################################
+ CAL_the_long_march_west: "The Long, Dead, March West"
+ CAL_the_greater_depression: "The Greater Depression"
+ CAL_a_shattered_army: "A Shattered Army"
+ CAL_an_outdated_air_force: "An Outdated Air Force"
+ CAL_the_mothballed_navy: "The Mothballed Navy"
+ CAL_the_failure_of_democracy: "The Failure of Democracy"
+
+#########################################
+### Added Ideas - California Republic ###
+#########################################
  CAL_uncertain_junta: "The Uncertain Junta"
+ CAL_simonds_advice: "Simonds's Advice"
+ CAL_alexander_advice: "Alexander's Advice"
+ CAL_moncel_advice: "Moncel's Advice"
 
 ######################################
 ### Tooltips -  CALifornia Republic ###
@@ -40,8 +53,8 @@
  CAL_communism_party_long: "§YCommunist Party of the United States of America§!"
  CAL_socialism_party: "IWW [L]"
  CAL_socialism_party_long: "§YIndustrial Workers of the World (Left)§!"
- CAL_syndi CALism_party: "IWW [R]"
- CAL_syndi CALism_party_long: "§YIndustrial Workers of the World (Right)§!"
+ CAL_syndicalism_party: "IWW [R]"
+ CAL_syndicalism_party_long: "§YIndustrial Workers of the World (Right)§!"
  CAL_social_democracy_party: "NPP"
  CAL_social_democracy_party_long: "§YNational Progressive Party§!"
  CAL_democratic_party: "Democrats"
@@ -63,7 +76,7 @@
  CAL_esotericism_party: "§YSilver Shirts [P]§!"
  CAL_esotericism_party_long: "§YSilver Legion of America (Pelleyites)§!"
  CAL_accelerationism_party: "CAA"
- CAL_accelerationism_party_long: "§Y CALifornia Artist Association§!"
+ CAL_accelerationism_party_long: "§YCakifornia Artist Association§!"
 
 ### Decisions ###
  CAL_warlord_generals_integration_category: "Integrate Warlord Generals"
@@ -84,7 +97,7 @@
  CAL_thomas_edmund_dewey: "Thomas Edmund Dewey"
 
 #########################################
-### Character Lo CALization - Generals ###
+### Character Localization - Generals ###
 #########################################
  CAL_dwight_david_eisenhower: "Dwight David Eisenhower"
  CAL_omar_nelson_bradley: "Omar Nelson Bradley"
@@ -121,7 +134,7 @@
  CAL_curtis_emerson_lemay: "Curtis Emerson Lemay"
 
 #########################################
-### Character Lo CALization - Admirals ###
+### Character Localization - Admirals ###
 #########################################
  CAL_ernest_joseph_king: "Ernest Joseph King"
  CAL_chester_william_nimitz: "Chester William Nimitz"
