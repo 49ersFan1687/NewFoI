@@ -523,6 +523,9 @@ shared_focus = {
     relative_position_id = CAL_tighten_border_control
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_a_pioneer_republic"
+        CAL = {
+            country_event = CAL_start.5
+        }
         add_stability = 0.05
         add_war_support = 0.05
     }
@@ -752,8 +755,9 @@ shared_focus = {
     relative_position_id = CAL_the_mexican_connection
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CCAL_the_pacific_coast_economy_line"
-        ## TODO: add trade-related events
+        ## TODO: add trade-related event or possible event chain
         ## TODO: add idea/dynamic modifier about mexican trade
+        ## TODO: Possible Decision Category to improve trade?
     }
 }
 
