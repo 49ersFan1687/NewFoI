@@ -412,7 +412,7 @@ shared_focus = {
     relative_position_id = CAL_the_long_dead_march_west
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_taking_note_of_the_situation_in_california"
-        ## todo: Add Order of Battle for 6th Army and Walter Kruger as a General and Possible High Command/Theorist
+        ## todo: Event and Add Order of Battle for 6th Army and Walter Kruger as a General and Possible High Command/Theorist
     }
 }
 
@@ -805,7 +805,7 @@ shared_focus = {
 			idea = CAL_preparing_for_war_idea
 			days = 280
 		}
-        # todo: timed idea, event, along with some men and equipment
+        # todo: event along with some men and equipment
     }
 }
 
