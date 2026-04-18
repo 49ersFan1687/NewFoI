@@ -807,7 +807,7 @@ shared_focus = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_begin_preparations_for_war"
         add_timed_idea = {
 			idea = CAL_preparing_for_war_idea
-			days = 280
+			days = 365
 		}
         # todo: event along with some men and equipment
     }
