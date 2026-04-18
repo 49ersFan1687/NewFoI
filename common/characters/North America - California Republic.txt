@@ -1164,9 +1164,6 @@ characters = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Ernest_Joseph_King.dds"
 				small = "gfx/leaders/CAL/Portrait_CAL_Ernest_Joseph_King_small.dds"
 			}
-			civilian = {
-				small = 
-			}
 		}
 	}
 	
@@ -1176,9 +1173,6 @@ characters = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Chester_William_Nimitz.dds"
 				small = "gfx/leaders/CAL/Portrait_Chester_William_Nimitz_small.dds"
-			}
-			civilian = {
-				## small = jesus fucking crist fix this pls
 			}
 		}
 
@@ -1193,9 +1187,6 @@ characters = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_William_Daniel_Leahy.dds"
 				small = "gfx/leaders/CAL/small/Portrait_William_Daniel_Leahy_small.dds"
-			}
-			civilian = {
-				small = 
 			}
 		}
 	}
