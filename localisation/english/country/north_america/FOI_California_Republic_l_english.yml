@@ -27,13 +27,18 @@ CAL_start.3.a: ""
  CAL_the_mothballed_navy: "The Mothballed Navy"
  CAL_the_failure_of_democracy: "The Failure of Democracy"
 
-#########################################
-### Added Ideas - California Republic ###
-#########################################
+###################################################
+### Added Permanent Ideas - California Republic ###
+###################################################
  CAL_uncertain_junta: "The Uncertain Junta"
  CAL_simonds_advice: "Simonds's Advice"
  CAL_alexander_advice: "Alexander's Advice"
  CAL_moncel_advice: "Moncel's Advice"
+
+#########################################
+### Timed Ideas - California Republic ###
+#########################################
+ CAL_preparing_for_war_idea: "Preparing for War"
 
 ######################################
 ### Tooltips - California Republic ###
