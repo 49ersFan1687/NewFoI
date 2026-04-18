@@ -2088,7 +2088,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_rebuilding_civilian_industry
-    icon = GFX_focus_rebuilding_civilian_industry
+    icon = GFX_focus_CAL_rebuilding_civilian_industry
 	cost = 3
 	available_if_capitulated = no
 	ai_will_do = {
@@ -2118,7 +2118,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_rebuilding_destroyed_arms_factories
-    icon = GFX_focus_rebuilding_destroyed_arms_factories
+    icon = GFX_focus_CAL_rebuilding_destroyed_arms_factories
 	cost = 3
 	available_if_capitulated = no
 	ai_will_do = {
@@ -2148,7 +2148,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_forming_a_reconstruction_corps
-    icon = GFX_focus_forming_a_reconstruction_corps
+    icon = GFX_focus_CAL_forming_a_reconstruction_corps
 	cost = 3
 	available_if_capitulated = no
 	ai_will_do = {
