@@ -877,7 +877,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_negotiations_with_the_canadians
-     icon = GFX
+    icon = GFX_focus_CAL_negotiations_with_the_canadians
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
