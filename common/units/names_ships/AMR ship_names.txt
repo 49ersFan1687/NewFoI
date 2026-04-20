@@ -3,7 +3,7 @@
 USA_FISH = {
 	name = NAME_THEME_FISH_US
 
-	for_countries = {  CAL CSD MAR NCA }
+	for_countries = { CAL CSD MAR NCA }
 
 	type = ship
 	ship_types = { ship_hull_submarine submarine }
