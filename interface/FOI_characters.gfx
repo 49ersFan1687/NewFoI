@@ -355,8 +355,57 @@ spriteTypes = {
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Daring_Do.dds" 
 	}
 
-	# Cascadia - Power Rangers Characters #
+	# Cascadia - AKB48 Members #
+	spriteType = {
+		name = "GFX_CSD_Atsuko_Maeda"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Atsuko_Maeda.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Yuko_Oshima"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Yuko_Oshima.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Mariko_Shinoda"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Mariko_Shinoda.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Tomomi_Itano"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Tomomi_Itano.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Mayu_Watanabe"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Mayu_Watanabe.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Minami_Takahashi"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Minami_Takahashi.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Haruna_Kojima"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Haruna_Kojima.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Yuki_Kashiwagi"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Yuki_Kashiwagi.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Sae_Miyazawa"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Sae_Miyazawa.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Jurina_Matsui"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Jurina_Matsui.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Sayaka_Akimoto"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Sayaka_Akimoto.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Rino_Sashihara"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Rino_Sashihara.dds"
+	}
 
+	# Cascadia - Power Rangers Characters #
 	spriteType = {
 		name = "GFX_CSD_Jason_Lee_Scott"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Jason_Lee_Scott.dds"
@@ -450,5 +499,21 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_CSD_Lie_Ren"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Lie_Ren.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Coco_Adel"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Coco_Adel.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Velvet_Scarlatina"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Velvet_Scarlatina.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Fox_Alistair"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Fox_Alistair.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Yatsuhashi_Daichi"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Yatsuhashi_Daichi.dds"
 	}
 }
