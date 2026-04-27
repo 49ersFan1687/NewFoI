@@ -349,4 +349,9 @@ spriteTypes = {
         name = GFX_focus_CAL_too_many_reds
         textureFile = "gfx/interface/goals/CAL/CAL_too_many_reds.dds"
     }
+
+    spriteType = {
+        name = GFX_focus_CAL_what_are_we_truly
+        textureFile = "gfx/interface/goals/CAL/CAL_what_are_we_truly.dds"
+    }
 }
