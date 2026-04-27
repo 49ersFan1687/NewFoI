@@ -404,6 +404,34 @@ spriteTypes = {
 		name = "GFX_CSD_Rino_Sashihara"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Rino_Sashihara.dds"
 	}
+	spriteType = {
+		name = "GFX_CSD_Rie_Kitahara"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Rie_Kitahara.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Asuka_Kuramochi"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Asuka_Kuramochi.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Miho_Miyazaki"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Miho_Miyazaki.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Erena_Ono"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Erena_Ono.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Tomomi_Kasai"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Tomomi_Kasai.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Aki_Takajo"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Aki_Takajo.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Minami_Minegishi"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Minami_Minegishi.dds"
+	}
 
 	# Cascadia - Power Rangers Characters #
 	spriteType = {
