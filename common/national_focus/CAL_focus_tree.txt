@@ -1097,7 +1097,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_memories_of_the_old_republic
-    icon = GFX
+    icon = GFX_focus_CAL_memories_of_the_old_republic
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1155,7 +1155,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_question_of_law
-    icon = GFX
+    icon = GFX_focus_CAL_question_of_law
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1175,7 +1175,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_question_of_the_ballot
-    icon = GFX
+    icon = GFX_focus_CAL_question_of_the_ballot
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1551,7 +1551,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_state_matters
-    icon = GFX
+    icon = GFX_focus_CAL_state_matters
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1908,7 +1908,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_the_nationalists
-    icon = GFX
+    icon = GFX_focus_CAL_the_nationalists
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1927,7 +1927,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_too_many_reds
-    icon = GFX
+    icon = GFX_focus_CAL_too_many_reds
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {

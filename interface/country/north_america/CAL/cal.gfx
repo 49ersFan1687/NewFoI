@@ -1,4 +1,5 @@
 spriteTypes = {
+### STARTING FOCUS TREE FOCUSES ###
     spriteType = {
         name = "GFX_focus_CAL_the_long_dead_march_west"
         textureFile = "gfx/interface/goals/CAL/CAL_the_long_dead_march_west.dds"
@@ -307,5 +308,45 @@ spriteTypes = {
     spriteType = {
         name = GFX_focus_CAL_set_the_war_plans_in_motion
         textureFile = "gfx/interface/goals/CAL/CAL_set_the_war_plans_in_motion.dds"
+    }
+
+    spriteType = {
+        name = GFX_focus_CAL_memories_of_the_old_republic
+        textureFile = "gfx/interface/goals/CAL/CAL_memories_of_the_old_republic.dds"
+    }
+
+    spriteType = {
+        name = GFX_focus_CAL_question_of_law
+        textureFile = "gfx/interface/goals/CAL/CAL_question_of_law.dds"
+    }
+
+    spriteType = {
+        name = GFX_focus_CAL_question_of_the_ballot
+        textureFile = "gfx/interface/goals/CAL/CAL_question_of_the_ballot.dds"
+    }
+
+    spriteType = {
+        name = GFX_focus_CAL_question_of_civil_liberties
+        textureFile = "gfx/interface/goals/CAL/CAL_question_of_civil_liberties.dds"
+    }
+
+    spriteType = {
+        name = GFX_focus_CAL_state_matters
+        textureFile = "gfx/interface/goals/CAL/CAL_state_matters.dds"
+    }
+
+    spriteType = {
+        name = GFX_focus_CAL_the_protesting_democrats
+        textureFile = "gfx/interface/goals/CAL/CAL_the_protesting_democrats.dds"
+    }
+
+    spriteType = {
+        name = GFX_focus_CAL_the_nationalists
+        textureFile = "gfx/interface/goals/CAL/CAL_the_nationalists.dds"
+    }
+
+    spriteType = {
+        name = GFX_focus_CAL_too_many_reds
+        textureFile = "gfx/interface/goals/CAL/CAL_too_many_reds.dds"
     }
 }
