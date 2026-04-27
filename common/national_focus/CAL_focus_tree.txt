@@ -1195,7 +1195,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_question_of_civil_liberties
-    icon = GFX
+    icon = GFX_focus_CAL_question_of_civil_liberties
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1889,7 +1889,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_the_protesting_democrats
-    icon = GFX
+    icon = GFX_focus_CAL_the_protesting_democrats
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
