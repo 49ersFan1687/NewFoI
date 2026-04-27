@@ -63,8 +63,6 @@ idea_categories = {
 		character_slot = army_high_command
 		character_slot = army_high_command
 		character_slot = army_high_command
-		character_slot = army_high_command
-		character_slot = army_high_command
 		character_slot = army_theorist
 	}
 
@@ -74,15 +72,11 @@ idea_categories = {
 		character_slot = navy_high_command
 		character_slot = navy_high_command
 		character_slot = navy_high_command
-		character_slot = navy_high_command
-		character_slot = navy_high_command
 		character_slot = navy_theorist
 	}
 
 	air_advisor_slots = {
 		character_slot = air_chief
-		character_slot = air_high_command
-		character_slot = air_high_command
 		character_slot = air_high_command
 		character_slot = air_high_command
 		character_slot = air_high_command
