@@ -35,7 +35,7 @@ idea_categories = {
 		removal_cost = 0
 	}
 
-	ministers = {
+	main_ministers = {
 		character_slot = slot_hog
 		character_slot = slot_foreign_minister
 		character_slot = slot_defense_minister
@@ -49,7 +49,7 @@ idea_categories = {
 		slot = aircraft_manufacturer
 		slot = materiel_manufacturer
 		slot = industrial_concern
-		character_slot = theorist
+		slot = industrial_concern
 
 		ledger = civilian
 		
@@ -57,31 +57,40 @@ idea_categories = {
 		removal_cost = 0
 	}
 
-	army_advisor_slots = {
+	military_staff = {
 		character_slot = army_chief
-		character_slot = army_high_command
-		character_slot = army_high_command
-		character_slot = army_high_command
-		character_slot = army_high_command
+		character_slot = navy_chief
+		character_slot = air_chief
 		character_slot = army_theorist
+		character_slot = navy_theorist
+		character_slot = air_theorist
+	}
+
+	army_advisor_slots = {
+		character_slot = army_high_command
+		character_slot = army_high_command
+		character_slot = army_high_command
+		character_slot = army_high_command
+		character_slot = army_high_command
+		character_slot = army_high_command
 	}
 
 	navy_advisor_slots = {
-		character_slot = navy_chief
 		character_slot = navy_high_command
 		character_slot = navy_high_command
 		character_slot = navy_high_command
 		character_slot = navy_high_command
-		character_slot = navy_theorist
+		character_slot = navy_high_command
+		character_slot = navy_high_command
 	}
 
 	air_advisor_slots = {
-		character_slot = air_chief
 		character_slot = air_high_command
 		character_slot = air_high_command
 		character_slot = air_high_command
 		character_slot = air_high_command
-		character_slot = air_theorist
+		character_slot = air_high_command
+		character_slot = air_high_command
 	}
 
 	academy_spirit = {
