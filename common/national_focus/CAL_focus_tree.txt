@@ -1136,7 +1136,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_establishing_a_military_focused_economy
-    icon = GFX_focus_establishing_a_military_focused_economy
+    icon = GFX_focus_CAL_establishing_a_military_focused_economy
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
@@ -1513,7 +1513,7 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_arms_companies_subsidies
-    icon = GFX_focus_CAL_arms_companies_subsidies
+    icon = GFX_focus_CAL_arms_companies_subsides
     cost = 2
     available_if_capitulated = no
 	ai_will_do = {
