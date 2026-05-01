@@ -199,7 +199,7 @@ ideologies = {
 			whigism_ideology = { }
 			conservative_longism_ideology = { }
 			conservative_oligarchy_ideology = { }
-			conservatise_hamiltonian_democracy_ideology = { }
+			conservative_hamiltonian_democracy_ideology = { }
 			conservative_prussian_constitutionalism_ideology = { }
         }
 		dynamic_faction_names = { }

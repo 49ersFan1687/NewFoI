@@ -129,11 +129,11 @@ characters = {
 			traits = {
 				
 			}
-			skill = 
-			attack_skill = 
-			defense_skill = 
-			planning_skill = 
-			logistics_skill = 
+			skill = 4
+			attack_skill = 4
+			defense_skill = 1
+			planning_skill = 4
+			logistics_skill = 4
 		}
     }
 
@@ -188,6 +188,42 @@ characters = {
 	### British Exiles - Royal Navy Admirals - Level One ###
 	########################################################
 	
+
+
+    ###############################
+    ### Canadian Field Marshals ###
+    ###############################
+
+
+
+    ######################################
+	### Canadian Generals - Level Five ###
+	######################################
+
+
+
+    ######################################
+	### Canadian Generals - Level Four ###
+	######################################
+
+
+
+    #######################################
+	### Canadian Generals - Level Three ###
+	#######################################
+
+
+
+    #####################################
+	### Canadian Generals - Level Two ###
+	#####################################
+
+
+
+    #####################################
+	### Canadian Generals - Level One ###
+	#####################################
+
 
 
 	##################
