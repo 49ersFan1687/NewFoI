@@ -15,12 +15,12 @@ characters = {
 			}
 		}
 		country_leader = {
-			desc = POLITICS_ATSUKO_MAEDA_DESC
+			# desc = POLITICS_ATSUKO_MAEDA_DESC
 			expire = "1994.4.20"
 			ideology = stratocratic_conservatism_ideology
-			traits = {
-				CSD_the_iron_mare
-			}
+			#traits = {
+			#	CSD_the_iron_mare
+			#}
 		}
 		field_marshal = {
 			traits = {
