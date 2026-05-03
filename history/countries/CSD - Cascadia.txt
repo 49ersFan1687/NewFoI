@@ -53,8 +53,10 @@ recruit_character = CSD_minami_minegishi
 recruit_character = CSD_asuka_kuramochi
 recruit_character = CSD_miho_miyazaki
 
-
 # Second Continental Army Cascadian Branch - AKB48 Admirals (AKB...48!) #
+recruit_character = CSD_mayu_watanabe
+recruit_character = CSD_tomomi_itano
+recruit_character = CSD_haruna_kojima
 
 # Second Continental Army Cascadian Branch - United States Army Rangers (It's morphin' time!) #
 
