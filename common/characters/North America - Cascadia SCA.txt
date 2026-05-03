@@ -1,5 +1,5 @@
 characters = {
-############################################## AKB48 Members (Old Guard-Aligned Generals) ##############################################
+############################################## AKB48 Members (Second Continental Army - Old Guard Aligned Generals) ##############################################
 
 	###################################################################
     ### Second Continental Army Main Adminstration - Field Marshals ###
@@ -64,6 +64,33 @@ characters = {
 		}
 		gender = female
 	}
+	
+	CSD_minami_takahashi = {
+		name = CSD_minami_takahashi
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Minami_Takahashi.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Minami_Takahashi.dds"
+			}
+		}
+		field_marshal = {
+			traits = {
+				trickster
+				commando
+				skilled_staffer
+				artillery_specialist
+				artillery_expert
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 4
+			planning_skill = 4
+			logistics_skill = 3
+		}
+		gender = female
+	}
 
 	CSD_mariko_shinoda = {
 		name = CSD_mariko_shinoda
@@ -102,33 +129,6 @@ characters = {
 		gender = female
 	}
 
-	CSD_minami_takahashi = {
-		name = CSD_minami_takahashi
-		portraits = {
-			civilian = {
-				large = "gfx/leaders/CSD/Portrait_CSD_Minami_Takahashi.dds"
-			}
-			army = {
-				large = "gfx/leaders/CSD/Portrait_CSD_Minami_Takahashi.dds"
-			}
-		}
-		field_marshal = {
-			traits = {
-				trickster
-				commando
-				skilled_staffer
-				artillery_specialist
-				artillery_expert
-			}
-			skill = 4
-			attack_skill = 3
-			defense_skill = 4
-			planning_skill = 4
-			logistics_skill = 3
-		}
-		gender = female
-	}
-
 	################################################################
 	### Second Continental Army/AKB Clique Generals - Level Five ###
 	################################################################ 
@@ -163,6 +163,63 @@ characters = {
 			ledger = army
 			traits = { army_armored_1 }
 			can_be_fired = yes
+		}
+		gender = female
+	}
+
+	################################################################
+	### Second Continental Army/AKB Clique Generals - Level Four ###
+	################################################################
+	CSD_sae_miyazawa = {
+		name = CSD_sae_miyazawa
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Sae_Miyazawa.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Sae_Miyazawa.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				brilliant_strategist
+				trait_cautious
+				harsh_leader
+				politically_connected
+				trickster
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 5
+			planning_skill = 2
+			logistics_skill = 3
+		}
+		gender = female
+	}
+
+	CSD_sayaka_akimoto = {
+		name = CSD_sayaka_akimoto
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Sayaka_Akimoto.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Sayaka_Akimoto.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				trait_reckless
+				armor_officer
+				trickster
+				panzer_leader
+				skilled_staffer
+			}
+			skill = 4
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 3
 		}
 		gender = female
 	}
