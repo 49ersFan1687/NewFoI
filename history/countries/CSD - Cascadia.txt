@@ -39,6 +39,9 @@ set_popularities = {
 # Second Continental Army Cascadian Branch - AKB Clique Members (AKB...48!) #
 recruit_character = CSD_atsuko_maeda
 recruit_character = CSD_yuko_oshima
+recruit_character = CSD_mariko_shinoda
+recruit_character = CSD_minami_takahashi
+recruit_character = CSD_yuki_kashiwagi
 
 # Second Continental Army Cascadian Branch - United States Army Rangers (It's morphin' time!) #
 
