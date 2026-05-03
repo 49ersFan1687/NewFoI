@@ -9,7 +9,7 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -20,14 +20,20 @@ add_ideas = {
 }
 
 set_popularities = {
-	paternal_autocrat = 20
-	market_liberal = 12
-	neutrality = 40
-	socialism = 12
-	communism = 1
-	democratic = 5
+	communism = 5
+	syndicalism = 5
+	socialism = 10
 	social_democracy = 5
+	democratic = 5
+	market_liberal = 10
+	conservatism = 15
+	neutrality = 10
+	paternal_autocrat = 10
+	accelerationism = 5
 	fascism = 5
+	ultranationalism = 5
+	national_socialism = 5
+	esotericism	= 5
 }
 
 # Second Continental Army Cascadian Branch - AKB Clique Members (AKB...48!) #
