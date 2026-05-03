@@ -1,0 +1,41 @@
+characters = {
+############################################## AKB48 Members (Old Guard-Aligned Generals) ##############################################
+
+	###################################################################
+    ### Second Continental Army Main Adminstration - Field Marshals ###
+	###################################################################
+    CSD_atsuko_maeda = {
+        name = CSD_atsuko_maeda
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Atsuko_Maeda.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Atsuko_Maeda.dds"
+			}
+		}
+		country_leader = {
+			desc = POLITICS_ATSUKO_MAEDA_DESC
+			expire = "1994.4.20"
+			ideology = democratic_stratocracy_ideology
+			traits = {
+				CSD_the_iron_mare
+			}
+		}
+		field_marshal = {
+			traits = {
+				career_officer
+				armor_officer
+				skilled_staffer
+				organizer
+				panzer_leader
+			}
+			skill = 5
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 6
+			logistics_skill = 5
+		}
+		gender = female
+    }   
+}
