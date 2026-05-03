@@ -557,4 +557,36 @@ characters = {
 		}
 		gender = female
 	}
+
+	CSD_haruna_kojima = {
+		name = CSD_haruna_kojima
+		portraits = {
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Haruna_Kojima.dds"
+			}
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Haruna_Kojima.dds"
+			}
+		}
+		navy_leader = {
+			traits = {
+				superior_tactician
+				ironside
+				blockade_runner
+			}
+			skill = 3
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 4
+		}
+		advisor = { 
+			slot = high_command
+			cost = 150
+			idea_token = haruna_kojima
+			ledger = navy
+			traits = { navy_carrier_2 }
+		}
+		gender = female
+	}
 }
