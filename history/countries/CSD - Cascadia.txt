@@ -44,6 +44,15 @@ recruit_character = CSD_minami_takahashi
 recruit_character = CSD_yuki_kashiwagi
 recruit_character = CSD_sae_miyazawa
 recruit_character = CSD_sayaka_akimoto
+recruit_character = CSD_rino_sashihara
+recruit_character = CSD_rie_kitahara
+recruit_character = CSD_aki_takajo
+recruit_character = CSD_jurina_matsui
+recruit_character = CSD_tomomi_kasai
+recruit_character = CSD_minami_minegishi
+recruit_character = CSD_asuka_kuramochi
+recruit_character = CSD_miho_miyazaki
+
 
 # Second Continental Army Cascadian Branch - AKB48 Admirals (AKB...48!) #
 

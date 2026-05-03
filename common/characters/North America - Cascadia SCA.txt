@@ -223,4 +223,260 @@ characters = {
 		}
 		gender = female
 	}
+	
+	CSD_rino_sashihara = {
+		name = CSD_rino_sashihara
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Rino_Sashihara.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Rino_Sashihara.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				commando
+				ranger
+				winter_specialist
+				trait_engineer
+				trait_cautious
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 4
+		}
+		gender = female
+	}
+	
+	CSD_rie_kitahara = {
+		name = CSD_rie_kitahara
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Rie_Kitahara.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Rie_Kitahara.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				politically_connected
+				brilliant_strategist
+				skilled_staffer
+				artillery_specialist
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 3
+		}
+		advisor = {
+			slot = army_high_command
+			cost = 150
+			idea_token = rie_kitahara
+			ledger = army
+			traits = { army_artillery_1 }
+			can_be_fired = yes
+		}
+		gender = female
+	}
+	
+	CSD_aki_takajo = {
+		name = CSD_aki_takajo
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Aki_Takajo.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Aki_Takajo.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				brilliant_strategist
+				trait_cautious
+				trait_engineer
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 3
+		}
+		gender = female
+	}
+	
+	#################################################################
+	### Second Continental Army/AKB Clique Generals - Level Three ###
+	#################################################################
+	CSD_jurina_matsui = {
+		name = CSD_jurina_matsui		
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Jurina_Matsui.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Jurina_Matsui.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				artillery_officer
+				artillery_specialist
+				skilled_staffer
+				infantry_officer
+			}
+			skill = 3
+			attack_skill = 4
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 2
+		}
+		gender = female
+	}
+
+	CSD_tomomi_kasai = {
+		name = CSD_tomomi_kasai
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Tomomi_Kasai.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Tomomi_Kasai.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				infantry_officer
+				commando
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+		}
+		gender = female
+	}
+
+	CSD_minami_minegishi = {
+		name = CSD_minami_minegishi
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Minami_Minegishi.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Minami_Minegishi.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				career_officer
+				politically_connected
+				infantry_leader
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2
+		}
+		advisor = {
+			cost = 150
+			slot = army_high_command
+			idea_token = minami_minegishi
+			ledger = army
+			traits = {
+				army_CombinedArms_1
+			}
+		}
+		gender = female
+	}
+	
+	CSD_asuka_kuramochi = {
+		name = CSD_asuka_kuramochi
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Asuka_Kuramochi.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Asuka_Kuramochi.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				career_officer
+				politically_connected
+				trait_engineer
+			}
+			skill = 3
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+		gender = female
+	}
+	
+	###############################################################
+	### Second Continental Army/AKB Clique Generals - Level Two ###
+	###############################################################
+	CSD_miho_miyazaki = {
+		name = CSD_miho_miyazaki
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Miho_Miyazaki.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Miho_Miyazaki.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				inflexible_strategist
+				trait_cautious
+				commando
+			}
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+		gender = female
+	}
+
+	CSD_erena_ono = {
+		name = CSD_erena_ono
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Erena_Ono.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Erena_Ono.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				cavalry_officer
+				trait_engineer
+				commando
+				skilled_staffer
+			}
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+		gender = female
+	}
+
+    ###############################################################
+	### Second Continental Army/AKB Clique Generals - Level One ###
+	###############################################################
 }
