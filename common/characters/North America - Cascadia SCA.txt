@@ -64,5 +64,108 @@ characters = {
 			logistics_skill = 3
 		}
 		gender = female
-	}  
+	}
+
+	CSD_mariko_shinoda = {
+		name = CSD_mariko_shinoda
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Mariko_Shinoda.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Mariko_Shinoda.dds"
+			}
+		}
+		field_marshal = {
+			traits = { 
+				logistics_wizard
+				offensive_doctrine
+				media_personality
+				trait_cautious
+				inflexible_strategist
+				organizer
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 4
+			planning_skill = 3
+			logistics_skill = 4
+		}
+		advisor = {
+			cost = 150
+			slot = army_chief
+			idea_token = mariko_shinoda
+			ledger = army
+			traits = { 
+				army_chief_offensive_2
+			}
+		}
+		gender = female
+	}
+
+	CSD_minami_takahashi = {
+		name = CSD_minami_takahashi
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Minami_Takahashi.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Minami_Takahashi.dds"
+			}
+		}
+		field_marshal = {
+			traits = {
+				trickster
+				commando
+				skilled_staffer
+				artillery_specialist
+				artillery_expert
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 4
+			planning_skill = 4
+			logistics_skill = 3
+		}
+		gender = female
+	}
+
+	################################################################
+	### Second Continental Army/AKB Clique Generals - Level Five ###
+	################################################################ 
+	CSD_yuki_kashiwagi = {
+		name = CSD_yuki_kashiwagi
+		
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Yuki_Kashiwagi.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Yuki_Kashiwagi.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				brilliant_strategist
+				career_officer
+				armor_officer
+				trickster
+				panzer_leader
+			}
+			skill = 5
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 3
+		}
+		advisor = {
+			slot = army_high_command
+			cost = 150
+			idea_token = yuki_kashiwagi
+			ledger = army
+			traits = { army_armored_1 }
+			can_be_fired = yes
+		}
+		gender = female
+	}
 }
