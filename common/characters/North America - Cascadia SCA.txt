@@ -589,4 +589,431 @@ characters = {
 		}
 		gender = female
 	}
+
+	###############################################################
+	### Second Continental Army/AKB Clique Admirals - Level Two ###
+	###############################################################
+
+
+	###############################################################
+	### Second Continental Army/AKB Clique Admirals - Level One ###
+	###############################################################
+
+############################################## Power Rangers Characters (Second Continental Army - Old Guard Aligned Generals) ##############################################
+
+	################################################################
+    ### Second Continental Army/US Army Rangers - Field Marshals ###
+	################################################################
+	CSD_tommy_oliver = {
+		name = CSD_tommy_oliver
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Tommy_Oliver.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Tommy_Oliver.dds"
+			}
+		}
+		field_marshal = {
+			traits = {
+				organizer
+				infantry_leader
+				infantry_expert
+				commando
+				ranger
+			}
+			skill = 4
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 3
+		}
+		advisor = {
+			slot = army_high_command
+			cost = 150
+			idea_token = tommy_oliver
+			ledger = army
+			traits = { army_commando_1 }
+			can_be_fired = yes
+		}
+	}
+
+	CSD_jason_lee_scott = {
+		name = CSD_jason_lee_scott
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Jason_Lee_Scott.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Jason_Lee_Scott.dds"
+			}
+		}
+		field_marshal = {
+			traits = {
+				infantry_leader
+				commando
+				organizer
+				skilled_staffer
+				ranger
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 2
+		}
+	}
+
+	CSD_zack_taylor = {
+		name = CSD_zack_taylor
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Zack_Taylor.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Zack_Taylor.dds"
+			}
+		}
+		field_marshal = {
+			traits = {
+				harsh_leader
+				trait_reckless
+				infantry_leader
+				ranger
+			}
+			skill = 3
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	
+	CSD_billy_cranston = {
+		name = CSD_billy_cranston
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Billy_Cranston.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Billy_Cranston.dds"
+			}
+		}
+		field_marshal = {
+			traits = {
+				cavalry_leader
+				inspirational_leader
+				offensive_doctrine
+				war_hero
+				politically_connected
+				ranger
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+		}
+	}
+
+	#####################################################################
+	### Second Continental Army/US Army Rangers Generals - Level Five ###
+	#####################################################################
+	CSD_adam_park = {
+		name = CSD_adam_park
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Adam_Park.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Adam_Park.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				ranger 
+				career_officer
+				politically_connected
+				organizer
+				winter_expert
+			}
+			skill = 5
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 5
+			logistics_skill = 4
+		}
+	}
+	
+    #####################################################################
+	### Second Continental Army/US Army Rangers Generals - Level Four ###
+	#####################################################################
+	CSD_trini_kwan = {
+		name = CSD_trini_kwan
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Trini_Kwan.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Trini_Kwan.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				career_officer
+				winter_expert
+				organizer
+				ranger
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 4
+		}
+		gender = female
+	}
+
+	CSD_kimberly_ann_hart = {
+		name = CSD_kimberly_ann_hart
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Kimberly_Ann_Hart.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Kimberly_Ann_Hart.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				war_hero
+				ranger
+				infantry_leader
+				infantry_expert
+				organizer
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 4
+		}
+		gender = female
+	}
+
+	CSD_ashley_hammond = {
+		name = CSD_ashley_hammond
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Ashley_Hammond.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Ashley_Hammond.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				brilliant_strategist
+				artillery_specialist
+				panzer_leader
+				trait_engineer
+				ranger
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 4
+		}
+		gender = female
+	}
+	
+	CSD_rocky_de_santos = {
+		name = CSD_rocky_de_santos
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Rocky_De_Santos.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Rocky_De_Santos.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				offensive_doctrine
+				brilliant_strategist
+				infantry_officer
+				infantry_leader
+				trait_reckless
+				ranger
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 4
+			planning_skill = 4
+			logistics_skill = 2
+		}
+	}
+
+	######################################################################
+	### Second Continental Army/US Army Rangers Generals - Level Three ###
+	######################################################################
+	CSD_tanya_sloan = {
+		name = CSD_tanya_sloan
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Tanya_Sloan.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Tanya_Sloan.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				infantry_officer
+				commando
+				ranger
+				skilled_staffer
+				winter_expert
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+		}
+		gender = female
+	}
+
+	CSD_theodore_jarvis_johnson = {
+		name = CSD_theodore_jarvis_johnson
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Theodore_Jarvis_Johnson.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Theodore_Jarvis_Johnson.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				trait_cautious
+				infantry_leader
+				skilled_staffer
+				organizer
+				ranger
+			}
+			skill = 3
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+	
+	CSD_carlos_vallerte = {
+		name = CSD_carlos_vallerte
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Carlos_Vallerte.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Carlos_Vallerte.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				infantry_leader
+				infantry_expert
+				winter_expert
+				ranger
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	
+	CSD_katherine_hillard = {
+		name = CSD_katherine_hillard
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Katherine_Hillard.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Katherine_Hillard.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				career_officer
+				trickster
+				ranger
+				winter_expert
+				commando
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2
+		}
+		gender = female
+	}
+
+    ####################################################################
+	### Second Continental Army/US Army Rangers Generals - Level Two ###
+	####################################################################
+	CSD_cassie_chan = {
+		name = CSD_cassie_chan
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Cassie_Chan.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Cassie_Chan.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				trait_reckless
+				trait_engineer
+				commando
+				trickster
+			}
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 3
+		}
+		gender = female
+	}
+	
+	CSD_aisha_campbell = {
+		name = CSD_aisha_campbell
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Aisha_Campbell.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Aisha_Campbell.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				career_officer
+				politically_connected
+				infantry_leader
+				ranger
+			}
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+	}
 }

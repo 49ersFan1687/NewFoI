@@ -20,13 +20,13 @@ add_ideas = {
 }
 
 set_popularities = {
-	communism = 5
-	syndicalism = 5
+	communism = 3
+	syndicalism = 3
 	socialism = 10
 	social_democracy = 5
 	democratic = 5
 	market_liberal = 10
-	conservatism = 15
+	conservatism = 19
 	neutrality = 10
 	paternal_autocrat = 10
 	accelerationism = 5
@@ -59,6 +59,21 @@ recruit_character = CSD_tomomi_itano
 recruit_character = CSD_haruna_kojima
 
 # Second Continental Army Cascadian Branch - United States Army Rangers (It's morphin' time!) #
+recruit_character = CSD_tommy_oliver
+recruit_character = CSD_jason_lee_scott
+recruit_character = CSD_zack_taylor
+recruit_character = CSD_billy_cranston
+recruit_character = CSD_adam_park
+recruit_character = CSD_trini_kwan
+recruit_character = CSD_kimberly_ann_hart
+recruit_character = CSD_ashley_hammond
+recruit_character = CSD_rocky_de_santos
+recruit_character = CSD_tanya_sloan
+recruit_character = CSD_theodore_jarvis_johnson
+recruit_character = CSD_carlos_vallerte
+recruit_character = CSD_katherine_hillard
+recruit_character = CSD_cassie_chan
+recruit_character = CSD_aisha_campbell
 
 
 # Second Continental Army Cascadian Branch - Equestrian Generals (Friendship is Magic!) #
