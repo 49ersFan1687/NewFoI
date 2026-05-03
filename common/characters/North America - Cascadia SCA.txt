@@ -560,11 +560,9 @@ characters = {
 
 	CSD_haruna_kojima = {
 		name = CSD_haruna_kojima
-		desc =
 		portraits = {
 			army = {
-				large = "gfx/leaders/CSD/Portrait_CSD_Haurna_Kojima.dds"
-				small =
+				large = "gfx/leaders/CSD/Portrait_CSD_Haruna_Kojima.dds"
 			}
 			civilian = {
 				large = "gfx/leaders/CSD/Portrait_CSD_Haruna_Kojima.dds"

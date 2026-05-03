@@ -60,6 +60,7 @@ recruit_character = CSD_haruna_kojima
 
 # Second Continental Army Cascadian Branch - United States Army Rangers (It's morphin' time!) #
 
+
 # Second Continental Army Cascadian Branch - Equestrian Generals (Friendship is Magic!) #
 
 
@@ -76,5 +77,6 @@ recruit_character = CSD_haruna_kojima
 
 
 # Second Continental Army Cascadian Branch - Sensha-Do Students (Panzer Vor!) #
+
 
 # Second Continental Army Cascaian Branch - Death Weapon Meister Academy Generals () #
