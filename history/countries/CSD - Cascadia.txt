@@ -20,13 +20,13 @@ add_ideas = {
 }
 
 set_popularities = {
-	communism = 3
-	syndicalism = 3
+	communism = 0
+	syndicalism = 0
 	socialism = 10
 	social_democracy = 5
 	democratic = 5
 	market_liberal = 10
-	conservatism = 19
+	conservatism = 25
 	neutrality = 10
 	paternal_autocrat = 10
 	accelerationism = 5
