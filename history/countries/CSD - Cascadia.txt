@@ -102,6 +102,7 @@ recruit_character = CSD_yatsuhashi_daichi
 
 # Second Continental Army Cascadian Branch - Vytalian Generals - Hunters Not in Teams (Together for Remmnant!) #
 
+
 # Second Continental Army Cascadian Branch - Kuoh Academy Generals (By the eyes of the Pentagram!) #
 
 
