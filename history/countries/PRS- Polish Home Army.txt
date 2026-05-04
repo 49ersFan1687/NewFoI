@@ -23,7 +23,7 @@ create_country_leader = {
 	name = "Stanisław Lem"
 	desc = ""
 	picture = GFX_fish
-	ideology = military_junta_ideology
+	ideology = paternal_autocrat_military_junta_ideology
 	traits = {
 		#
 	}

@@ -80,7 +80,7 @@ recruit_character = CSD_aisha_campbell
 
 
 # Second Continental Army Cascadian Branch - Vytalian Generals (Together for Remmnant!) #
-
+recruit_character = CSD_ruby_rose
 
 # Second Continental Army Cascadian Branch - Kuoh Academy Generals (By the eyes of the Pentagram!) #
 

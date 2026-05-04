@@ -27,7 +27,7 @@ create_country_leader = {
 	name = "Charles de Gaulle"
 	desc = ""
 	picture = GFX_fish
-	ideology = military_junta_ideology
+	ideology = paternal_autocrat_military_junta_ideology
 	traits = {
 		#
 	}

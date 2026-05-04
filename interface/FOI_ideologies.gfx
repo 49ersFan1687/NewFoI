@@ -78,8 +78,8 @@ spriteTypes = {
 
 ### Paternal Autocrat Subideologies ###
 	spriteType = {
-		name = "GFX_ideology_military_junta_ideology"
-		texturefile = "gfx/interface/ideologies/military_junta_ideology.png"
+		name = "GFX_ideology_paternal_autocrat_military_junta_ideology"
+		texturefile = "gfx/interface/ideologies/paternal_autocrat_military_junta_ideology.png"
 	}
 	spriteType = {
 		name = "GFX_ideology_horthyism_ideology"

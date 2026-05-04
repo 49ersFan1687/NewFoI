@@ -549,7 +549,7 @@ characters = {
 			coordination_skill = 2 
 		}
 		advisor = { 
-			slot = high_command
+			slot = navy_high_command
 			cost = 150
 			idea_token = tomomi_itano
 			ledger = navy
@@ -581,7 +581,7 @@ characters = {
 			coordination_skill = 4
 		}
 		advisor = { 
-			slot = high_command
+			slot = navy_high_command
 			cost = 150
 			idea_token = haruna_kojima
 			ledger = navy
@@ -1016,4 +1016,152 @@ characters = {
 			logistics_skill = 2
 		}
 	}
+
+	####################################################################
+	### Second Continental Army/US Army Rangers Generals - Level One ###
+	####################################################################
+	
+############################################## My Little Pony Characters (Second Continental Army - Progressive-Aligned Generals) ##############################################
+
+	#############################################################
+	### Second Continental Army Progressives (Field Marshals) ###
+	#############################################################
+
+
+
+	##################################################################
+	### Second Continental Army Progressives - Level Five Generals ###
+	##################################################################
+
+
+
+	##################################################################
+	### Second Continental Army Progressives - Level Four Generals ###
+	##################################################################
+
+
+
+	###################################################################
+	### Second Continental Army Progressives - Level Three Generals ###
+	###################################################################
+
+
+
+	#################################################################
+	### Second Continental Army Progressives - Level Two Generals ###
+	#################################################################
+
+
+
+	#################################################################
+	### Second Continental Army Progressives - Level One Generals ###
+	#################################################################
+
+
+
+	############################################## RWBY Characters (Second Continental Army - Militarist-Aligned Generals) ##############################################
+
+	############################################################
+	### Second Continental Army Militarists (Field Marshals) ###
+	############################################################
+	CSD_ruby_rose = {
+		name = CSD_ruby_rose
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Ruby_Rose.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Ruby_Rose.dds"
+			}
+		}
+		country_leader = {
+			# desc = POLITICS_RUBY_ROSE_DESC
+			expire = "1994.4.20"
+			ideology = authoritarian_democracy_military_junta_ideology
+			#traits = {
+			#	CSD_the_red_rose_of_remnant
+			#}
+		}
+		field_marshal = {
+			traits = {
+				old_guard
+				war_hero
+				offensive_doctrine
+				skilled_staffer
+				expert_delegator
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 3
+		}
+		gender = female
+	}
+
+	#################################################################
+	### Second Continental Army Militarists - Level Five Generals ###
+	#################################################################
+
+
+
+	#################################################################
+	### Second Continental Army Militarists - Level Four Generals ###
+	#################################################################
+
+
+
+	##################################################################
+	### Second Continental Army Militarists - Level Three Generals ###
+	##################################################################
+
+
+
+	################################################################
+	### Second Continental Army Militarists - Level Two Generals ###
+	################################################################
+
+
+
+	################################################################
+	### Second Continental Army Militarists - Level One Generals ###
+	################################################################
+
+
+
+	############################################## High School DxD Characters (Second Continental Army - Conservative-Aligned Generals) ##############################################
+
+	##############################################################
+	### Second Continental Army Conservatives (Field Marshals) ###
+	##############################################################
+
+
+
+	###################################################################
+	### Second Continental Army Conservatives - Level Five Generals ###
+	###################################################################
+
+
+
+	###################################################################
+	### Second Continental Army Conservatives - Level Four Generals ###
+	###################################################################
+
+
+
+	####################################################################
+	### Second Continental Army Conservatives - Level Three Generals ###
+	####################################################################
+
+
+
+	##################################################################
+	### Second Continental Army Conservatives - Level Two Generals ###
+	##################################################################
+
+
+
+	##################################################################
+	### Second Continental Army Conservatives - Level One Generals ###
+	##################################################################
 }
