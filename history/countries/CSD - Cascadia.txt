@@ -75,11 +75,18 @@ recruit_character = CSD_katherine_hillard
 recruit_character = CSD_cassie_chan
 recruit_character = CSD_aisha_campbell
 
-
 # Second Continental Army Cascadian Branch - Equestrian Generals (Friendship is Magic!) #
+#recruit_character = CSD_twilight_sparkle
+#recruit_character = CSD_rainbow_dash
+#recruit_character = CSD_fluttershy
+#recruit_character = CSD_pinkie_pie
+#recruit_character = CSD_rarity
+#recruit_character = CSD_applejack
+#recruit_character = CSD_starlight_glimmer
+#recruit_character = CSD_sunset_shimmer
+#recruit_character = CSD_trixie_lulamoon
 
-
-# Second Continental Army Cascadian Branch - Vytalian Generals (Together for Remmnant!) #
+# Second Continental Army Cascadian Branch - Vytalian Generals - Hunters in Teams (Together for Remmnant!) #
 recruit_character = CSD_ruby_rose
 recruit_character = CSD_weiss_schnee
 recruit_character = CSD_blake_belladonna
@@ -92,6 +99,8 @@ recruit_character = CSD_coco_adel
 recruit_character = CSD_velvet_scarlatina
 recruit_character = CSD_fox_alistair
 recruit_character = CSD_yatsuhashi_daichi
+
+# Second Continental Army Cascadian Branch - Vytalian Generals - Hunters Not in Teams (Together for Remmnant!) #
 
 # Second Continental Army Cascadian Branch - Kuoh Academy Generals (By the eyes of the Pentagram!) #
 
