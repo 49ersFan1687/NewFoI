@@ -197,6 +197,10 @@ spriteTypes = {
 
 	# Canada #
 	spriteType = {
+		name = "GFX_CAN_Louis_Stephen_St_Laurent"
+		textureFile = "gfx/leaders/CAN/Portrait_CAN_Louis_Stephen_St_Laurent.dds"
+	}
+	spriteType = {
 		name = "GFX_CAN_Bernard_Law_Montgomery"
 		textureFile = "gfx/leaders/CAN/Portrait_CAN_Bernard_Law_Montgomery.dds"
 	}

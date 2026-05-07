@@ -6,7 +6,7 @@ characters = {
         name = CAN_Louis_Stephen_St_Laurent
         portraits = {
 			civilian = {
-				large = 
+				large = "gfx/leaders/CAN/Portrait_CAN_Louis_Stephen_St_Laurent.dds"
 			}
 		}
 		country_leader = {
