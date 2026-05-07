@@ -426,6 +426,18 @@ shared_focus = {
                 planning_skill = 4
                 logistics_skill = 3
             }
+            add_advisor_role = {
+                activate = yes
+                advisor = {
+                    cost = 150 
+                    slot = army_high_command
+                    idea_token = albert_coady_wedemeyer
+                    ledger = army
+                    traits = {
+                        army_regrouping_1
+                    }
+                }
+            }
         }
         ## todo: Event and Add Order of Battle for 6th Army
     }
