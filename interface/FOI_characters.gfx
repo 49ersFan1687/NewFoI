@@ -211,6 +211,10 @@ spriteTypes = {
 
 	# California #
 	spriteType = {
+		name = "GFX_CAL_Albert_Coady_Wedemeyer"
+		textureFile = "gfx/leaders/CAL/Portrait_CAL_Albert_Coady_Wedemeyer.dds"
+	}
+	spriteType = {
 		name = "GFX_CAL_Arleigh_Albert_Burke"
 		textureFile = "gfx/leaders/CAL/Portrait_CAL_Arleigh_Albert_Burke.dds"
 	}

@@ -792,6 +792,18 @@ characters = {
         }
     }
 
+	CAL_albert_coady_wedemeyer = {
+		name = CAL_albert_coady_wedemeyer
+		portraits = {
+            civilian = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Albert_Coady_Wedemeyer.dds"
+            }
+            army = {
+                large = "gfx/leaders/CAL/Portrait_CAL_Albert_Coady_Wedemeyer.dds"
+            }
+        }
+	}
+
 	##############################
 	### Generals - Level Three ###
 	##############################
