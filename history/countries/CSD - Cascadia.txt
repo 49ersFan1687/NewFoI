@@ -76,7 +76,7 @@ recruit_character = CSD_cassie_chan
 recruit_character = CSD_aisha_campbell
 
 # Second Continental Army Cascadian Branch - Equestrian Generals (Friendship is Magic!) #
-#recruit_character = CSD_twilight_sparkle
+recruit_character = CSD_twilight_sparkle
 #recruit_character = CSD_rainbow_dash
 #recruit_character = CSD_fluttershy
 #recruit_character = CSD_pinkie_pie
