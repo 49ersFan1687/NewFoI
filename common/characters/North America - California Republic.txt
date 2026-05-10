@@ -323,28 +323,6 @@ characters = {
 		}
 	}
 
-	CAL_spitfire = {
-		name = CAL_spitfire
-		portraits = {
-			army = {
-				large = GFX_fish
-			}
-		}
-		field_marshal = {
-			#desc = dont' leave equal symbol empty
-			traits = {
-				media_personality
-				air_commander
-				artillery_officer
-			}
-			skill = 4
-			attack_skill = 3
-			defense_skill = 3
-			planning_skill = 4
-			logistics_skill = 4
-        }
-	}
-
 	CAL_curtis_emerson_lemay = {
         name = CAL_curtis_emerson_lemay
         portraits = {

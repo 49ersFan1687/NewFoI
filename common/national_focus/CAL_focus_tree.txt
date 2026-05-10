@@ -482,7 +482,7 @@ shared_focus = {
         #hidden_effect = {
         #    load_oob = "CAL_volunteer_militias"
         #}
-        #add_manpower = 10000
+        add_manpower = 5000
     }
 }
 
@@ -506,7 +506,7 @@ shared_focus = {
         #hidden_effect = {
         #    load_oob = "CAL_mercenary_gunmen"
         #}
-        #add_manpower = 10000
+        add_manpower = 5000
     }
 }
 
@@ -812,7 +812,7 @@ shared_focus = {
     relative_position_id = CAL_control_the_sixth_army
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_summon_the_general_staff"
-        #todo: have this focus add generals to the country
+        #todo: have this focus add generals and high command to the country
     }
 }
 
