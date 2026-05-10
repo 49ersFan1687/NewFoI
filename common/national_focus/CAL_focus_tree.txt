@@ -440,6 +440,9 @@ shared_focus = {
             }
         }
         ## todo: Event and Add Order of Battle for 6th Army
+        #hidden_effect = {
+        #   load_oob = CAL_eighth_army
+        #}
     }
 }
 
