@@ -1051,11 +1051,11 @@ characters = {
 				thorough_planner
 				skilled_staffer
 			}
-			skill=3
-			attack_skill=2
-			defense_skill=2
-			planning_skill=6
-			logistics_skill=5
+			skill= 3
+			attack_skill= 2
+			defense_skill= 2
+			planning_skill= 6
+			logistics_skill= 5
 		}
 		gender = female
 	}
