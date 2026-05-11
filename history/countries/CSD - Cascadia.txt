@@ -23,8 +23,8 @@ set_popularities = {
 	communism = 0
 	syndicalism = 0
 	socialism = 10
-	social_democracy = 5
-	democratic = 5
+	social_democracy = 10
+	democratic = 10
 	market_liberal = 10
 	conservatism = 25
 	neutrality = 10
@@ -32,8 +32,8 @@ set_popularities = {
 	accelerationism = 5
 	fascism = 5
 	ultranationalism = 5
-	national_socialism = 5
-	esotericism	= 5
+	national_socialism = 0
+	esotericism	= 0
 }
 
 # Second Continental Army Cascadian Branch - AKB48 Generals (AKB...48!) #
