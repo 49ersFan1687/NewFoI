@@ -533,7 +533,7 @@ spriteTypes = {
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Carlos_Vallerte.dds"
 	}
 
-	# Cascadia - RWBY Characters #
+	# Cascadia - RWBY Characters - In Teams #
 	spriteType = {
 		name = "GFX_CSD_Ruby_Rose"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Ruby_Rose.dds"
@@ -581,5 +581,27 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_CSD_Yatsuhashi_Daichi"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Yatsuhashi_Daichi.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Cardin_Winchester"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Cardin_Winchester.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Russel_Thursh"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Russel_Thursh.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Dove_Bronzewing"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Dove_Bronzewing.dds"
+	}
+
+	# Cascadia - RWBY Characters - Not In Teams #
+	spriteType = {
+		name = "GFX_CSD_Oscar_Pine"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Oscar_Pine.dds"
+	}
+	spriteType = {
+		name = "GFX_CSD_Penny_Polendina"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Penny_Polendina.dds"
 	}
 }

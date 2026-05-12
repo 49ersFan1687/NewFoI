@@ -1057,6 +1057,17 @@ characters = {
 			planning_skill= 6
 			logistics_skill= 5
 		}
+		scientist = {
+			traits = {
+				scientist_trait_bright
+				scientist_trait_genius
+				scientist_trait_brilliant_theorist
+				scientist_trait_fast_learner
+			}
+			skills = {
+				specialization_nuclear = 1
+			}
+		}
 		gender = female
 	}
 
@@ -1190,6 +1201,32 @@ characters = {
 			logistics_skill = 2
 		}
 		gender = female
+	}
+
+	CSD_oscar_pine = {
+		name = CSD_oscar_pine
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Oscar_Pine.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Oscar_Pine.dds"
+			}
+		}
+		field_marshal = {
+			traits = { 
+				brilliant_strategist
+        		offensive_doctrine
+        		war_hero
+        		infantry_officer
+        		infantry_leader
+			}
+			skill = 5
+			attack_skill = 4
+			defense_skill = 4
+			planning_skill = 3
+			logistics_skill = 5
+		}
 	}
 
 	#################################################################
@@ -1345,6 +1382,30 @@ characters = {
 		}
 	}
 
+	CSD_cardin_winchester = {
+		name = CSD_cardin_winchester
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Cardin_Winchester.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Cardin_Winchester.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				trickster
+				commando
+				paratrooper
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 3 
+		}
+	}
+
 	##################################################################
 	### Second Continental Army Militarists - Level Three Generals ###
 	##################################################################
@@ -1448,6 +1509,79 @@ characters = {
 			planning_skill = 2
 			logistics_skill = 3
 		}
+	}
+
+	CSD_dove_bronzewing = {
+		name = CSD_dove_bronzewing
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Dove_Bronzewing.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Dove_Bronzewing.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				commando
+				armor_officer
+				artillery_specialist
+			}
+			skill = 3
+			attack_skill = 5
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 3 
+		}
+	}
+
+	CSD_russel_thursh = {
+		name = CSD_russel_thursh
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Russel_Thursh.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Russel_Thursh.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				career_officer
+				infantry_leader
+				artillery_specialist
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+
+	CSD_penny_polendina = {
+		name = CSD_penny_polendina
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Penny_Polendina.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Penny_Polendina.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				organizer
+				infantry_officer
+				trait_engineer
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+		gender = female
 	}
 
 	################################################################
