@@ -99,9 +99,34 @@ recruit_character = CSD_coco_adel
 recruit_character = CSD_velvet_scarlatina
 recruit_character = CSD_fox_alistair
 recruit_character = CSD_yatsuhashi_daichi
+#recruit_character = CSD_arslan_atlan
+#recruit_character = CSD_bolin_hori
+#recruit_character = CSD_reese_chloris
+#recruit_character = CSD_nadir_shirko
+#recruit_character = CSD_sun_wukong
+#recruit_character = CSD_scarlet_david
+#recruit_character = CSD_sage_ayana
+#recruit_character = CSD_neptune_vasillias
+#recruit_character = CSD_cardin_winchester
+#recruit_character = CSD_russel_thursh
+#recruit_character = CSD_dove_bronzewing
+#recruit_character = CSD_sky_lark
+#recruit_character = CSD_nebula_violette
+#recruit_character = CSD_dew_gayl
+#recruit_character = CSD_gwen_darcy
+#recruit_character = CSD_octavia_ember
+#recruit_character = CSD_brawnz_ni
+#recruit_character = CSD_roy_stallion
+#recruit_character = CSD_nolan_porfio
+#recruit_character = CSD_may_zedong
+#recruit_character = CSD_flynt_coal
+#recruit_character = CSD_neon_katt
+#recruit_character = CSD_kobalt
+#recruit_character = CSD_ivori
 
 # Second Continental Army Cascadian Branch - Vytalian Generals - Hunters Not in Teams (Together for Remmnant!) #
-
+#recruit_character = CSD_penny_polendina
+#recurit_character = CSD_ciel_soleil
 
 # Second Continental Army Cascadian Branch - Kuoh Academy Generals (By the eyes of the Pentagram!) #
 
