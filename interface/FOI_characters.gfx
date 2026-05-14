@@ -594,6 +594,10 @@ spriteTypes = {
 		name = "GFX_CSD_Dove_Bronzewing"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Dove_Bronzewing.dds"
 	}
+	spriteType = {
+		name = "GFX_CSD_Sky_Lark"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Sky_Lark.dds"
+	}
 
 	# Cascadia - RWBY Characters - Not In Teams #
 	spriteType = {

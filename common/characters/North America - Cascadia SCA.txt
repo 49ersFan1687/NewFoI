@@ -1559,6 +1559,30 @@ characters = {
 		}
 	}
 
+	CSD_sky_lark = {
+		name = CSD_sky_lark
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Sky_Lark.dds"
+			}
+			army = {
+				large = "gfx/leaders/CSD/Portrait_CSD_Sky_Lark.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				career_officer
+				trickster
+				trait_reckless
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2 
+		}
+	}
+
 	CSD_penny_polendina = {
 		name = CSD_penny_polendina
 		portraits = {
