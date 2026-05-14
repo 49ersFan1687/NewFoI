@@ -12433,7 +12433,7 @@ shared_focus = {
     available = {
         has_country_flag = CAL_sca_junta
     }
-	x = 28
+	x = 30
 	y = 16
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus CAL_form_the_armed_forces_diplomatic_corps"
@@ -13269,7 +13269,7 @@ shared_focus = {
     available = {
         has_country_flag = CAL_sca_civilian
     }
-	x = 32
+	x = 30
 	y = 16
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus CAL_achesons_department_of_state"
