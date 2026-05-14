@@ -8291,7 +8291,7 @@ shared_focus = {
         has_country_flag = CAL_sca_civilian
         has_country_flag = CAL_sca_junta
     }
-    x = -10
+    x = -9
     y = 5
     completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus CAL_the_economy_of_the_pacific_states_of_america"
@@ -10861,7 +10861,7 @@ shared_focus = {
     ai_will_do = {
         factor = 1
     }
-    x = 0
+    x = 3
     y = 15
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_pacific_states_navy"
