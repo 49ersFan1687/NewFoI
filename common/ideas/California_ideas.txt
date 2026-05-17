@@ -1623,97 +1623,190 @@ ideas = {
 ### NAVY REFORM IDEAS - ADMIRAL-SPECIFIC IDEAS ###        
 ##################################################
 
-        ### Navy Reform Ideas - William Daniel Leahy ###
-        CAL_leahy_reform_plan1 = { # Leahy's Navy Reform Plan - Coastal Defense Fleet - Part One
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_leahy_reform_plan1" }
+        ### Navy Reform Ideas - William Frederick Halsey Jr. ###
+        CAL_halsey_reform_plan1 = { # Halsey's Navy Reform Plan - Grand Fleet - Part One
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_halsey_reform_plan1" }
             allowed = { always = no }
-            picture = leahy_plan
+            picture = halsey_plan
             modifier = {
 
             }
         }
 
-        CAL_leahy_reform_plan2 = { # Leahy's Navy Reform Plan - Coastal Defense Fleet - Part Two
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_leahy_reform_plan2" }
+        CAL_halsey_reform_plan2 = { # Halsey's Navy Reform Plan - Grand Fleet - Part Two
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_halsey_reform_plan2" }
             allowed = { always = no }
-            picture = leahy_plan
+            picture = halsey_plan
             modifier = {
 
             }
         }
 
-        CAL_leahy_reform_plan3 = { # Leahy's Navy Reform Plan - Coastal Defense Fleet - Part Three
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_leahy_reform_plan3" }
+        CAL_halsey_reform_plan3 = { # Halsey's Navy Reform Plan - Grand Fleet - Part Three
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_halsey_reform_plan3" }
             allowed = { always = no }
-            picture = leahy_plan
+            picture = halsey_plan
             modifier = {
 
             }
         }
 
-        CAL_leahy_reform_plan4 = { # Leahy's Navy Reform Plan - Coastal Defense Fleet - Part Four
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_leahy_reform_plan4" }
+        CAL_halsey_reform_plan4 = { # Halsey's Navy Reform Plan - Grand Fleet - Part Four
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_halsey_reform_plan4" }
             allowed = { always = no }
-            picture = leahy_plan
+            picture = halsey_plan
             modifier = {
 
             }
         }
 
-        CAL_leahy_reform_plan5 = { # Leahy's Navy Reform Plan - Coastal Defense Fleet - Part Five
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_leahy_reform_plan5" }
+        CAL_halsey_reform_plan5 = { # Halsey's Navy Reform Plan - Grand Fleet - Part Five
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_halsey_reform_plan5" }
             allowed = { always = no }
-            picture = leahy_plan
+            picture = halsey_plan
             modifier = {
 
             }
         }
 
-        ### Navy Reform Ideas - Chester William Nimitz and Ernest Joseph King ###
-        CAL_nimitz_king_reform_plan1 = { # Nimitz and King's Navy Reform Plan - Grand Fleet - Part One
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_king_reform_plan1" }
+        CAL_halsey_reform_plan6 = { # Halsey's Navy Reform Plan - Grand Fleet - Part Six
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_halsey_reform_plan6" }
             allowed = { always = no }
-            picture = nimitz_king_plan
+            picture = halsey_plan
+            modifier = {
+
+            }
+        } 
+        
+        ### Navy Reform Ideas - Chester William Nimitz ###
+        CAL_nimitz_reform_plan1 = { # Nimitzs Navy Reform Plan - Carrier Onslaught - Part One
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_reform_plan1" }
+            allowed = { always = no }
+            picture = nimitz_plan
             modifier = {
 
             }
         }
 
-        CAL_nimitz_king_reform_plan2 = { # Nimitz and King's Navy Reform Plan - Grand Fleet - Part Two
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_king_reform_plan2" }
+        CAL_nimitz_reform_plan2 = { # Nimitzs Navy Reform Plan - Carrier Onslaught - Part Two
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_reform_plan2" }
             allowed = { always = no }
-            picture = nimitz_king_plan
+            picture = nimitz_plan
             modifier = {
 
             }
         }
 
-        CAL_nimitz_king_reform_plan3 = { # Nimitz and King's Navy Reform Plan - Grand Fleet - Part Three
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_king_reform_plan3" }
+        CAL_nimitz_reform_plan3a = { # Nimitzs Navy Reform Plan - Carrier Onslaught - Part Three - Option A
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_reform_plan3" }
             allowed = { always = no }
-            picture = nimitz_king_plan
+            picture = nimitz_plan
             modifier = {
 
             }
         }
 
-        CAL_nimitz_king_reform_plan4 = { # Nimitz and King's Navy Reform Plan - Grand Fleet - Part Four
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_king_reform_plan4" }
+        CAL_nimitz_reform_plan4 = { # Nimitzs Navy Reform Plan - Carrier Onslaught - Part Four
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_reform_plan4" }
             allowed = { always = no }
-            picture = nimitz_king_plan
+            picture = nimitz_plan
             modifier = {
 
             }
         }
 
-        CAL_nimitz_king_reform_plan5 = { # Nimitz and King's Navy Reform Plan - Grand Fleet - Part Five
-            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_king_reform_plan5" }
+        CAL_nimitz_reform_plan5a = { # Nimitzs Navy Reform Plan - Carrier Onslaught - Part Five - Option A
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_reform_plan5a" }
             allowed = { always = no }
-            picture = nimitz_king_plan
+            picture = nimitz_plan
             modifier = {
 
             }
         }
+
+        CAL_nimitz_reform_plan5b = { # Nimitzs Navy Reform Plan - Carrier Onslaught - Part Five - Option B
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_reform_plan5b" }
+            allowed = { always = no }
+            picture = nimitz_plan
+            modifier = {
+
+            }
+        }
+
+        CAL_nimitz_reform_plan6a = { # Nimitzs Navy Reform Plan - Carrier Onslaught - Part Six - Option A
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_reform_plan6" }
+            allowed = { always = no }
+            picture = nimitz_plan
+            modifier = {
+
+            }
+        }
+
+        CAL_nimitz_reform_plan6b = { # Nimitzs Navy Reform Plan - Carrier Onslaught - Part Six - Option B
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_nimitz_reform_plan6" }
+            allowed = { always = no }
+            picture = nimitz_plan
+            modifier = {
+
+            }
+        }
+
+        ### Navy Reform Ideas - Ernest Joseph King ###
+        CAL_king_reform_plan1 = { # King's Navy Reform Plan - Underwater Huntsmen - Part One
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_king_reform_plan1" }
+            allowed = { always = no }
+            picture = king_plan
+            modifier = {
+
+            }
+        }
+
+        CAL_king_reform_plan2 = { # King's Navy Reform Plan - Underwater Huntsmen - Part Two
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_king_reform_plan2" }
+            allowed = { always = no }
+            picture = king_plan
+            modifier = {
+
+            }
+        }
+
+        CAL_king_reform_plan3 = { # King's Navy Reform Plan - Underwater Huntsmen - Part Three
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_king_reform_plan3" }
+            allowed = { always = no }
+            picture = king_plan
+            modifier = {
+
+            }
+        }
+
+        CAL_king_reform_plan4 = { # King's Navy Reform Plan - Underwater Huntsmen - Part Four
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_king_reform_plan4" }
+            allowed = { always = no }
+            picture = king_plan
+            modifier = {
+
+            }
+        }
+
+        CAL_king_reform_plan5 = { # King's Navy Reform Plan - Underwater Huntsmen - Part Five
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_king_reform_plan5" }
+            allowed = { always = no }
+            picture = king_plan
+            modifier = {
+
+            }
+        }
+
+        CAL_king_reform_plan6 = { # King's Navy Reform Plan - Underwater Huntsmen - Part Six
+            on_add = { log = "[GetDateText]: [Root.GetName]: add idea CAL_king_reform_plan6" }
+            allowed = { always = no }
+            picture = king_plan
+            modifier = {
+
+            }
+        }
+
+       
 ################################################
 ### MARINE CORPS REFORM IDEAS - SHARED IDEAS ###
 ################################################
