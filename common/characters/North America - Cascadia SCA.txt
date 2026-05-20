@@ -1088,6 +1088,7 @@ characters = {
 	### Second Continental Army Progressives - Level Three Generals ###
 	###################################################################
 
+	
 
 	#################################################################
 	### Second Continental Army Progressives - Level Two Generals ###
