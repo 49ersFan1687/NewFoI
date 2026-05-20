@@ -612,4 +612,16 @@ spriteTypes = {
 		name = "GFX_CSD_Penny_Polendina"
 		textureFile = "gfx/leaders/CSD/Portrait_CSD_Penny_Polendina.dds"
 	}
+
+	# Cascadia - Girls Und Panzer Characters - Saunders #
+	spriteType = {
+		name = "GFX_CSD_Kay"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Kay.dds"
+	}
+
+	# Cascadia - Girls Und Panzer Characters - St. Gloriana #
+	spriteType = {
+		name = "GFX_CSD_Darjeeling"
+		textureFile = "gfx/leaders/CSD/Portrait_CSD_Darjeeling.dds"
+	}
 }

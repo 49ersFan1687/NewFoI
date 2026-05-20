@@ -9214,9 +9214,8 @@ shared_focus = {
     ai_will_do = {
         factor = 1
     }
-    x = 0
-    y = 2
-    relative_position_id = CAL_the_caisons_go_marching_along
+    x = 45
+    y = 16
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_pacific_states_air_force"
         swap_ideas = {
@@ -9892,7 +9891,7 @@ shared_focus = {
         focus = CAL_addressing_each_military_branch
     }
     x = 45
-    y = 4
+    y = 1
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_pacific_states_army"
         swap_ideas = {
@@ -10956,7 +10955,7 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = CAL_the_caisons_go_marching_along
+	id = CAL_this_well_defend
 	icon = GFX
 	cost = 3
 	available_if_capitulated = no
@@ -10973,7 +10972,7 @@ shared_focus = {
 	y = 1
 	relative_position_id = CAL_attack_attack_attack
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus CAL_the_caisons_go_marching_along"
+		log = "[GetDateText]: [Root.GetName]: Focus CAL_this_well_defend"
 	}
 }
 
@@ -11012,6 +11011,148 @@ shared_focus = {
 			uses = 1
 			category = artillery
 		}
+	}
+}
+
+shared_focus = {
+	id = CAL_reinstate_the_airborne_corps
+	icon = GFX
+	cost = 3
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 2
+	}
+	prerequisite = {
+		focus = CAL_this_well_defend
+	}
+	x = -1
+	y = 1
+	relative_position_id = CAL_this_well_defend
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CAL_reinstate_the_airborne_corps"
+	}
+}
+
+shared_focus = {
+	id = CAL_helicopter_integration
+	icon = GFX
+	cost = 3
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 2
+	}
+	prerequisite = {
+		focus = CAL_this_well_defend
+	}
+	x = 1
+	y = 1
+	relative_position_id = CAL_this_well_defend
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CAL_helicopter_integration"
+	}
+}
+
+shared_focus = {
+	id = CAL_mechanized_scouts
+	icon = GFX
+	cost = 3
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 2
+	}
+	prerequisite = {
+		focus = CAL_reinstate_the_airborne_corps
+	}
+	x = -2
+	y = 1
+	relative_position_id = CAL_reinstate_the_airborne_corps
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CAL_mechanized_scouts"
+	}
+}
+
+shared_focus = {
+	id = CAL_advanced_rifle_research
+	icon = GFX
+	cost = 3
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 2
+	}
+	prerequisite = {
+		focus = CAL_reinstate_the_airborne_corps
+	}
+	x = 0
+	y = 1
+	relative_position_id = CAL_reinstate_the_airborne_corps
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CAL_advanced_rifle_research"
+	}
+}
+
+shared_focus = {
+	id = CAL_flame_tank_research
+	icon = GFX
+	cost = 3
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 2
+	}
+	prerequisite = {
+		focus = CAL_helicopter_integration
+	}
+	x = 0
+	y = 1
+	relative_position_id = CAL_helicopter_integration
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CAL_flame_tank_research"
+	}
+}
+
+shared_focus = {
+	id = CAL_looking_into_integrating_foreign_unit_types
+	icon = GFX
+	cost = 3
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 2
+	}
+	prerequisite = {
+		focus = CAL_helicopter_integration
+	}
+	x = 2
+	y = 1
+	relative_position_id = CAL_helicopter_integration
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CAL_this_well_defend"
+	}
+}
+
+shared_focus = {
+	id = CAL_the_army_goes_marching_along
+	icon = GFX
+	cost = 3
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 2
+	}
+	prerequisite = {
+		focus = CAL_mechanized_scouts
+    }
+    prerequisite = {
+		focus = CAL_advanced_rifle_research
+    }
+    prerequisite = {
+		focus = CAL_flame_tank_research
+    }
+    prerequisite = {
+		focus = CAL_looking_into_integrating_foreign_unit_types
+	}
+	x = 1
+	y = 1
+	relative_position_id = CAL_advanced_rifle_research
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CAL_this_well_defend"
 	}
 }
 
@@ -11099,6 +11240,35 @@ shared_focus = {
 }
 
 shared_focus = {
+    id = CAL_sailor_recruitment_campaign
+    icon = GFX
+    cost = 3
+    available_if_capitulated = no
+    ai_will_do = {
+        factor = 1
+    }
+    prerequisite = {
+        focus = CAL_reactivate_pudget_sound
+    }
+    prerequisite = {
+        focus = CAL_restore_the_admirality
+    }
+    prerequisite = {
+        focus = CAL_reactivate_mare_island
+    }
+    x = 0
+    y = 1
+    relative_position_id = CAL_restore_the_admirality
+    completion_reward = {
+        log = "[GetDateText]: [Root.GetName]: Focus CAL_the_pacific_states_navy"
+        swap_ideas = {
+            remove_idea = CAL_the_mothballed_navy2
+            add_idea = CAL_the_mothballed_navy3
+        }
+    }
+}
+
+shared_focus = {
     id = CAL_the_pacific_states_navy_reform_plan
     icon = GFX
     cost = 3
@@ -11109,21 +11279,12 @@ shared_focus = {
     x = 0
     y = 1
     prerequisite = {
-        focus = CAL_reactivate_pudget_sound
+        focus = CAL_sailor_recruitment_campaign
     }
-    prerequisite = {
-        focus = CAL_restore_the_admirality
-    }
-    prerequisite = {
-        focus = CAL_reactivate_mare_island
-    }
-    relative_position_id = CAL_restore_the_admirality
+    relative_position_id = CAL_sailor_recruitment_campaign
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_pacific_states_navy"
-        swap_ideas = {
-            remove_idea = CAL_the_mothballed_navy2
-            add_idea = CAL_the_mothballed_navy3
-        }
+        remove_ideas = CAL_the_mothballed_navy3
     }
 }
 
@@ -11147,10 +11308,6 @@ shared_focus = {
     relative_position_id = CAL_the_pacific_states_navy_reform_plan
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_admiral_halseys_plan_a_new_great_white_fleet"
-        swap_ideas = {
-            remove_idea = CAL_the_mothballed_navy3
-            add_idea = CAL_halsey_reform_plan1
-        }
     }
 }
 
@@ -11285,10 +11442,6 @@ shared_focus = {
     relative_position_id = CAL_admiral_nimitzs_plan_carrier_onslaught
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_defining_the_carrier_strike_group"
-        swap_ideas = {
-            add_idea = CAL_nimitz_reform_plan1
-            remove_idea = CAL_nimitz_reform_plan2
-        }
     }
 }
 
@@ -11469,10 +11622,6 @@ shared_focus = {
     relative_position_id = CAL_modernize_the_ship_of_the_line_concept
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_missouris_show"
-        swap_ideas = {
-            remove_idea = CAL_halsey_reform_plan2
-            add_idea = CAL_halsey_reform_plan3
-        }
     }
 }
 
@@ -11503,9 +11652,6 @@ shared_focus = {
     ai_will_do = {
         factor = 1
     }
-    available = {
-        has_completed_focus = CAL_improved_deck_operations
-    }
     prerequisite = {
         focus = CAL_defining_the_carrier_strike_group
     }
@@ -11514,10 +11660,6 @@ shared_focus = {
     relative_position_id = CAL_defining_the_carrier_strike_group
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_angels_of_the_seven_seas"
-        swap_ideas = {
-            add_idea = CAL_nimitz_reform_plan3
-            remove_idea = CAL_nimitz_reform_plan4
-        }
     }
 }
 
@@ -11731,10 +11873,6 @@ shared_focus = {
     relative_position_id = CAL_halseys_iron_leviathans
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_strategic_launch_pads"
-        swap_ideas = {
-            remove_idea = CAL_halsey_reform_plan3
-            add_idea = CAL_halsey_reform_plan4
-        }
     }
 }
 
@@ -11801,10 +11939,6 @@ shared_focus = {
     relative_position_id = CAL_angels_of_the_seven_seas
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_rolling_naval_thunder"
-        swap_ideas = {
-            add_idea = CAL_nimitz_reform_plan4
-            remove_idea = CAL_nimitz_reform_plan5a
-        }
     }
 }
 
@@ -11827,10 +11961,6 @@ shared_focus = {
     relative_position_id = CAL_angels_of_the_seven_seas
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_pinpoint_strike_tactics"
-        swap_ideas = {
-            add_idea = CAL_nimitz_reform_plan4
-            remove_idea = CAL_nimitz_reform_plan5b
-        }
     }
 }
 
@@ -12037,10 +12167,6 @@ shared_focus = {
     relative_position_id = CAL_strategic_launch_pads
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_american_kantai_kessen"
-        swap_ideas = {
-            remove_idea = CAL_halsey_reform_plan4
-            add_idea = CAL_halsey_reform_plan5
-        }
     }
 }
 
@@ -12281,10 +12407,6 @@ shared_focus = {
     relative_position_id = CAL_american_kantai_kessen
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_make_the_skies_fall_on_their_heads"
-        swap_ideas = {
-            remove_idea = CAL_halsey_reform_plan5
-            add_idea = CAL_halsey_reform_plan6
-        }
     }
 }
 
@@ -12313,20 +12435,6 @@ shared_focus = {
     relative_position_id = CAL_improved_plane_catapults
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_metal_ospreys"
-        if = {
-            limit = { has_idea = CAL_nimitz_reform_plan5a }
-            swap_ideas = {
-				remove_idea = CAL_nimitz_reform_plan5a
-				add_idea = CAL_nimitz_reform_plan6a
-			}
-        }
-        else = {
-            limit = { has_idea = CAL_nimitz_reform_plan6a }
-             swap_ideas = {
-				remove_idea = CAL_nimitz_reform_plan5b
-				add_idea = CAL_nimitz_reform_plan6b
-			}
-        }
     }
 }
 
