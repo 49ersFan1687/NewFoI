@@ -48,6 +48,10 @@ spriteTypes = {
 		name = "GFX_SDL_Nikolai_Fyodorovich_Vatutin"
 		textureFile = "gfx/leaders/SDL/Portrait_SDL_Nikolai_Fyodorovich_Vatutin.dds"
 	}
+	spriteType = {
+		name = "GFX_SDL_Yakov_Grigorevich_Kreizer"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Yakov_Grigorevich_Kreizer.dds"
+	}
 
 	# German Faction #
 	spriteType = {
