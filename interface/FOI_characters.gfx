@@ -60,6 +60,10 @@ spriteTypes = {
 		name = "GFX_SDL_Iona_Emmanuilovich_Yakir"
 		textureFile = "gfx/leaders/SDL/Portrait_SDL_Iona_Emmanuilovich_Yakir.dds"
 	}
+	spriteType = {
+		name = "GFX_SDL_Ilya_Vasilievich_Baldinov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Ilya_Vasilievich_Baldinov.dds"
+	}
 
 	# German Faction #
 	spriteType = {
