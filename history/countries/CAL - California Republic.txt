@@ -81,7 +81,22 @@ set_variable = { var = CAL_the_new_american_economy_production_factory_efficienc
 set_variable = { var = CAL_the_new_american_economy_production_factory_start_efficiency_factor value = -0.15 }
 add_dynamic_modifier = { modifier = CAL_the_new_american_economy_modifier }
 
-### 
+### Dummy Leaders ###
+create_country_leader = {
+	name = "William Dudley Pelley"
+	picture = "gfx/leaders/ANR/Portrait_ANR_William_Dudley_Pelley.dds"
+	ideology = occultist_nazism_ideology
+}
+create_country_leader = {
+	name = "William Dudley Pelley"
+	picture = "gfx/leaders/ANR/Portrait_ANR_William_Dudley_Pelley.dds"
+	ideology = occultist_nazism_esoteric_ideology
+}
+create_country_leader = {
+	name = "William Dudley Pelley"
+	picture = "gfx/leaders/ANR/Portrait_ANR_William_Dudley_Pelley.dds"
+	ideology = esoteric_fascism_ideology
+}
 
 ######################
 ### Country Leader ###

@@ -191,6 +191,7 @@ spriteTypes = {
 		name = "GFX_H_H_Lewis_MCH"
 		textureFile = "gfx/leaders/MCH/HHLewis.png"
 	}
+
 	# American National Republic #
 	spriteType = {
 		name = "GFX_Coughlin_ANR"
@@ -203,6 +204,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_Wallace_White_ANR"
 		textureFile = "gfx/leaders/ANR/WallaceWhite.png"
+	}
+	spriteType = {
+		name = "GFX_ANR_William_Dudley_Pelley"
+		textureFile = "gfx/leaders/ANR/Portrait_ANR_William_Dudley_Pelley.dds"
 	}
 
 	# France #
