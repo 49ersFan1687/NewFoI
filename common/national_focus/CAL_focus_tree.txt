@@ -114,7 +114,7 @@ focus_tree = {
 }
 
 focus_tree = {
-    id = CAL_military_democracy_bonesteel_post_unification_focus_tree
+    id = CAL_civilian_democracy_post_unification_focus_tree
     country = {
 		factor = 0
 		modifier = { 
@@ -124,12 +124,10 @@ focus_tree = {
 	}
     default = no
     continuous_focus_position = { x = 450 y = 200 }
-    shared_focus = CAL_the_american_casear_takes_his_seat
-    shared_focus = CAL_caesars_new_legions
 }
 
 focus_tree = {
-    id = CAL_civilian_democracy_post_unification_focus_tree
+    id = CAL_military_democracy_bonesteel_post_unification_focus_tree
     country = {
 		factor = 0
 		modifier = { 
