@@ -1,3 +1,4 @@
+### Government and Economy Stuff ###
 CAL_the_new_american_economy_modifier = {
     enable { always = yes }
     #icon = 
@@ -18,7 +19,19 @@ CAL_the_new_american_economy_modifier = {
 	production_factory_start_efficiency_factor = CAL_the_new_american_economy_production_factory_start_efficiency_factor
 }
 
-### Navy Dynamic Modifier Stuff ###
+CAL_a_more_regulated_military_industrial_complex = {
+	enable { always = yes }
+}
+
+CAL_restored_civilian_government = {
+	enable { always = yes }
+}
+
+CAL_a_democracy_under_the_army = {
+	enable { always = yes }
+}
+
+### California Navy Dynamic Modifier Stuff ###
 CAL_halsey_navy_modifier = {
 	enable = { always = yes }
     #icon =
@@ -79,14 +92,3 @@ CAL_nimitz_navy_modifier = {
 	positioning = CAL_nimitz_navy_positioning
 }
 
-CAL_a_more_regulated_military_industrial_complex = {
-	enable { always = yes }
-}
-
-CAL_restored_civilian_government = {
-	enable { always = yes }
-}
-
-CAL_a_democracy_under_the_army = {
-	enable { always = yes }
-}
