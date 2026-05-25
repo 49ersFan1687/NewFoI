@@ -108,30 +108,27 @@ add_dynamic_modifier = { modifier = CAL_halsey_navy_modifier }
 #####################
 ### Dummy Leaders ###
 #####################
-
-### Dummy Leaders - Far-Right Parties ###
 create_country_leader = {
-	name = "William Dudley Pelley"
+	name = "Miscellaneous Far-Right Leaders"
 	picture = "gfx/leaders/ANR/Portrait_ANR_William_Dudley_Pelley.dds"
 	ideology = occultist_nazism_ideology
 }
 create_country_leader = {
-	name = "William Dudley Pelley"
+	name = "Miscellaneous Far-Right Leaders"
 	picture = "gfx/leaders/ANR/Portrait_ANR_William_Dudley_Pelley.dds"
 	ideology = occultist_nazism_esoteric_ideology
 }
 create_country_leader = {
-	name = "William Dudley Pelley"
+	name = "Miscellaneous Far-Right Leaders"
 	picture = "gfx/leaders/ANR/Portrait_ANR_William_Dudley_Pelley.dds"
 	ideology = esoteric_fascism_ideology
 }
 create_country_leader = {
-	name = "William Dudley Pelley"
+	name = "Miscellaneous Far-Right Leaders"
 	picture = "gfx/leaders/ANR/Portrait_ANR_William_Dudley_Pelley.dds"
 	ideology = ultranationalism_ideology
 }
 
-### Dummy Leaders - Far-Left Parties ###
 
 ######################
 ### Country Leader ###
