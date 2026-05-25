@@ -81,6 +81,34 @@ set_variable = { var = CAL_the_new_american_economy_production_factory_efficienc
 set_variable = { var = CAL_the_new_american_economy_production_factory_start_efficiency_factor value = -0.15 }
 add_dynamic_modifier = { modifier = CAL_the_new_american_economy_modifier }
 
+### Halsey Navy ###
+set_variable = { var = navy_capital_ship_attack_factor = CAL_halsey_navy_navy_capital_ship_attack_factor value = 0 }
+set_variable = { var = navy_capital_ship_defence_factor = CAL_halsey_navy_navy_capital_ship_defence_factor value = 0 }
+set_variable = { var = navy_screen_attack_factor = CAL_halsey_navy_navy_screen_attack_factor value = 0 }
+set_variable = { var = navy_screen_defence_factor = CAL_halsey_navy_navy_screen_defence_factor value = 0 }
+set_variable = { var = night_spotting_chance = CAL_halsey_navy_night_spotting_chance value = 0 }
+set_variable = { var = spotting_chance = CAL_halsey_navy_spotting_chance value = 0 }
+set_variable = { var = positioning = CAL_halsey_navy_battleship_positioning value = 0 }
+set_variable = { var = naval_hit_chance = CAL_halsey_navy_naval_hit_chance value = 0 }
+set_variable = { var = naval_critical_score_chance_factor = CAL_halsey_navy_naval_critical_score_chance_factor value = 0 }
+set_variable = { var = critical_receive_chance = CAL_halsey_navy_critical_receive_chance value = 0 }
+set_variable = { var = navy_max_range_factor = CAL_halsey_navy_navy_max_range_factor value = 0 } 
+set_variable = { var = naval_speed_factor = CAL_halsey_navy_naval_speed_factor value = 0 }
+set_variable = { var = navy_org = CAL_halsey_navy_navy_org value = 0 }
+set_variable = { var = ships_at_battle_start = CAL_halsey_navy_ships_at_battle_start value = 0 }
+set_variable = { var = naval_damage_factor = USA_battleship_damage_factor value = 0 }
+add_dynamic_modifier = { modifier = CAL_halsey_navy_modifier }
+
+### King Navy ###
+
+
+
+### Nimitz Navy ###
+
+#####################
+### Dummy Leaders ###
+#####################
+
 ### Dummy Leaders - Far-Right Parties ###
 create_country_leader = {
 	name = "William Dudley Pelley"

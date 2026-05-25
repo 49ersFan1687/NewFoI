@@ -1,6 +1,6 @@
 CAL_the_new_american_economy_modifier = {
     enable { always = yes }
-    icon = GFX_idea_CAL_the_new_american_economy
+    #icon = 
 	stability_factor = CAL_the_new_american_economy_stability_factor
 	monthly_population = CAL_the_new_american_economy_monthly_population_factor
     consumer_goods_factor = CAL_the_new_american_economy_consumer_goods_factor
@@ -16,6 +16,37 @@ CAL_the_new_american_economy_modifier = {
 	production_factory_max_efficiency_factor = CAL_the_new_american_economy_production_factory_max_efficiency_factor
 	production_factory_efficiency_gain_factor = CAL_the_new_american_economy_production_factory_efficiency_gain_factor
 	production_factory_start_efficiency_factor = CAL_the_new_american_economy_production_factory_start_efficiency_factor
+}
+
+### Navy Dynamic Modifier Stuff ###
+CAL_halsey_navy_modifier = {
+	enable = { always = yes }
+    #icon =
+	navy_capital_ship_attack_factor = CAL_halsey_navy_navy_capital_ship_attack_factor
+	navy_capital_ship_defence_factor = CAL_halsey_navy_navy_capital_ship_defence_factor
+	navy_screen_attack_factor = CAL_halsey_navy_navy_screen_attack_factor
+	navy_screen_defence_factor = CAL_halsey_navy_navy_screen_defence_factor
+	night_spotting_chance = CAL_halsey_navy_night_spotting_chance
+	spotting_chance = CAL_halsey_navy_spotting_chance
+	positioning = CAL_halsey_navy_battleship_positioning
+	naval_hit_chance = CAL_halsey_navy_naval_hit_chance
+	naval_critical_score_chance_factor = CAL_halsey_navy_naval_critical_score_chance_factor
+	critical_receive_chance = CAL_halsey_navy_critical_receive_chance 
+	navy_max_range_factor = CAL_halsey_navy_navy_max_range_factor 
+	naval_speed_factor = CAL_halsey_navy_naval_speed_factor
+	navy_org = CAL_halsey_navy_navy_org
+	ships_at_battle_start = CAL_halsey_navy_ships_at_battle_start
+	naval_damage_factor = USA_battleship_damage_factor
+}
+
+CAL_king_navy_modifier = {
+	enable = { always = yes }
+    #icon =
+}
+
+CAL_nimitz_navy_modifier = {
+	enable = { always = yes }
+    #icon =
 }
 
 CAL_a_more_regulated_military_industrial_complex = {
