@@ -88,7 +88,7 @@ set_variable = { var = navy_screen_attack_factor = CAL_halsey_navy_navy_screen_a
 set_variable = { var = navy_screen_defence_factor = CAL_halsey_navy_navy_screen_defence_factor value = 0 }
 set_variable = { var = night_spotting_chance = CAL_halsey_navy_night_spotting_chance value = 0 }
 set_variable = { var = spotting_chance = CAL_halsey_navy_spotting_chance value = 0 }
-set_variable = { var = positioning = CAL_halsey_navy_battleship_positioning value = 0 }
+set_variable = { var = positioning = CAL_halsey_navy_positioning value = 0 }
 set_variable = { var = naval_hit_chance = CAL_halsey_navy_naval_hit_chance value = 0 }
 set_variable = { var = naval_critical_score_chance_factor = CAL_halsey_navy_naval_critical_score_chance_factor value = 0 }
 set_variable = { var = critical_receive_chance = CAL_halsey_navy_critical_receive_chance value = 0 }
@@ -96,14 +96,44 @@ set_variable = { var = navy_max_range_factor = CAL_halsey_navy_navy_max_range_fa
 set_variable = { var = naval_speed_factor = CAL_halsey_navy_naval_speed_factor value = 0 }
 set_variable = { var = navy_org = CAL_halsey_navy_navy_org value = 0 }
 set_variable = { var = ships_at_battle_start = CAL_halsey_navy_ships_at_battle_start value = 0 }
-set_variable = { var = naval_damage_factor = USA_battleship_damage_factor value = 0 }
+set_variable = { var = naval_damage_factor = CAL_halsey_navy_naval_damage_factor value = 0 }
 add_dynamic_modifier = { modifier = CAL_halsey_navy_modifier }
 
 ### King Navy ###
-
-
+set_variable = { var = navy_submarine_attack_factor = CAL_king_navy_navy_submarine_attack_factor value = 0 }
+set_variable = { var = navy_submarine_defence_factor = CAL_king_navy_navy_submarine_defence_factor value = 0 }
+set_variable = { var = navy_submarine_detection_factor = CAL_king_navy_navy_submarine_detection_factor value = 0 }
+set_variable = { var = positioning = CAL_king_navy_positioning value = 0 }
+set_variable = { var = naval_torpedo_reveal_chance_factor = CAL_king_navy_naval_torpedo_reveal_chance_factor value = 0 }
+set_variable = { var = naval_torpedo_screen_penetration_factor = CAL_king_navy_submarine_screen_pen value = 0 }
+set_variable = { var = naval_torpedo_cooldown_factor = CAL_king_navy_naval_torpedo_cooldown_factor value = 0 }
+set_variable = { var = naval_retreat_chance = CAL_king_navy_naval_retreat_chance value = 0 }
+set_variable = { var = navy_submarine_attack_factor = CAL_king_navy_navy_submarine_attack_factor value = 0 }
+set_variable = { var = convoy_raiding_efficiency_factor =  CAL_king_navy_convoy_raiding_efficiency_factor value = 0 }
+set_variable = { var = naval_speed_factor = CAL_king_navy_naval_speed_factor value = 0 }
+set_variable = { var = navy_visibility = CAL_king_navy_navy_visibility value = 0 }
+set_variable = { var = navy_max_range_factor = CAL_king_navy_navy_max_range_factor value = 0 }
+set_variable = { var = navy_org =  CAL_king_navy_navy_org value = 0 }
+set_variable = { var = spotting_chance = CAL_king_navy_spotting_chance value = 0 }
+add_dynamic_modifier = { modifier = CAL_king_navy_modifier }
 
 ### Nimitz Navy ###
+set_variable = { var = navy_org = CAL_nimitz_navy_navy_org value = 0 } 
+set_variable = { var = navy_carrier_air_agility_factor = CAL_nimitz_navy_navy_carrier_air_agility_factor value = 0 } 
+set_variable = { var = carrier_traffic = CAL_nimitz_navy_carrier_traffic value = 0 } 
+set_variable = { var = carrier_night_traffic = CAL_nimitz_navy_carrier_night_traffic value = 0 } 
+set_variable = { var = naval_coordination = CAL_nimitz_navy_naval_coordination value = 0 } 
+set_variable = { var = navy_carrier_air_attack_factor = CAL_nimitz_navy_navy_carrier_air_attack_factor value = 0 }
+set_variable = { var = navy_carrier_air_targetting_factor = CAL_nimitz_navy_navy_carrier_air_targetting_factor value = 0 }
+set_variable = { var = navy_carrier_air_agility_factor = CAL_nimitz_navy_navy_carrier_air_agility_factor value = 0 }
+set_variable = { var = carrier_capacity_penalty_reduction = CAL_nimitz_navy_carrier_capacity_penalty_reduction value = 0 }
+set_variable = { var = sortie_efficiency = CAL_nimitz_navy_sortie_efficiency value = 0 }
+set_variable = { var = carrier_sortie_hours_delay = CAL_nimitz_navy_carrier_sortie_hours_delay value = 0 }
+set_variable = { var = naval_hit_chance = CAL_nimitz_navy_naval_hit_chance value = 0 }
+set_variable = { var = navy_max_range_factor = CAL_nimitz_navy_navy_max_range_factor value = 0 }
+set_variable = { var = naval_critical_score_chance_factor = CAL_nimitz_navy_naval_critical_score_chance_factor value = 0 }
+set_variable = { var = positioning = CAL_nimitz_navy_positioning value = 0 }
+add_dynamic_modifier = { modifier = CAL_nimitz_navy_modifier }
 
 #####################
 ### Dummy Leaders ###
