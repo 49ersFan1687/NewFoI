@@ -129,6 +129,23 @@ recruit_character = CSD_penny_polendina
 #recruit_character = CSD_ciel_soleil
 recruit_character = CSD_oscar_pine
 
+# Second Continental Army Cascadian Branch - Azur Lane Generals #
+
+
+
+# Second Continental Army Cascadian Branch - Azur Lane Admirals #
+
+
+
+# Second Continental Army Cascadian Branch - Crimson Axis Generals #
+
+
+
+# Second Continental Army Cascadian Branch - Crimson Axis Admirals #
+
+
+
+
 # Second Continental Army Cascadian Branch - Kuoh Academy Generals (By the eyes of the Pentagram!) #
 
 
