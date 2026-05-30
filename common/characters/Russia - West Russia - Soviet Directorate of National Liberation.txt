@@ -162,10 +162,10 @@ characters = {
 		name = SDL_vasily_danilovich_sokolovsky
 		portraits = {
 			civilian = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Vasily_Danilovich_Sokolovsky.dds"
 			}
 			army = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Vasily_Danilovich_Sokolovsky.dds"
 			}
 		}
 		corps_commander = {
@@ -184,14 +184,14 @@ characters = {
 		}
 	}
 
-	SDL_dimitry_timofeyevich_yazov = { ### Zhukov General ###
+	SDL_dimitry_timofeyevich_yazov = { ### Tukhachevsky General ###
 		name = SDL_dimitry_timofeyevich_yazov
 		portraits = {
 			civilian = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Dimitry_Timofeyevich_Yazov.dds"
 			}
 			army = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Dimitry_Timofeyevich_Yazov.dds"
 			}
 		}
 		corps_commander = {
@@ -209,14 +209,14 @@ characters = {
 		}
 	}
 	
-	SDL_dimitry_fyodorovich_ustinov = {
+	SDL_dimitry_fyodorovich_ustinov = { ### Tukhachevsky General ###
 		name = SDL_dimitry_fyodorovich_ustinov
 		portraits = {
 			civilian = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Dimitry_Fyodorovich_Ustinov.dds"
 			}
 			army = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Dimitry_Fyodorovich_Ustinov.dds"
 			}
 		}
 		corps_commander = {
@@ -238,9 +238,6 @@ characters = {
 	SDL_sergey_fyodorovich_akhromeyev = {
 		name = SDL_sergey_fyodorovich_akhromeyev
 		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
 			army = {
 				large = GFX_fish
 			}
@@ -264,9 +261,6 @@ characters = {
 	SDL_andrei_antonovich_grechko = {
 		name = SDL_andrei_antonovich_grechko
 		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
 			army = {
 				large = GFX_fish
 			}
@@ -289,11 +283,8 @@ characters = {
 	SDL_alexander_terentyevich_altunin = {
 		name = SDL_alexander_terentyevich_altunin
 		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
 			army = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Alexander_Terentyevich_Altunin.dds"
 			}
 		}
 		corps_commander = {
@@ -313,6 +304,70 @@ characters = {
     ##############################
 	### Generals - Level Three ###
 	##############################
+	SDL_iona_emmanuilovich_yakir = {
+		name = SDL_iona_emmanuilovich_yakir
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Iona_Emmanuilovich_Yakir.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				brilliant_strategist
+				cavalry_leader
+				combined_arms_expert
+				armor_officer
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 2
+		}
+	}
+
+	SDL_pavel_ivanovich_batov = {
+		name = SDL_pavel_ivanovich_batov
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Pavel_Ivanovich_Batov.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				trait_cautious
+				infantry_officer
+				brilliant_strategist 
+			}
+			skill = 3
+			attack_skill = 2
+			defense_skill = 4
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+
+	SDL_yakov_grigorevich_kreizer = {
+		name = SVR_Yakov_Kreizer
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Yakov_Grigorevich_Kreizer.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				trait_cautious
+				infantry_officer
+				inflexible_strategist
+			}
+			skill = 3
+			attack_skill = 2
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 3
+		}
+	}
+
 	SDL_pavel_semyonovich_rybalko = {
 		name = SDL_pavel_semyonovich_rybalko
 		portraits = {
@@ -342,10 +397,10 @@ characters = {
 		name = SDL_vasily_ivanovich_chuikov
 		portraits = {
 			civilian = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Vasily_Ivanovich_Chuikov.dds"
 			}
 			army = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Vasily_Ivanovich_Chuikov.dds"
 			}
 		}
 		corps_commander = {
@@ -363,33 +418,57 @@ characters = {
 		}
 	}
 
-	SDL_rapid_fight = {
-		name = SDL_rapid_fight
+    ############################
+	### Generals - Level Two ###
+	############################
+	SDL_ieronim_petrovich_uborevich = {
+		name = SDL_ieronim_petrovich_uborevich
 		portraits = {
 			civilian = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Ieronim_Petrovich_Uborevich.dds"
 			}
 			army = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Ieronim_Petrovich_Uborevich.dds"
 			}
 		}
 		corps_commander = {
 			traits = {
-				trait_reckless
-				armor_officer
-				trait_engineer
+				trait_cautious
+				artillery_officer
+				artillery_specialist
 			}
-			skill = 3
-			attack_skill = 3
-			defense_skill = 2
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+
+	SDL_vasily_grigorievich_zaytsev = {
+		name = SDL_vasily_grigorievich_zaytsev
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Vasily_Grigorievich_Zaytsev.dds"
+			}
+			civilian = {
+				small = "gfx/leaders/SDL/Portrait_SDL_Vasily_Grigorievich_Zaytsev.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				war_hero
+				trickster
+				expert_improviser
+			}
+			skill = 2
+			attack_skill = 1
+			defense_skill = 1
 			planning_skill = 3
 			logistics_skill = 2
 		}
 	}
 
-    ############################
-	### Generals - Level Two ###
-	############################
 	SDL_konstantin_fedorovich_telegin = {
 		name = SDL_konstantin_fedorovich_telegin
 		portraits = {
@@ -462,45 +541,9 @@ characters = {
 	##################
 
 	
-	SDL_iona_emmanuilovich_yakir = {
-		name = SDL_iona_emmanuilovich_yakir
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			army = {
-				large = GFX_fish
-			}
-		}
-		corps_commander = {
-			traits = {  }
-			skill = 
-			attack_skill = 
-			defense_skill = 
-			planning_skill = 
-			logistics_skill =
-		}
-	}
+	
 
-	SDL_ieronim_petrovich_uborevich = {
-		name = SDL_ieronim_petrovich_uborevich
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			army = {
-				large = GFX_fish
-			}
-		}
-		corps_commander = {
-			traits = {  }
-			skill = 
-			attack_skill = 
-			defense_skill = 
-			planning_skill = 
-			logistics_skill =
-		}
-	}
+	
 
 	SDL_semyon_konstantinovich_timoshenko = {
 		name = SDL_semyon_konstantinovich_timoshenko
