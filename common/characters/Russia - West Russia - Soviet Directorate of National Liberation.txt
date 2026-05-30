@@ -17,9 +17,8 @@ characters = {
 			desc = "POLITICS_SEMYON_BUDYONNY_DESC"
 			ideology = leninism_ideology
             traits = {
-				SDL_the_old_warhorse
+#				SDL_the_old_warhorse
             }
-			id = -1
 		}
 		field_marshal = {
 			traits = {
@@ -52,7 +51,7 @@ characters = {
 			desc = "POLITICS_MIKHAIL_TUKHACHEVSKY_DESC"
 			ideology = leninism_ideology
 			traits = {
-				SDL_the_red_bonaparte
+#				SDL_the_red_bonaparte
 			}
 		}
 		field_marshal = {
@@ -86,7 +85,7 @@ characters = {
 			desc = "POLITICS_MIKHAIL_FRUNZE_DESC"
 			ideology = marxism_ideology
             traits = {
-				SDL_the_hero_of_the_civil_war
+#				SDL_the_hero_of_the_civil_war
             }
 		}
 		field_marshal = {
@@ -134,8 +133,8 @@ characters = {
 			}
 			skill = 5
 			attack_skill = 5
-			defense_skill = 5
-			planning_skill = 6
+			defense_skill = 2
+			planning_skill = 4
 			logistics_skill = 5
 		}
     }
@@ -149,33 +148,6 @@ characters = {
     ##################################################################
     ### Soviet Directorate of National Liberation - Field Marshals ###
 	##################################################################
-	SDL_nestor_nunin = { ### Zhukov General ###
-		name = SDL_nestor_nunin
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			army = {
-				large = GFX_fish
-			}
-		}
-		field_marshal = {
-			traits = {
-				brilliant_strategist
-				career_officer
-				armor_officer
-				panzer_leader
-				skilled_staffer
-				offensive_doctrine
-			}
-			skill = 5
-			attack_skill = 6
-			defense_skill = 4
-			planning_skill = 4
-			logistics_skill = 5
-		}
-	}
-
 
     #############################
 	### Generals - Level Five ###
@@ -263,30 +235,6 @@ characters = {
 		}
 	}
 	
-	SDL_veronika_krasnova = {
-		name = SDL_veronika_krasnova
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			army = {
-				large = GFX_fish
-			}
-		}
-		corps_commander = {
-			traits = {
-				engineer
-				panzer_leader
-				combined_arms_leader
-			}
-			skill = 4
-			attack_skill = 5
-			defense_skill = 3
-			planning_skill = 2
-			logistics_skill = 3
-		}
-	}
-	
 	SDL_sergey_fyodorovich_akhromeyev = {
 		name = SDL_sergey_fyodorovich_akhromeyev
 		portraits = {
@@ -359,29 +307,6 @@ characters = {
 			defense_skill = 3
 			planning_skill = 3
 			logistics_skill = 5
-		}
-	}
-	
-	SDL_vinous_kostyelev = {
-		name = SDL_vinous_kostyelev
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			army = {
-				large = GFX_fish
-			}
-		}
-		corps_commander = {
-			traits = {
-				inspirational_leader
-				politically_connected
-			}
-			skill = 4
-			attack_skill = 4
-			defense_skill = 3
-			planning_skill = 3
-			logistics_skill = 3
 		}
 	}
 
@@ -505,82 +430,13 @@ characters = {
 	#############################
 	### Admirals - Level Four ###
 	#############################
-	SDL_furious_glory = {
-		name = SDL_furious_glory
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			navy = {
-				large = GFX_fish
-			}
-		}
-		navy_leader = {
-            desc =
-            traits = {
-				bold
-				fleet_protector
-				cruiser_captain
-			}
-            skill = 4
-            attack_skill = 4
-            defense_skill = 3
-            maneuvering_skill = 4
-            coordination_skill = 2
-        }
-	}
 	
-	SDL_grey_gorshkov = {
-		name = SDL_grey_gorshkov
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			navy = {
-				large = GFX_fish
-			}
-		}
-		navy_leader = {
-            desc =
-            traits = {
-				gentlemanly
-				seawolf
-				blockade_runner
-			}
-            skill = 4
-            attack_skill = 4
-            defense_skill = 2
-            maneuvering_skill = 3
-            coordination_skill = 4
-        }
-	}
+
 
 	##############################
 	### Admirals - Level Three ###
 	##############################
-	SDL_karina = {
-		name = SDL_karina
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			navy = {
-				large = GFX_fish
-			}
-		}
-		navy_leader = {
-            desc =
-            traits = {
-				battleship_adherent
-				inshore_fighter
-			}
-            skill = 3
-            attack_skill = 2
-            defense_skill = 3
-            maneuvering_skill = 2
-            coordination_skill = 3
-        }
-	}
+
 
 
 	############################
