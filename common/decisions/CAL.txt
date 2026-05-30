@@ -30,7 +30,7 @@ CAL_warlord_generals_integration_category = {
 		}
 
 		available = {
-			CAL = { exists = no }
+			CSD = { exists = no }
 		}
 
 		cost = 200
@@ -144,7 +144,7 @@ CAL_warlord_generals_integration_category = {
 		}
 
 		available = {
-			CAL = { exists = no }
+			CSD = { exists = no }
 		}
 
 		cost = 100
@@ -198,7 +198,7 @@ CAL_warlord_generals_integration_category = {
 		}
 
 		available = {
-			CAL = { exists = no }
+			CSD = { exists = no }
 		}
 
 		cost = 100
