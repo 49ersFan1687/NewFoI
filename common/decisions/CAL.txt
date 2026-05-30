@@ -181,6 +181,60 @@ CAL_warlord_generals_integration_category = {
 			}
 		}
 	}
+
+	CAL_recruit_team_jnpr = {
+		allowed = { tag = CAL }
+
+		priority = 25
+
+		visible = {
+			has_completed_focus = CAL_begin_rehabilitating_generals_of_other_countries
+			CSD = {
+				has_character = CSD_jaune_arc
+				has_character = CSD_nora_valkyrie
+				has_character = CSD_pyrrha_nikos
+				has_character = CSD_lie_ren
+			}
+		}
+
+		available = {
+			CAL = { exists = no }
+		}
+
+		cost = 100
+		
+		available = {
+		}
+
+		ai_will_do = {
+			base = 10
+		}
+
+		complete_effect = {
+			log = "[GetDateText]: [Root.GetName]: Complete CAL_merge_the_cascadian_and_california_army_commands"
+
+			every_possible_country = {
+				limit = {
+					has_character = CSD_jaune_arc
+					has_character = CSD_nora_valkyrie
+					has_character = CSD_pyrrha_nikos
+					has_character = CSD_lie_ren
+				}
+				CSD_jaune_arc = {
+					set_nationality = ROOT
+				}
+				CSD_nora_valkyrie = {
+					set_nationality = ROOT
+				}
+				CSD_pyrrha_nikos = {
+					set_nationality = ROOT
+				}
+				CSD_lie_ren = {
+					set_nationality = ROOT
+				}
+			}
+		}
+	}
 	
     CAL_utilise_cascadian_generals = {
         icon = GFX_decision_generic_political_rally
