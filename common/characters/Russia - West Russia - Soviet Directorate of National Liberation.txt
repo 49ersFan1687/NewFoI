@@ -418,6 +418,28 @@ characters = {
 		}
 	}
 
+	SDL_ilya_vasilievich_baldinov = {
+		name = SDL_ilya_vasilievich_baldinov
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Ilya_Vasilievich_Baldinov.png"
+			}
+		}
+		corps_commander = {
+			traits = {
+				career_officer
+				war_hero
+				infantry_leader
+				inspirational_leader
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2
+		}
+	}
+
     ############################
 	### Generals - Level Two ###
 	############################
@@ -515,8 +537,25 @@ characters = {
 	##############################
 	### Admirals - Level Three ###
 	##############################
-
-
+	SDL_nikolay_gerasimovich_kuznetsov = {
+		name = SDL_nikolay_gerasimovich_kuznetsov
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Nikolai_Gerasimovich_Kuznetsov.dds"
+			}
+		}
+		navy_leader = {
+            traits = {
+				superior_tactician
+				seawolf
+			}
+            skill = 3
+			attack_skill = 2
+			defense_skill = 3
+			maneuvering_skill = 2
+			coordination_skill = 3
+        }
+	}
 
 	############################
 	### Admirals - Level Two ###
@@ -566,26 +605,7 @@ characters = {
 	}
 	
 	# Red Navy Admirals #
-	SDL_nikolay_gerasimovich_kuznetsov = {
-		name = SDL_nikolay_gerasimovich_kuznetsov
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			navy = {
-				large = GFX_fish
-			}
-		}
-		navy_leader = {
-            desc =
-            traits = {  }
-            skill =
-            attack_skill =
-            defense_skill =
-            maneuvering_skill =
-            coordination_skill =
-        }
-	}
+	
 
 	SDL_ivan_stepanovich_yumashev = {
 		name = SDL_ivan_stepanovich_yumashev

@@ -31,10 +31,13 @@ recruit_character = SDL_vasily_danilovich_sokolovsky
 recruit_character = SDL_dimitry_timofeyevich_yazov
 recruit_character = SDL_dimitry_fyodorovich_ustinov
 recruit_character = SDL_alexander_terentyevich_altunin
-recruit_character = SDL_alexander_terentyevich_altunin
 recruit_character = SDL_iona_emmanuilovich_yakir
 recruit_character = SDL_pavel_ivanovich_batov
 recruit_character = SDL_yakov_grigorevich_kreizer
 recruit_character = SDL_vasily_ivanovich_chuikov
 recruit_character = SDL_ieronim_petrovich_uborevich
 recruit_character = SDL_vasily_grigorievich_zaytsev
+recruit_character = SDL_ilya_vasilievich_baldinov
+
+### Admirals ###
+recruit_character = SDL_nikolay_gerasimovich_kuznetsov

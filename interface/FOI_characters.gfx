@@ -1,73 +1,92 @@
 spriteTypes = {
 	# SDNL #
 	spriteType = {
-		name = "GFX_SDL_Semyon_Mikhailovich_Budyonny"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Semyon_Mikhailovich_Budyonny.dds"
+		name = "GFX_SDL_Aleksei_Innokentievich_Antonov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Aleksei_Innokentievich_Antonov.dds"
 	}
 	spriteType = {
-		name = "GFX_SDL_Mikhail_Nikolayevich_Tukhachevsky"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_mikhail_nikolayevich_tukhachevsky.dds"
-	}
-	spriteType = {
-		name = "GFX_SDL_Zhukov"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Georgy_Konstantinovich_Zhukov.dds"
-	}
-	spriteType = {
-		name = "GFX_SDL_Mikhail_Vasilievich_Frunze"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Mikhail_Vasilievich_Frunze.dds"
-	}
-	spriteType = {
-		name = "GFX_SDL_Dimitry_Timofeyevich_Yazov"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Dimitry_Timofeyevich_Yazov.dds"
-	}
-	spriteType = {
-		name = "GFX_SDL_Vasily_Danilovich_Sokolovsky"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Vasily_Danilovich_Sokolovsky.dds"
-	}
-	spriteType = {
-		name = "GFX_SDL_Pavel_Ivanovich_Batov"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Pavel_Ivanovich_Batov.dds"
-	}
-	spriteType = {
-		name = "GFX_SDL_Vasily_Grigorievich_Zaytsev"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Vasily_Grigorievich_Zaytsev.dds"
-	}
-	spriteType = {
-		name = "GFX_SDL_Vasily_Ivanovich_Chuikov."
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Vasily_Ivanovich_Chuikov.dds"
-	}
-	spriteType = {
-		name = "GFX_SDL_Nikolai_Gerasimovich_Kuznetsov"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Nikolai_Gerasimovich_Kuznetsov.dds"
+		name = "GFX_SDL_Alexander_Terentyevich_Altunin"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Alexander_Terentyevich_Altunin.dds"
 	}
 	spriteType = {
 		name = "GFX_SDL_Dimitry_Fyodorovich_Ustinov"
 		textureFile = "gfx/leaders/SDL/Portrait_SDL_Dimitry_Fyodorovich_Ustinov.dds"
 	}
 	spriteType = {
-		name = "GFX_SDL_Nikolai_Fyodorovich_Vatutin"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Nikolai_Fyodorovich_Vatutin.dds"
+		name = "GFX_SDL_Dimitry_Timofeyevich_Yazov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Dimitry_Timofeyevich_Yazov.dds"
 	}
 	spriteType = {
-		name = "GFX_SDL_Yakov_Grigorevich_Kreizer"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Yakov_Grigorevich_Kreizer.dds"
+		name = "GFX_SDL_Georgy_Konstantinovich_Zhukov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Georgy_Konstantinovich_Zhukov.dds"
 	}
 	spriteType = {
 		name = "GFX_SDL_Ieronim_Petrovich_Uborevich"
 		textureFile = "gfx/leaders/SDL/Portrait_SDL_Ieronim_Petrovich_Uborevich.dds"
 	}
 	spriteType = {
-		name = "GFX_SDL_Iona_Emmanuilovich_Yakir"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Iona_Emmanuilovich_Yakir.dds"
-	}
-	spriteType = {
 		name = "GFX_SDL_Ilya_Vasilievich_Baldinov"
 		textureFile = "gfx/leaders/SDL/Portrait_SDL_Ilya_Vasilievich_Baldinov.dds"
 	}
 	spriteType = {
-		name = "GFX_SDL_Alexander_Terentyevich_Altunin"
-		textureFile = "gfx/leaders/SDL/Portrait_SDL_Alexander_Terentyevich_Altunin.dds"
+		name = "GFX_SDL_Iona_Emmanuilovich_Yakir"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Iona_Emmanuilovich_Yakir.dds"
 	}
+	spriteType = {
+		name = "GFX_SDL_Mikhail_Nikolayevich_Tukhachevsky"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_mikhail_nikolayevich_tukhachevsky.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Mikhail_Vasilievich_Frunze"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Mikhail_Vasilievich_Frunze.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Nikolai_Fyodorovich_Vatutin"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Nikolai_Fyodorovich_Vatutin.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Nikolai_Gerasimovich_Kuznetsov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Nikolai_Gerasimovich_Kuznetsov.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Pavel_Alekseyevich_Belov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Pavel_Alekseyevich_Belov.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Pavel_Ivanovich_Batov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Pavel_Ivanovich_Batov.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Semyon_Konstaninovich_Timoshenko"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Semyon_Konstaninovich_Timoshenko.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Semyon_Mikhailovich_Budyonny"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Semyon_Mikhailovich_Budyonny.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Vasily_Danilovich_Sokolovsky"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Vasily_Danilovich_Sokolovsky.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Vasily_Grigorievich_Zaytsev"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Vasily_Grigorievich_Zaytsev.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Vasily_Ivanovich_Chuikov"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Vasily_Ivanovich_Chuikov.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Yakov_Grigorevich_Kreizer"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Yakov_Grigorevich_Kreizer.dds"
+	}
+	spriteType = {
+		name = "GFX_SDL_Yan_Gamarnik"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Yan_Gamarnik.dds"
+	}
+	
+	
+	
 
 	# German Faction #
 	spriteType = {
