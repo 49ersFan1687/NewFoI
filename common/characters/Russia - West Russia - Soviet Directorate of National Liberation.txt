@@ -302,7 +302,7 @@ characters = {
 	}
 
 	SDL_aleksei_innokentievich_antonov = {
-		name = SDL_alexander_terentyevich_altunin
+		name = SDL_aleksei_innokentievich_antonov
 		portraits = {
 			army = {
 				large = "gfx/leaders/SDL/Portrait_SDL_Aleksei_Innokentievich_Antonov.dds"
