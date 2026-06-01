@@ -31,6 +31,7 @@ recruit_character = SDL_vasily_danilovich_sokolovsky
 recruit_character = SDL_dimitry_timofeyevich_yazov
 recruit_character = SDL_dimitry_fyodorovich_ustinov
 recruit_character = SDL_alexander_terentyevich_altunin
+recruit_character = SDL_aleksei_innokentievich_antonov
 recruit_character = SDL_iona_emmanuilovich_yakir
 recruit_character = SDL_pavel_ivanovich_batov
 recruit_character = SDL_yakov_grigorevich_kreizer

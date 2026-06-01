@@ -301,6 +301,26 @@ characters = {
 		}
 	}
 
+	SDL_aleksei_innokentievich_antonov = {
+		name = SDL_alexander_terentyevich_altunin
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Aleksei_Innokentievich_Antonov.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				infantry_officer
+				war_hero
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 2
+		}
+	}
+
     ##############################
 	### Generals - Level Three ###
 	##############################
