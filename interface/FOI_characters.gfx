@@ -5,6 +5,10 @@ spriteTypes = {
 		textureFile = "gfx/leaders/SDL/Portrait_SDL_Aleksei_Innokentievich_Antonov.dds"
 	}
 	spriteType = {
+		name = "GFX_SDL_Andrei_Antonovich_Grechko"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Andrei_Antonovich_Grechko.dds"
+	}
+	spriteType = {
 		name = "GFX_SDL_Alexander_Terentyevich_Altunin"
 		textureFile = "gfx/leaders/SDL/Portrait_SDL_Alexander_Terentyevich_Altunin.dds"
 	}
@@ -84,7 +88,10 @@ spriteTypes = {
 		name = "GFX_SDL_Yan_Gamarnik"
 		textureFile = "gfx/leaders/SDL/Portrait_SDL_Yan_Gamarnik.dds"
 	}
-	
+	spriteType = {
+		name = "GFX_SDL_Zhu_De"
+		textureFile = "gfx/leaders/SDL/Portrait_SDL_Zhu_De.dds"
+	}
 	
 	
 

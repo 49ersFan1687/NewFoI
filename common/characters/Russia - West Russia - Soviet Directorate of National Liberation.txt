@@ -262,7 +262,7 @@ characters = {
 		name = SDL_andrei_antonovich_grechko
 		portraits = {
 			army = {
-				large = GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Andrei_Antonovich_Grechko.dds"
 			}
 		}
 		corps_commander = {
@@ -318,6 +318,26 @@ characters = {
 			defense_skill = 3
 			planning_skill = 3
 			logistics_skill = 2
+		}
+	}
+
+	SDL_zhu_de = {
+		name = SDL_zhu_de
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Zhu_De.dds"
+			}
+		}
+		corps_commander = {
+			traits = {
+				brilliant_strategist
+				organizer
+			}
+			skill= 4
+			attack_skill= 3
+			defense_skill= 3
+			planning_skill= 3
+			logistics_skill= 4
 		}
 	}
 
