@@ -38,6 +38,7 @@ recruit_character = SDL_iona_emmanuilovich_yakir
 recruit_character = SDL_pavel_ivanovich_batov
 recruit_character = SDL_yakov_grigorevich_kreizer
 recruit_character = SDL_vasily_ivanovich_chuikov
+recruit_character = SDL_semyon_konstantinovich_timoshenko
 recruit_character = SDL_ieronim_petrovich_uborevich
 recruit_character = SDL_vasily_grigorievich_zaytsev
 recruit_character = SDL_ilya_vasilievich_baldinov

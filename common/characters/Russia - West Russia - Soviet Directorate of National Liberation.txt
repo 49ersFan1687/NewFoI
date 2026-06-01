@@ -258,7 +258,7 @@ characters = {
 		}
 	}
 	
-	SDL_andrei_antonovich_grechko = {
+	SDL_andrei_antonovich_grechko = { ### Zhukov General ###
 		name = SDL_andrei_antonovich_grechko
 		portraits = {
 			army = {
@@ -366,7 +366,7 @@ characters = {
 		}
 	}
 
-	SDL_pavel_ivanovich_batov = {
+	SDL_pavel_ivanovich_batov = { ### Zhukov General ###
 		name = SDL_pavel_ivanovich_batov
 		portraits = {
 			army = {
@@ -433,7 +433,7 @@ characters = {
 		}
 	}
 	
-	SDL_vasily_ivanovich_chuikov = {
+	SDL_vasily_ivanovich_chuikov = { ### Zhukov General ###
 		name = SDL_vasily_ivanovich_chuikov
 		portraits = {
 			civilian = {
@@ -479,6 +479,28 @@ characters = {
 			logistics_skill = 2
 		}
 	}
+	
+	SDL_semyon_konstantinovich_timoshenko = {
+		name = SDL_semyon_konstantinovich_timoshenko
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Semyon_Konstaninovich_Timoshenko.dds"GFX_fish
+			}
+		}
+		corps_commander = {
+			traits = {
+				career_officer
+				cavalry_officer
+				politically_connected
+				cavalry_leader
+			}
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+		}
+	}
 
     ############################
 	### Generals - Level Two ###
@@ -507,7 +529,7 @@ characters = {
 		}
 	}
 
-	SDL_vasily_grigorievich_zaytsev = {
+	SDL_vasily_grigorievich_zaytsev = { ### Zhukov General ###
 		name = SDL_vasily_grigorievich_zaytsev
 		portraits = {
 			army = {
@@ -624,25 +646,7 @@ characters = {
 
 	
 
-	SDL_semyon_konstantinovich_timoshenko = {
-		name = SDL_semyon_konstantinovich_timoshenko
-		portraits = {
-			civilian = {
-				large = GFX_fish
-			}
-			army = {
-				large = GFX_fish
-			}
-		}
-		corps_commander = {
-			traits = {  }
-			skill = 
-			attack_skill = 
-			defense_skill = 
-			planning_skill = 
-			logistics_skill =
-		}
-	}
+	
 	
 	# Red Navy Admirals #
 	
