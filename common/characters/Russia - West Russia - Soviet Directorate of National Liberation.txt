@@ -14,7 +14,7 @@ characters = {
 		}
 		country_leader = {
 			expire = "1999.1.1"
-			desc = "POLITICS_SEMYON_BUDYONNY_DESC"
+#			desc = "POLITICS_SEMYON_BUDYONNY_DESC"
 			ideology = leninism_ideology
             traits = {
 #				SDL_the_old_warhorse
@@ -48,7 +48,7 @@ characters = {
 		}
 		country_leader = {
 			expire = "1999.1.1"
-			desc = "POLITICS_MIKHAIL_TUKHACHEVSKY_DESC"
+#			desc = "POLITICS_MIKHAIL_TUKHACHEVSKY_DESC"
 			ideology = leninism_ideology
 			traits = {
 #				SDL_the_red_bonaparte
@@ -82,7 +82,7 @@ characters = {
 		}
 		country_leader = {
 			expire = "1999.1.1"
-			desc = "POLITICS_MIKHAIL_FRUNZE_DESC"
+#			desc = "POLITICS_MIKHAIL_FRUNZE_DESC"
 			ideology = marxism_ideology
             traits = {
 #				SDL_the_hero_of_the_civil_war
@@ -587,6 +587,12 @@ characters = {
 	#############################
 	### Admirals - Level Five ###
 	#############################
+	
+	
+
+	#############################
+	### Admirals - Level Four ###
+	#############################
 	SDL_nikolay_gerasimovich_kuznetsov = {
 		name = SDL_nikolay_gerasimovich_kuznetsov
 		portraits = {
@@ -596,21 +602,17 @@ characters = {
 		}
 		navy_leader = {
             traits = {
-				superior_tactician
-				seawolf
+				blockade_runner
+				fleet_protector
+				arctic_water_expert
 			}
-            skill = 5
-			attack_skill = 2
-			defense_skill = 3
-			maneuvering_skill = 2
-			coordination_skill = 3
+            skill = 4
+			attack_skill = 5
+			defense_skill = 4
+			maneuvering_skill = 3
+			coordination_skill = 4
         }
 	}
-
-	#############################
-	### Admirals - Level Four ###
-	#############################
-	
 
 
 	##############################
