@@ -280,7 +280,7 @@ characters = {
 		}
 	}
 	
-	SDL_alexander_terentyevich_altunin = {
+	SDL_alexander_terentyevich_altunin = { ### Neutral General ###
 		name = SDL_alexander_terentyevich_altunin
 		portraits = {
 			army = {
@@ -301,7 +301,7 @@ characters = {
 		}
 	}
 
-	SDL_aleksei_innokentievich_antonov = {
+	SDL_aleksei_innokentievich_antonov = { ### Frunze General ###
 		name = SDL_aleksei_innokentievich_antonov
 		portraits = {
 			army = {
@@ -321,7 +321,7 @@ characters = {
 		}
 	}
 
-	SDL_zhu_de = {
+	SDL_zhu_de = { ### Zhukov General ###
 		name = SDL_zhu_de
 		portraits = {
 			army = {
@@ -333,18 +333,18 @@ characters = {
 				brilliant_strategist
 				organizer
 			}
-			skill= 4
-			attack_skill= 3
-			defense_skill= 3
-			planning_skill= 3
-			logistics_skill= 4
+			skill = 4
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 4
 		}
 	}
 
     ##############################
 	### Generals - Level Three ###
 	##############################
-	SDL_iona_emmanuilovich_yakir = {
+	SDL_iona_emmanuilovich_yakir = { ### Tukhachevsky General ###
 		name = SDL_iona_emmanuilovich_yakir
 		portraits = {
 			army = {
@@ -387,7 +387,7 @@ characters = {
 		}
 	}
 
-	SDL_yakov_grigorevich_kreizer = {
+	SDL_yakov_grigorevich_kreizer = { ### Frunze General ###
 		name = SVR_Yakov_Kreizer
 		portraits = {
 			army = {
@@ -458,7 +458,7 @@ characters = {
 		}
 	}
 
-	SDL_ilya_vasilievich_baldinov = {
+	SDL_ilya_vasilievich_baldinov = { ### Tukhachevsky General ###
 		name = SDL_ilya_vasilievich_baldinov
 		portraits = {
 			army = {
@@ -480,11 +480,11 @@ characters = {
 		}
 	}
 	
-	SDL_semyon_konstantinovich_timoshenko = {
+	SDL_semyon_konstantinovich_timoshenko = { ### Neutral General ###
 		name = SDL_semyon_konstantinovich_timoshenko
 		portraits = {
 			army = {
-				large = "gfx/leaders/SDL/Portrait_SDL_Semyon_Konstaninovich_Timoshenko.dds"GFX_fish
+				large = "gfx/leaders/SDL/Portrait_SDL_Semyon_Konstaninovich_Timoshenko.dds"
 			}
 		}
 		corps_commander = {
@@ -505,7 +505,7 @@ characters = {
     ############################
 	### Generals - Level Two ###
 	############################
-	SDL_ieronim_petrovich_uborevich = {
+	SDL_ieronim_petrovich_uborevich = { ### Tukhachevsky General ###
 		name = SDL_ieronim_petrovich_uborevich
 		portraits = {
 			civilian = {
@@ -587,18 +587,6 @@ characters = {
 	#############################
 	### Admirals - Level Five ###
 	#############################
-
-
-
-	#############################
-	### Admirals - Level Four ###
-	#############################
-	
-
-
-	##############################
-	### Admirals - Level Three ###
-	##############################
 	SDL_nikolay_gerasimovich_kuznetsov = {
 		name = SDL_nikolay_gerasimovich_kuznetsov
 		portraits = {
@@ -611,13 +599,24 @@ characters = {
 				superior_tactician
 				seawolf
 			}
-            skill = 3
+            skill = 5
 			attack_skill = 2
 			defense_skill = 3
 			maneuvering_skill = 2
 			coordination_skill = 3
         }
 	}
+
+	#############################
+	### Admirals - Level Four ###
+	#############################
+	
+
+
+	##############################
+	### Admirals - Level Three ###
+	##############################
+	
 
 	############################
 	### Admirals - Level Two ###
