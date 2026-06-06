@@ -2,9 +2,9 @@ l_english =
  SDL: "Soviet Directorate of National Liberation"
 
 
-########################################
-### Character Localization - Leaders ###
-########################################
+################################################
+### Character Localization - Miliary Leaders ###
+################################################
  SDL_semyon_mikhailovich_budyonny: "Semyon Mikhailovich Budyonny"
  SDL_georgy_konstantinovich_zhukov: "Georgy Konstantinovich Zhukov"
  SDL_mikhail_vasilievich_frunze: "Mikhail Vasilievich Frunze"
