@@ -359,6 +359,7 @@ characters = {
 			defense_skill = 3
 			planning_skill = 2
 			logistics_skill = 4
+		}
 	}
 
     ##############################
@@ -693,8 +694,6 @@ characters = {
             maneuvering_skill =
             coordination_skill =
         }
-	}
-	
-	
+	}	
 }
 
