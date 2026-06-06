@@ -43,15 +43,6 @@ idea_categories = {
 		character_slot = slot_interior_minister
 		character_slot = slot_intelligence_chief
 	}
-
-	people_of_interest = {
-		character_slot = slot_misc_advisor
-		character_slot = slot_misc_advisor
-		character_slot = slot_misc_advisor
-		character_slot = slot_misc_advisor
-		character_slot = slot_misc_advisor
-		character_slot = slot_misc_advisor
-	}
 	
 	research_production = {
 		slot = tank_manufacturer
