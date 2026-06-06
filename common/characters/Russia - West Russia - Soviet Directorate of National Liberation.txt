@@ -341,6 +341,26 @@ characters = {
 		}
 	}
 
+	SDL_pavel_alekseyevich_belov = {
+		name = SDL_pavel_alekseyevich_belov
+		portraits = {
+			army = {
+				large = "gfx/leaders/SDL/Portrait_SDL_Pavel_Alekseyevich_Belov"
+			}
+		}
+		corps_commander = {
+			traits = {
+				cavalry_officer
+				scavenger
+				guerilla_fighter
+			}
+			skill = 4
+			attack_skill = 4
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 4
+	}
+
     ##############################
 	### Generals - Level Three ###
 	##############################
