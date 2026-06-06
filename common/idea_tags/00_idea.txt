@@ -40,8 +40,8 @@ idea_categories = {
 		character_slot = slot_foreign_minister
 		character_slot = slot_defense_minister
 		character_slot = slot_economy_minister
-		character_slot = slot_interior_minister
-		character_slot = slot_intelligence_chief
+		character_slot = interior_minister
+		character_slot = intelligence_chief
 	}
 	
 	research_production = {
