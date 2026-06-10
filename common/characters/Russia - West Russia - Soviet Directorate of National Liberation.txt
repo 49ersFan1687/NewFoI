@@ -257,6 +257,15 @@ characters = {
 			planning_skill = 5
 			logistics_skill = 2
 		}
+		advisor = {
+			cost = 150
+			slot = army_chief
+			idea_token = SDL_grechko
+			ledger = army
+			traits = { 
+				army_chief_offensive_2
+			}
+		}
 	}
 	
 	SDL_alexander_terentyevich_altunin = { ### Neutral General ###
