@@ -46,14 +46,6 @@ characters = {
 				large = "gfx/leaders/SDL/Portrait_SDL_mikhail_nikolayevich_tukhachevsky"
 			}
 		}
-		country_leader = {
-			expire = "1999.1.1"
-#			desc = "POLITICS_MIKHAIL_TUKHACHEVSKY_DESC"
-			ideology = leninism_ideology
-			traits = {
-#				SDL_the_red_bonaparte
-			}
-		}
 		field_marshal = {
 			traits = {
 				offensive_doctrine
@@ -80,14 +72,6 @@ characters = {
 				large = "gfx/leaders/SDL/Portrait_SDL_mikhail_vasilievich_frunze.png"
 			}
 		}
-		country_leader = {
-			expire = "1999.1.1"
-#			desc = "POLITICS_MIKHAIL_FRUNZE_DESC"
-			ideology = marxism_ideology
-            traits = {
-#				SDL_the_hero_of_the_civil_war
-            }
-		}
 		field_marshal = {
 			traits = {
 				inspirational_leader
@@ -112,14 +96,6 @@ characters = {
 			}
 			army = {
 				large = "gfx/leaders/SDL/Portrait_SDL_georgy_konstantinovich_zhukov.dds"
-			}
-		}
-		country_leader = {
-			expire = "1999.1.1"
-			desc = "POLITICS_GEORGY_ZHUKOV_DESC"
-			ideology = red_junta_communism_ideology
-			traits = {
-				SDL_the_peoples_marshal
 			}
 		}
 		field_marshal = {
