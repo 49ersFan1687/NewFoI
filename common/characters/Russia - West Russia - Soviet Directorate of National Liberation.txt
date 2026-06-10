@@ -1,7 +1,7 @@
 characters = {
-	#######################
-    ### Country Leaders ###
-    #######################
+	##########################################
+    ### Country Leaders - Starting Leaders ###
+    ##########################################
     SDL_semyon_mikhailovich_budyonny = {
 		name = SDL_semyon_mikhailovich_budyonny
 		portraits = {
@@ -36,6 +36,9 @@ characters = {
 		}
 	}
 	
+	##########################################
+    ### Country Leaders - Military Leaders ###
+    ##########################################
 	SDL_mikhail_nikolayevich_tukhachevsky = {
 		name = SDL_mikhail_nikolayevich_tukhachevsky
 		portraits = {
