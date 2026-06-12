@@ -28,7 +28,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Chen Gongbo"
 	desc = ""
-	picture = GFX_fish
+	picture = "gfx\leaders\CHI\Portrait_FOI_CHI_Wang_Jingwei.png"
 	ideology = civilian_dictatorship_ideology
 	traits = {
 		#
