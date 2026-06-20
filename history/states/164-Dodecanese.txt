@@ -22,6 +22,7 @@ state=
 			}
 		}
 		add_core_of = GRE
+		add_claim_by = ITA
 
 		### CHANGED TO A MROE ROBUST SYSTEM
 		##CONTROLLED BY ITALY AT GAME START -> ITALIAN NAMES

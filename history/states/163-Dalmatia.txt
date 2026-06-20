@@ -10,12 +10,19 @@ state = {
 		victory_points = { #Zara/Zadar
 			3943 5 
 		}
+		victory_points = { #Split
+			3924 3
+		}
 		buildings = {
 			infrastructure = 3 #was: 5
 			3943 = {
 				naval_base = 1
 			}
+			3924 = {
+				naval_base = 3
+			}
 		}
+
 		add_core_of = YUG
 		add_core_of = CRO
 		add_core_of = LBV
@@ -28,7 +35,7 @@ state = {
 		#set_province_name = { id = 3943 name = VICTORY_POINTS_3943_ITA }
 	}
 	provinces = {	
-		3943 
+		3943 984 3924 3974 11901 
 	}
 
 	local_supplies = 0.0 

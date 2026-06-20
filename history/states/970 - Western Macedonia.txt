@@ -19,10 +19,11 @@ state = {
 			867 1
 		}
 		add_core_of = ITA
+		add_claim_by = BUL
 	}
 
 	provinces = {
-		833 867 11856
+		833 867
 	} 
 	manpower = 343550
 	buildings_max_level_factor = 1.000

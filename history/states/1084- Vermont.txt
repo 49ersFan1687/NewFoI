@@ -20,8 +20,7 @@ state = {
 		
 	}
 
-	provinces = {
-		13158 7629 4445 9675 
+	provinces = { 7629 4445 9675 
 	}
 
 	local_supplies = 0.0 

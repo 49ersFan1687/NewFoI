@@ -19,15 +19,10 @@ state = {
 			infrastructure = 2
 			
 		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 2
-			}
-		}
 	}
 
 	provinces = {
-		741 754 3757 9576
+		741 754 3757  6455 9423 9435 9576
 	}
 
 	local_supplies = 6.0 
