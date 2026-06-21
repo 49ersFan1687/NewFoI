@@ -3,6 +3,6 @@ tags={
 	"Alternative History"
 }
 name="NewFoI"
-supported_version="1.17.5.2"
+supported_version="1.19.0.0"
 
 replace_path="history/states"
