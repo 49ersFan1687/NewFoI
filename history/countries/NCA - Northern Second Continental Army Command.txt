@@ -1,4 +1,4 @@
-capital = 1024
+capital = 1121
 
 
 set_war_support = 0.6

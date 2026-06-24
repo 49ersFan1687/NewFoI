@@ -1,4 +1,4 @@
-capital = 335 #Jakarta
+capital = 1025 #fallback: Jakarta state is not present in this map build
 
 
 set_research_slots = 2

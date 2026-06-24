@@ -1,4 +1,4 @@
-capital = 336 #Kuala Lumpur
+capital = 286 #fallback: Kuala Lumpur state is not present in this map build
 
 
 

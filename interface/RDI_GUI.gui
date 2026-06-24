@@ -31,7 +31,7 @@ guiTypes = {
 		}
 		containerWindowType = {
 			name = "power_bar"
-			position = { x = x = 100 y = 10 }
+			position = { x = 100 y = 10 }
 
 			iconType = {
 				name = "RDI_Power_Bar"

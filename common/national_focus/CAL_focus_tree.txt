@@ -17085,7 +17085,7 @@ shared_focus = {
         focus = CAL_abolishing_the_electoral_college
     }
     prerequisite = {
-        focsu = CAL_limiting_executive_oversight
+        focus = CAL_limiting_executive_oversight
     }
 	x = 0
     y = 1
