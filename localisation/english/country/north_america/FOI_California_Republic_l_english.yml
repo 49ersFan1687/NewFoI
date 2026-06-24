@@ -130,7 +130,7 @@ CAL_start.3.a: ""
  CAL_james_cordie_dozier: "James Cordie Dozier"
  CAL_john_lesesne_dewitt: "John Lesesne Dewitt"
  CAL_hayes_adlai_ashby_clarke_kroner: "Hayes Adlai Ashby Clarke Kroner"
- CAL_james_harold_doolittle: James Harold Doolittle"
+ CAL_james_harold_doolittle: "James Harold Doolittle"
  CAL_lewis_burwell_puller: "Lewis Burwell Puller"
  CAL_john_fujio_aiso: "John Fujio Aiso"
  CAL_simon_bolivar_buckner_jr: "Simon Bolivar Buckner Jr."
@@ -395,8 +395,8 @@ CAL_the_new_american_military_policeman_desc: ""
 CAL_reactivate_destroyed_divisions: "Reactivate Destroyed Divisions"
 CAL_reactivate_destroyed_divisions_desc: ""
 
-CAL_revitalized_military_medi CAL_infrastructure: "Revitalized Military-Medi CAL Infrastructure"
-CAL_revitalized_military_medi CAL_infrastructure_desc: ""
+CAL_revitalized_military_medical_infastructure: "Revitalized Military-Medical Infrastructure"
+CAL_revitalized_military_medical_infastructure_desc: ""
 
 CAL_export_canadian_equipment: "Export Canadian Equipment"
 CAL_export_canadian_equipment_desc: ""
@@ -437,8 +437,8 @@ CAL_set_the_war_plans_in_motion_desc: ""
 ####################################################################
 ### National Focuses Lo CALisation - Pre-Regional Tree - Part One ###
 ####################################################################
- CAL_beginning_the_ CALifornia_reunfication_war: "Beginning the  CALifornia Reunification War"
- CAL_beginning_the_ CALifornia_reunfication_war_desc: ""
+ CAL_beginning_the_california_reunfication_war: "Beginning the California Reunification War"
+ CAL_beginning_the_california_reunfication_war_desc: ""
 
  CAL_construct_southeastern_defensive_lines: "Construct Southeastern Defensive Lines"
  CAL_construct_southeastern_defensive_lines_desc: ""
@@ -449,8 +449,8 @@ CAL_set_the_war_plans_in_motion_desc: ""
  CAL_ultimatum_to_the_river_republic: "Ultimatum to the River Republic"
  CAL_ultimatum_to_the_river_republic_desc: ""
 
- CAL_ CALming_the_sandstorm: " CALming the Sandstorm"
- CAL_ CALming_the_sandstorm_desc: ""
+ CAL_calming_the_sandstorm: "Calming the Sandstorm"
+ CAL_calming_the_sandstorm_desc: ""
 
  CAL_crush_the_bay_area_communists: "Crush the Bay Area Communists"
  CAL_crush_the_bay_area_communists_desc: ""
@@ -521,8 +521,8 @@ CAL_set_the_war_plans_in_motion_desc: ""
  CAL_resolving_the_water_problem: "Resolving the Water Problem"
  CAL_resolving_the_water_problem_desc: ""
 
- CAL_rebuild_uc_ California: "Rebuild U.C. Berkeley"
- CAL_rebuild_uc_ California_desc: ""
+ CAL_rebuild_uc_california: "Rebuild U.C. Berkeley"
+ CAL_rebuild_uc_california_desc: ""
 
  CAL_state_highway_reconstruction: "State Highway Reconstruction"
  CAL_state_highway_reconstruction_desc: ""

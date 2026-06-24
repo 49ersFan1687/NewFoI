@@ -23,7 +23,7 @@ characters = {
         name = CAN_john_george_diefenbaker
         portraits = {
             civilian = {
-                large = 
+                large = GFX_fish
             }
         }
         country_leader = {
@@ -40,13 +40,13 @@ characters = {
         name = CAN_lester_bowles_pearson
         portraits = {
             civilian = {
-                large = 
+                large = GFX_fish
             }
         }
         country_leader = {
             desc = "POLITICS_LESTER_PEARSON_DESC"
             expire = "1994.4.20"
-            ideology = social_democratic_progressive_democracy_ideology
+            ideology = social_democracy_progressive_democracy_ideology
             traits = {
 
             }

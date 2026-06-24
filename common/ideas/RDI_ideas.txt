@@ -255,8 +255,8 @@ ideas = {
             allowed = { always = no }
             picture = GFX_fish
             modifier = {
-		        stability = 0.21
-		        consumer_goods = -0.1
+		        stability_factor = 0.21
+		        consumer_goods_factor = -0.1
 		        production_speed_buildings_factor = 0.17
             }
             equipment_bonus = {

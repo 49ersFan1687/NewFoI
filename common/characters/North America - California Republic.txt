@@ -12,7 +12,7 @@ characters = {
 		country_leader = {
 			#desc = dont' leave equal symbol empty "POLITICS_HENRY_WALLACE_DESC"
 			expire = "1994.4.20"
-			ideology = social_democratic_progressive_democracy_ideology
+			ideology = social_democracy_progressive_democracy_ideology
 			traits = {
 
 			}
@@ -70,7 +70,7 @@ characters = {
 	CAL_earl_warren = {
 		name = CAL_earl_warren
 		portraits = {
-			civillian = {
+			civilian = {
 				large = GFX_fish
 			}
 		}
@@ -91,7 +91,7 @@ characters = {
 	CAL_thomas_edmund_dewey = {
 		name = CAL_thomas_edmund_dewey
 		portraits = {
-			civillian = {
+			civilian = {
 				large = GFX_fish
 			}
 		}
@@ -112,7 +112,7 @@ characters = {
 	CAL_walter_elias_disney = {
 		name = CAL_walter_elias_disney
 		portraits = {
-			civillian = {
+			civilian = {
 				large = GFX_fish
 			}
 		}
@@ -175,7 +175,7 @@ characters = {
 	CAL_james_byron_dean = {
 		name = CAL_james_byron_dean
 		portraits = {
-			civillian = {
+			civilian = {
 				large = GFX_fish
 			}
 		}
@@ -832,7 +832,7 @@ characters = {
 			slot = air_high_command
 			cost = 100
 			idea_token = james_harold_doolittle
-			ledger = air_force
+			ledger = air
 			traits = { air_strategic_bombing_3 }
 		}
 	}
@@ -1101,7 +1101,7 @@ characters = {
 		name = CAL_daring_do
 		portraits = {
 			army = {
-				large = "gfx/leaders/CAL/Portrait_CAL_Daring_Do.dds"
+				large = GFX_fish
 			}
 		}
 		corps_commander = {
@@ -1152,7 +1152,7 @@ characters = {
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Ernest_Joseph_King.dds"
-				small = "gfx/leaders/CAL/Portrait_CAL_Ernest_Joseph_King_small.dds"
+				small = GFX_fish
 			}
 		}
 	}
@@ -1162,7 +1162,7 @@ characters = {
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Chester_William_Nimitz.dds"
-				small = "gfx/leaders/CAL/Portrait_Chester_William_Nimitz_small.dds"
+				small = GFX_fish
 			}
 		}
 
@@ -1176,7 +1176,7 @@ characters = {
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_William_Daniel_Leahy.dds"
-				small = "gfx/leaders/CAL/small/Portrait_William_Daniel_Leahy_small.dds"
+				small = GFX_fish
 			}
 		}
 	}
@@ -1186,7 +1186,7 @@ characters = {
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_William_Fredrick_Halsey_Jr.dds"
-				small = "gfx/leaders/CAL/small/Portrait_William_Fredrick_Halsey_Jr_small.dds"
+				small = GFX_fish
 			}
 		}
 	}
@@ -1219,7 +1219,7 @@ characters = {
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Issac_Campbell_Kidd_Sr.dds"
-				small = "gfx/leaders/CAL/small/Portrait_CAL_Issac_Campbell_Kidd_Sr_small.dds"
+				small = GFX_fish
 			}
 		}
 	}
@@ -1229,7 +1229,7 @@ characters = {
 		portraits = {
 			army = {
 				large = "gfx/leaders/CAL/Portrait_CAL_Felix_Budwell_Stump.dds"
-				small = "gfx/leaders/CAL/Portrait_CAL_Felix_Budwell_Stump_small.dds"
+				small = GFX_fish
 			}
 		}
 	}

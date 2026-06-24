@@ -231,8 +231,8 @@ ideas = {
              picture = GFX_fish
              modifier = {
 		consumer_goods_factor = -0.05
-		war_support = 0.05
-		stability = 0.05
+		war_support_factor = 0.05
+		stability_factor = 0.05
 		democratic_drift = 0.03
 		
             }
@@ -258,7 +258,7 @@ ideas = {
              allowed = { always = no }
              picture = GFX_fish
              modifier = {
-		stability = -0.07
+		stability_factor = -0.07
 		consumer_goods_factor = -0.09
             }
 	}

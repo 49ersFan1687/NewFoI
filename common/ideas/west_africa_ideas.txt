@@ -22,7 +22,7 @@ ideas = {
              modifier = {
 		socialism_drift = 0.03
 		stability_factor = 0.04
-		war_support_factpr = 0.08
+		war_support_factor = 0.08
                 
             }
 	}
@@ -35,7 +35,7 @@ ideas = {
              modifier = {
 		stability_factor = -0.13
 		production_factory_efficiency_gain_factor = -0.07
-		consumer_goods = 0.15
+		consumer_goods_factor = 0.15
                 
             }
 	}

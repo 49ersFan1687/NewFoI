@@ -52,7 +52,6 @@ focus_tree = {
     shared_focus = CAL_the_pacific_states_air_force
     shared_focus = CAL_the_pacific_states_navy
     shared_focus = CAL_the_pacific_states_army
-    shared_focus = CAL_begin_the_total_overhaul_of_the_psa_military
     shared_focus = CAL_the_economy_of_the_pacific_states_of_america
     shared_focus = CAL_form_the_armed_forces_diplomatic_corps
     continuous_focus_position = { x = 450 y = 200 }
@@ -72,7 +71,6 @@ focus_tree = {
     shared_focus = CAL_the_pacific_states_air_force
     shared_focus = CAL_the_pacific_states_navy
     shared_focus = CAL_the_pacific_states_army
-    shared_focus = CAL_begin_the_total_overhaul_of_the_psa_military
     shared_focus = CAL_the_economy_of_the_pacific_states_of_america
     shared_focus = CAL_achesons_department_of_state
     
@@ -1126,7 +1124,7 @@ shared_focus = {
     relative_position_id = CAL_dealing_with_the_anarchy_in_our_state
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_reform_the_federal_bureau_of_investigation"
-        add_idea = CAL_reformed_fbi
+        add_ideas = CAL_reformed_fbi
     }
 }
 
@@ -2332,7 +2330,7 @@ shared_focus = {
     relative_position_id = CAL_rebuilding_destroyed_arms_factories
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_an_army_ready_for_war"
-        add_idea = war_economy
+        add_ideas = war_economy
     }
 }
 
@@ -3223,7 +3221,7 @@ shared_focus = {
     relative_position_id = CAL_resolving_the_water_problem
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_reconstruction_1"
-        remove_idea = CAL_the_greater_depression5
+        remove_ideas = CAL_the_greater_depression5
     }
 }
 
@@ -3714,7 +3712,7 @@ shared_focus = {
         factor = 1
     }
     mutually_exclusive = {
-        focus = CAL_return_democracy_back_to_the_people
+        focus = CAL_return_of_civilian_democracy
     }
     prerequisite = {
         focus = CAL_handling_the_political_system
@@ -3972,7 +3970,7 @@ shared_focus = {
     ai_will_do = {
         factor = 1
     }
-    prerequisite_exclusive = {
+    mutually_exclusive = {
         focus = CAL_bradleys_calling
         focus = CAL_eisenhowers_triumph
         focus = CAL_pattons_cheers
@@ -4004,7 +4002,7 @@ shared_focus = {
     ai_will_do = {
         factor = 1
     }
-    prerequisite_exclusive = {
+    mutually_exclusive = {
         focus = CAL_bradleys_calling
         focus = CAL_marshalls_boys_return_to_service
         focus = CAL_pattons_cheers
@@ -4036,7 +4034,7 @@ shared_focus = {
     ai_will_do = {
         factor = 1
     }
-    prerequisite_exclusive = {
+    mutually_exclusive = {
         focus = CAL_bradleys_calling
         focus = CAL_marshalls_boys_return_to_service
         focus = CAL_eisenhowers_triumph
@@ -7629,8 +7627,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_theory_of_protracted_aerial_warfare"
         swap_ideas = {
-            old_idea = CAL_lemay_reform_plan1
-            new_idea = CAL_lemay_reform_plan2
+            remove_idea = CAL_lemay_reform_plan1
+            add_idea = CAL_lemay_reform_plan2
         }
     }
 }
@@ -9404,8 +9402,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_apply_chennaults_experience"
         swap_ideas = {
-            old_idea = CAL_chennault_reform_plan1
-            new_idea = CAL_chennault_reform_plan2
+            remove_idea = CAL_chennault_reform_plan1
+            add_idea = CAL_chennault_reform_plan2
         }
     }
 }
@@ -9446,8 +9444,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_return_to_the_p38_idea"
         swap_ideas = {
-            old_idea = CAL_arnold_reform_plan1
-            new_idea = CAL_arnold_reform_plan2
+            remove_idea = CAL_arnold_reform_plan1
+            add_idea = CAL_arnold_reform_plan2
         }
     }
 }
@@ -9488,8 +9486,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_theory_of_protracted_aerial_warfare"
         swap_ideas = {
-            old_idea = CAL_lemay_reform_plan1
-            new_idea = CAL_lemay_reform_plan2
+            remove_idea = CAL_lemay_reform_plan1
+            add_idea = CAL_lemay_reform_plan2
         }
     }
 }
@@ -9530,8 +9528,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_form_usaaf_training_academies"
         swap_ideas = {
-            old_idea = CAL_chennault_reform_plan2
-            new_idea = CAL_chennault_reform_plan3
+            remove_idea = CAL_chennault_reform_plan2
+            add_idea = CAL_chennault_reform_plan3
         }
     }
 }
@@ -9572,8 +9570,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_retired_bombers_modern_skies"
         swap_ideas = {
-            old_idea = CAL_arnold_reform_plan2
-            new_idea = CAL_arnold_reform_plan3
+            remove_idea = CAL_arnold_reform_plan2
+            add_idea = CAL_arnold_reform_plan3
         }
     }
 }
@@ -9614,8 +9612,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_institute_day_and_night_training_programs"
         swap_ideas = {
-            old_idea = CAL_lemay_reform_plan2
-            new_idea = CAL_lemay_reform_plan3
+            remove_idea = CAL_lemay_reform_plan2
+            add_idea = CAL_lemay_reform_plan3
         }
     }
 }
@@ -9640,8 +9638,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_standardize_issuing_of_two_way_radios"
         swap_ideas = {
-            old_idea = CAL_chennault_reform_plan3
-            new_idea = CAL_chennault_reform_plan4
+            remove_idea = CAL_chennault_reform_plan3
+            add_idea = CAL_chennault_reform_plan4
         }
     }
 }
@@ -9666,8 +9664,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_begin_new_aircaft_prototype_trials"
         swap_ideas = {
-            old_idea = CAL_arnold_reform_plan3
-            new_idea = CAL_arnold_reform_plan4
+            remove_idea = CAL_arnold_reform_plan3
+            add_idea = CAL_arnold_reform_plan4
         }
     }
 }
@@ -9692,8 +9690,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_begin_the_b_52_project"
         swap_ideas = {
-            old_idea = CAL_lemay_reform_plan3
-            new_idea = CAL_lemay_reform_plan4
+            remove_idea = CAL_lemay_reform_plan3
+            add_idea = CAL_lemay_reform_plan4
         }
     }
 }
@@ -9715,8 +9713,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_armys_ace_in_the_hole"
         swap_ideas = {
-            old_idea = CAL_chennault_reform_plan4
-            new_idea = CAL_chennault_reform_plan5
+            remove_idea = CAL_chennault_reform_plan4
+            add_idea = CAL_chennault_reform_plan5
         }
     }
 }
@@ -9738,8 +9736,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_the_neutral_modernizer"
         swap_ideas = {
-            old_idea = CAL_arnold_reform_plan4
-            new_idea = CAL_arnold_reform_plan5
+            remove_idea = CAL_arnold_reform_plan4
+            add_idea = CAL_arnold_reform_plan5
         }
     }
 }
@@ -9761,8 +9759,8 @@ shared_focus = {
     completion_reward = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_a_power_hungry_air_force"
         swap_ideas = {
-            old_idea = CAL_lemay_reform_plan4
-            new_idea = CAL_lemay_reform_plan5
+            remove_idea = CAL_lemay_reform_plan4
+            add_idea = CAL_lemay_reform_plan5
         }
     }
 }
@@ -9884,9 +9882,6 @@ shared_focus = {
     available_if_capitulated = no
     ai_will_do = {
         factor = 1
-    }
-    prerequisite = {
-        focus = CAL_addressing_each_military_branch
     }
     x = 45
     y = 1
@@ -10047,9 +10042,9 @@ shared_focus = {
 		focus = CAL_choosing_our_reform_plan
 	}
 	mutually_exclusive = {
-		focus = CAL_patton_army_of_the_future
-		focus = CAL_marshall_modern_minuteman
-		focus = CAL_eisenhower_return_to_form
+		focus = CAL_pattons_doctrine_army_of_the_future
+		focus = CAL_marshalls_doctrine_modern_minuteman
+		focus = CAL_eisenhowers_doctrine_return_to_form
 	}
 	x = -2
 	y = 1
@@ -12188,7 +12183,7 @@ shared_focus = {
         log = "[GetDateText]: [Root.GetName]: Focus CAL_improved_deck_operations"
         swap_ideas = {
             add_idea = CAL_nimitz_reform_plan2
-            remove_idea = CAL_nimitz_reform_plan3
+            remove_idea = CAL_nimitz_reform_plan3a
         }
     }
 }
@@ -15319,9 +15314,6 @@ shared_focus = {
     ai_will_do = {
         factor = 1
     }
-    mutually_exclusive = {
-        focus = CAL_nationalized_buisnesses
-    }
     prerequisite = {
         focus = CAL_implementing_monetary_reform
     }
@@ -17120,14 +17112,6 @@ shared_focus = {
 	}
 }
 
-#####################################################################################################
-### Focus Tree - Post-Unification: Military Democracy - Civilian Democracy - Political Focus Tree ###
-#####################################################################################################
-shared_focus = {
-    id = CAL_
-}
-
-
 ####################################################################################################
 ### Focus Tree - Post-Unification: Military Democracy - Civilian Democracy - Military Focus Tree ###
 ####################################################################################################
@@ -17240,5 +17224,6 @@ shared_focus = {
 #################################################################################
 ### Focus Tree - Post-Unification: Cavalier Faction Coup - Foreign Focus Tree ###
 #################################################################################
+
 
 

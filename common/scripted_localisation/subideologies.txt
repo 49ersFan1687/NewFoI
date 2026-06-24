@@ -303,9 +303,9 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			has_country_leader_ideology = social_democratic_progressive_democracy_ideology
+			has_country_leader_ideology = social_democracy_progressive_democracy_ideology
 		}
-		localization_key = social_democratic_progressive_democracy_ideology
+		localization_key = social_democracy_progressive_democracy_ideology
 	}
 	text = {
 		trigger = {

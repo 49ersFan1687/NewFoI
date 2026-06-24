@@ -43,10 +43,10 @@ characters = {
 		name = SDL_mikhail_nikolayevich_tukhachevsky
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SDL/Portrait_SDL_mikhail_nikolayevich_tukhachevsky"
+				large = "gfx/leaders/SDL/Portrait_SDL_mikhail_nikolayevich_tukhachevsky.dds"
 			}
 			army = {
-				large = "gfx/leaders/SDL/Portrait_SDL_mikhail_nikolayevich_tukhachevsky"
+				large = "gfx/leaders/SDL/Portrait_SDL_mikhail_nikolayevich_tukhachevsky.dds"
 			}
 		}
 		field_marshal = {
@@ -333,7 +333,7 @@ characters = {
 		name = SDL_pavel_alekseyevich_belov
 		portraits = {
 			army = {
-				large = "gfx/leaders/SDL/Portrait_SDL_Pavel_Alekseyevich_Belov"
+				large = "gfx/leaders/SDL/Portrait_SDL_Pavel_Alekseyevich_Belov.dds"
 			}
 		}
 		corps_commander = {
@@ -672,15 +672,15 @@ characters = {
 			}
 		}
 		navy_leader = {
-            desc =
+            desc = ""
             traits = {
 				
 			}
-            skill =
-            attack_skill =
-            defense_skill =
-            maneuvering_skill =
-            coordination_skill =
+            skill = 1
+            attack_skill = 1
+            defense_skill = 1
+            maneuvering_skill = 1
+            coordination_skill = 1
         }
 	}	
 }

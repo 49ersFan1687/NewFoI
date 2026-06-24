@@ -1,0 +1,12 @@
+focus_tree = {
+    id = ANR_starting_focus_tree
+    country = {
+        factor = 0
+        modifier = {
+            add = 10
+            tag = ANR
+        }
+    }
+    default = no
+    continuous_focus_position = { x = 450 y = 200 }
+}
